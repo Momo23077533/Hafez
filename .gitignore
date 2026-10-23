@@ -1,2 +1,5 @@
 venv/
 __pycache__/
+.streamlit/secrets.toml
+api_keys.txt
+*.pyc

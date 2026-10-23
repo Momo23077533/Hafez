@@ -2,5 +2,5 @@ streamlit
 rapidfuzz
 scikit-learn
 numpy
-pymupdf
 pillow
+google-genai>=1.52.0

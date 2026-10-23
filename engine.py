@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-"""محرك مطابقة أنصاف الأبيات مع ديوان حافظ وسلمان (گنجور) — بدون أي API. يستخدمه app.py."""
-import os, re, sys, json, pickle, subprocess, shutil, html as _html
+"""محرك مطابقة أنصاف الأبيات مع ديوان حافظ وسلمان (گنجور) + القراءة التلقائية بـ Gemini 3.5 Flash-Lite."""
+import os, io, re, sys, json, base64, pickle, subprocess, shutil, urllib.request, html as _html
 from collections import Counter
 
 import numpy as np
@@ -12,24 +12,73 @@ def _log(*args, **kwargs):
     try:
         print(*args, **kwargs)
     except Exception:
-        try:
-            text = " ".join(str(a) for a in args)
-            enc = getattr(sys.stdout, "encoding", None) or "utf-8"
-            sys.stdout.write(text.encode(enc, errors="replace").decode(enc, errors="replace") + "\n")
-            sys.stdout.flush()
-        except Exception:
-            pass
+        pass
 
 
-# ------------------------------------------------------------- إعدادات
+# ------------------------------------------------------------- إعدادات المطابقة
 POETS = ("hafez", "salman")
 TOP_N = 3
 MIN_SCORE, MIN_MARGIN = 72.0, 3.5
-BONUS_PER, MAX_BONUS = 2.5, 5.0          # دعم القصيدة المشتركة بين الصور
+BONUS_PER, MAX_BONUS = 2.5, 5.0
 WEAK_MARGIN, WEAK_SCORE = 3.5, 85.0
-TFIDF_WEIGHT = 0.15                      # وزن مطابقة n-gram الحرفية
-PDF_DPI = 120                            # دقة تحويل صفحات الـ PDF لصور (أعلى = أوضح وأكبر حجم)
-ALT_PENALTY = 0.98                       # القراءات البديلة وزنها أقل بقليل من القراءة الأساسية
+TFIDF_WEIGHT = 0.15
+ALT_PENALTY = 0.98
+
+# ------------------------------------------------------------- إعدادات Gemini API
+def _load_default_api_keys():
+    keys = []
+
+    env_value = os.environ.get("GEMINI_API_KEYS", "")
+    keys.extend(k.strip() for k in re.split(r"[\n,;]+", env_value) if k.strip())
+
+    try:
+        import streamlit as st
+
+        secret_value = st.secrets.get("GEMINI_API_KEYS", "")
+        if isinstance(secret_value, str):
+            keys.extend(k.strip() for k in re.split(r"[\n,;]+", secret_value) if k.strip())
+        else:
+            keys.extend(str(k).strip() for k in secret_value if str(k).strip())
+    except Exception:
+        pass
+
+    local_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "api_keys.txt")
+    try:
+        with open(local_file, encoding="utf-8") as f:
+            keys.extend(k.strip() for k in re.split(r"[\n,;]+", f.read()) if k.strip())
+    except OSError:
+        pass
+
+    unique = []
+    for key in keys:
+        if key not in unique:
+            unique.append(key)
+    return unique
+
+
+DEFAULT_API_KEYS = _load_default_api_keys()
+
+PRIMARY_MODEL = "gemini-3.5-flash-lite"
+FALLBACK_MODELS = [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash",
+    "gemini-2.5-flash",
+]
+
+JSON_STRUCTURE = '{"type":"object","properties":{"results":{"type":"array","items":{"type":"object","properties":{"page":{"type":"integer"},"text":{"type":"string"},"alternatives":{"type":"array","items":{"type":"string"}},"uncertain_words":{"type":"array","items":{"type":"string"}},"confidence":{"type":"string","enum":["high","medium","low"]}},"required":["page","text","alternatives","uncertain_words","confidence"]}}},"required":["results"]}'
+RESPONSE_SCHEMA = json.loads(JSON_STRUCTURE)
+
+DEFAULT_SYSTEM_INSTRUCTION = """You are an expert in Persian classical poetry (especially Hafez and Salman Savoji) and in reading old Nastaliq manuscript calligraphy.
+I am sending you numbered manuscript images in exact order (PAGE 1, PAGE 2, ...). Each image contains ONE hemistich (half a line) of a Persian poem in old Nastaliq script.
+RULES:
+1. Read right-to-left. Pay extra attention to the FIRST words on the right side.
+2. Transcribe only what is visibly written. Do NOT autocomplete or invent verses from memory.
+3. Nastaliq drops or shifts dots (ب/پ/ت/ث/ن/ی, ج/چ/ح/خ, ر/ز/ژ, د/ذ, س/ش, ع/غ, ف/ق, ک/گ). Use meaning, meter, and grammar to decide.
+4. Use standard Persian letters (ی ک گ چ پ ژ), not Arabic ي ك. No diacritics or punctuation.
+5. Put your best full-hemistich reading in "text", and other plausible full-hemistich readings in "alternatives".
+6. Process EVERY page in exact order (1 to N). Do not skip, merge, or reorder pages.
+Return ONLY a valid JSON object with the "results" array matching the schema."""
 
 # ------------------------------------------------------------- معالجة النصوص
 _DIAC = re.compile(r"[\u0610-\u061a\u064B-\u0670\u065F\u06D6-\u06ED\u0640]")
@@ -39,8 +88,7 @@ _AR_NORM_MAP = str.maketrans({
     "ک": "ك", "ڪ": "ك", "گ": "ك", "ڭ": "ك",
     "ی": "ي", "ے": "ي", "ې": "ي", "ۍ": "ي", "ۓ": "ي", "ى": "ي", "ئ": "ي",
     "ہ": "ه", "ھ": "ه", "ۀ": "ه", "ۂ": "ه", "ة": "ه", "ۃ": "ه",
-    "أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا",
-    "ؤ": "و",
+    "أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "ؤ": "و",
     "پ": "ب", "چ": "ج", "ژ": "ز", "ڤ": "ف", "ڨ": "ف",
 })
 _RASM = {
@@ -51,6 +99,7 @@ _RASM = {
     "أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "ؤ": "و",
 }
 
+
 def clean(text):
     t = _DIAC.sub("", text or "")
     t = t.replace("ي", "ی").replace("ى", "ی").replace("ك", "ک").replace("ۀ", "ه").replace("ة", "ه")
@@ -59,15 +108,18 @@ def clean(text):
     t = _JUNK.sub(" ", t)
     return re.sub(r"\s+", " ", t).strip()
 
+
 def ar_norm(text):
-    """توحيد الحروف الفارسية والعربية لتسهيل البحث المباشر بالكيبورد العربي أو الفارسي."""
     return clean(text).translate(_AR_NORM_MAP)
+
 
 def rasm(text):
     return "".join(_RASM.get(c, c) for c in clean(text))
 
+
 def rasm_nospace(text):
     return rasm(text).replace(" ", "")
+
 
 # ------------------------------------------------------------- فهرس گنجور
 def _run_git(args):
@@ -76,40 +128,41 @@ def _run_git(args):
         detail = (r.stderr or r.stdout or "").strip()[-700:]
         raise RuntimeError(f"أمر git فشل ({' '.join(args[:2])}):\n{detail}")
 
+
 def _rmtree(path):
-    """حذف مجلد حتى لو فيه ملفات read-only (مشكلة .git على Windows)."""
     import stat
     def onerr(func, p, exc):
         os.chmod(p, stat.S_IWRITE)
         func(p)
     shutil.rmtree(path, onerror=onerr)
 
+
 def fetch_ganjoor(dest="ganjoor-data", poets=POETS):
-    ready = all(os.path.isdir(os.path.join(dest, "poets", p)) for p in poets)
-    if ready:
+    if all(os.path.isdir(os.path.join(dest, "poets", p)) for p in poets):
         return dest
     if shutil.which("git") is None:
-        raise RuntimeError("برنامج Git مش متثبت. نزّله من https://git-scm.com/download/win "
-                           "وثبّته (Next لحد الآخر) وبعدين شغّل البرنامج تاني.")
+        raise RuntimeError("برنامج Git مش متثبت. نزّله من https://git-scm.com/download/win")
     _log("⏳ سحب نصوص گنجور...")
     if os.path.exists(dest):
-        _rmtree(dest)                                   # بقايا محاولة فاشلة قبل كده
+        _rmtree(dest)
     _run_git(["clone", "--depth", "1", "--filter=blob:none", "--sparse",
               "https://github.com/ganjoor/ganjoor-data.git", dest])
-    # ملاحظة: في وضع cone ملفات الجذر (زي manifest.json) بتتسحب تلقائياً، وإدخالها هنا بيعمل خطأ في Git الحديث
     _run_git(["-C", dest, "sparse-checkout", "set", *[f"poets/{p}" for p in poets]])
     _run_git(["-C", dest, "checkout"])
     return dest
 
+
 def _poem_number(title, fallback):
     m = re.search(r"\d+", title.translate(_DIGITS))
     return int(m.group()) if m else fallback
+
 
 def _hemistich_label(pos):
     p = str(pos).strip().lower()
     if p in ("right", "0"): return "المصراع الأول"
     if p in ("left", "1"): return "المصراع الثاني"
     return "—"
+
 
 class Index:
     def __init__(self):
@@ -132,10 +185,10 @@ class Index:
         self.rasm_list = [e["rasm"] for e in self.entries]
         self.rasm_ns_list = [e["rasm_ns"] for e in self.entries]
         self.head_ns_list = [e["head_ns"] for e in self.entries]
-        # فهرس n-gram حرفي (2-4) على الرسم بدون مسافات — بيلقط التشابه حتى لو كلمة اتقرأت غلط
         self.tfidf = TfidfVectorizer(analyzer="char", ngram_range=(2, 4), sublinear_tf=True)
         self.tfidf_mat = self.tfidf.fit_transform(self.rasm_ns_list)
         return self
+
 
 def build_index(ganjoor_dir="ganjoor-data", poets=POETS):
     idx = Index()
@@ -170,10 +223,11 @@ def build_index(ganjoor_dir="ganjoor-data", poets=POETS):
                                   "hemistich": _hemistich_label(v.get("Position", "")), "url": url})
     return idx.finalize()
 
-idx = None   # بيتملي من load_index()
+
+idx = None
+
 
 def _ensure_manual_index(target_idx):
-    """تجهيز قوائم البحث المباشر السريع (بالعربي والفارسي والرسم) في الذاكرة بدون إعادة بناء الكاش."""
     if getattr(target_idx, "ar_list", None) is not None:
         return target_idx
     target_idx.ar_list = [e["clean"].translate(_AR_NORM_MAP) for e in target_idx.entries]
@@ -182,8 +236,8 @@ def _ensure_manual_index(target_idx):
     target_idx.rasm_words_list = [set(s.split()) for s in target_idx.rasm_list]
     return target_idx
 
+
 def load_index(data_dir="ganjoor-data", cache="index_cache.pkl", log=_log):
-    """يحمّل الفهرس من الكاش لو موجود (ثواني)، وإلا يسحب گنجور ويبنيه (أول مرة بس)."""
     global idx
     if idx is not None:
         return _ensure_manual_index(idx)
@@ -197,7 +251,7 @@ def load_index(data_dir="ganjoor-data", cache="index_cache.pkl", log=_log):
                 return idx
         except Exception:
             pass
-    log("⏳ أول تشغيل: بيحمّل نصوص گنجور ويبني الفهرس (دقيقة أو اتنين، مرة واحدة بس)...")
+    log("⏳ أول تشغيل: بيحمّل نصوص گنجور ويبني الفهرس...")
     fetch_ganjoor(data_dir)
     idx = _ensure_manual_index(build_index(data_dir))
     with open(cache, "wb") as f:
@@ -205,9 +259,9 @@ def load_index(data_dir="ganjoor-data", cache="index_cache.pkl", log=_log):
     log(f"✅ تم بناء الفهرس: {len(idx.entries)} مصراع")
     return idx
 
+
 # ------------------------------------------------------------- محرك البحث
 def score_vector(raw_query):
-    """سكور لكل مصراع في الفهرس (0-100) لقراءة واحدة."""
     q = clean(raw_query)
     n = len(idx.entries)
     if not q:
@@ -231,14 +285,15 @@ def score_vector(raw_query):
     cos = (idx.tfidf_mat @ idx.tfidf.transform([q_ns]).T).toarray().ravel() * 100
     return (1 - TFIDF_WEIGHT) * fuzzy + TFIDF_WEIGHT * cos
 
+
 def search(readings, top_k=20):
-    """readings = [القراءة الأساسية, بدائل...] — ناخد أعلى سكور لكل مصراع عبر كل القراءات."""
     vecs = [score_vector(r) * (1.0 if i == 0 else ALT_PENALTY) for i, r in enumerate(readings) if clean(r)]
     if not vecs:
         return []
     s = np.max(vecs, axis=0)
     order = s.argsort()[::-1][:top_k]
     return [{"score": float(s[i]), "entry": idx.entries[i]} for i in order]
+
 
 def top_distinct(results, n=TOP_N, dup_ratio=90):
     groups = []
@@ -252,16 +307,8 @@ def top_distinct(results, n=TOP_N, dup_ratio=90):
                 groups.append({**r, "extra": [], "bonus": 0.0, "support": []})
     return groups
 
+
 def manual_search(raw_query, top_n=TOP_N, max_exact=50):
-    """
-    بحث مباشر ومرن في كل الداتا (حافظ وسلمان):
-    يدعم البحث بحرف، أو كلمة، أو جزء من كلمة، أو عدة كلمات متفرقة/متتالية، أو مصراع كامل
-    سواء بالحروف العربية أو الفارسية أو بدون نقط (رسم الخط).
-    يرجع:
-      - tops: أقرب 3 تطابقات (الأقرب + البدائل)
-      - exact_matches: الأبيات المتطابقة في الداتا
-      - total_exact: إجمالي عدد الأبيات المتطابقة في الداتا
-    """
     _ensure_manual_index(idx)
     q_clean = clean(raw_query)
     if not q_clean:
@@ -282,40 +329,36 @@ def manual_search(raw_query, top_n=TOP_N, max_exact=50):
         e_ar = idx.ar_list[i]
         e_ar_ns = idx.ar_ns_list[i]
         e_ar_words = idx.ar_words_list[i]
-        e_len = max(len(e_ar_ns), 1)
-        cov = min(1.0, len(q_ar_ns) / e_len)
+        cov = min(1.0, len(q_ar_ns) / max(len(e_ar_ns), 1))
 
-        # 1) تطابق تام للمصراع أو تطابق كامل للكلمات بالحروف
         if q_ar_ns == e_ar_ns:
             direct_scores[i] = 100.0
             match_types[i] = "تطابق تام"
         elif q_ar in e_ar and all(w in e_ar_words for w in q_ar_words):
-            start_bonus = 1.5 if e_ar_ns.startswith(q_ar_ns) else 0.0
-            direct_scores[i] = min(99.5, 95.5 + 2.5 * cov + start_bonus)
+            start_b = 1.5 if e_ar_ns.startswith(q_ar_ns) else 0.0
+            direct_scores[i] = min(99.5, 95.5 + 2.5 * cov + start_b)
             match_types[i] = "تطابق مباشر بالكلمات"
         elif all(w in e_ar_words for w in q_ar_words):
-            start_bonus = 1.0 if e_ar_ns.startswith(q_ar_words[0]) else 0.0
-            direct_scores[i] = min(96.0, 92.5 + 2.5 * cov + start_bonus)
+            start_b = 1.0 if e_ar_ns.startswith(q_ar_words[0]) else 0.0
+            direct_scores[i] = min(96.0, 92.5 + 2.5 * cov + start_b)
             match_types[i] = "تطابق بالكلمات"
         elif q_ar_ns in e_ar_ns or all(w in e_ar for w in q_ar_words):
-            start_bonus = 1.5 if e_ar_ns.startswith(q_ar_ns) else 0.0
-            direct_scores[i] = min(93.5, 88.5 + 3.0 * cov + start_bonus)
+            start_b = 1.5 if e_ar_ns.startswith(q_ar_ns) else 0.0
+            direct_scores[i] = min(93.5, 88.5 + 3.0 * cov + start_b)
             match_types[i] = "تطابق جزئي بالنص"
         elif len(q_rasm_ns) >= 2:
-            # 2) تطابق على مستوى رسم الخط (بدون نقط — مفيد جداً لقراءة المخطوطات)
             e_rasm = idx.rasm_list[i]
             e_rasm_ns = idx.rasm_ns_list[i]
             e_rasm_words = idx.rasm_words_list[i]
             if all(w in e_rasm_words for w in q_rasm_words):
-                start_bonus = 1.0 if e_rasm_ns.startswith(q_rasm_words[0]) else 0.0
-                direct_scores[i] = min(88.0, 84.0 + 2.5 * cov + start_bonus)
+                start_b = 1.0 if e_rasm_ns.startswith(q_rasm_words[0]) else 0.0
+                direct_scores[i] = min(88.0, 84.0 + 2.5 * cov + start_b)
                 match_types[i] = "تطابق برسم الخط (بدون نقط)"
             elif q_rasm_ns in e_rasm_ns or all(w in e_rasm for w in q_rasm_words):
-                start_bonus = 1.0 if e_rasm_ns.startswith(q_rasm_ns) else 0.0
-                direct_scores[i] = min(84.5, 80.0 + 2.5 * cov + start_bonus)
+                start_b = 1.0 if e_rasm_ns.startswith(q_rasm_ns) else 0.0
+                direct_scores[i] = min(84.5, 80.0 + 2.5 * cov + start_b)
                 match_types[i] = "تطابق جزئي برسم الخط"
 
-    # حساب السكور التقريبي (Fuzzy + TF-IDF) عشان دايماً نطلع أقرب 3 حتى لو فيه خطأ إملائي
     if len(q_ar_ns) >= 2:
         cd = lambda a, L, sc: process.cdist([a], L, scorer=sc, workers=-1)[0]
         base_vec = score_vector(raw_query)
@@ -323,106 +366,253 @@ def manual_search(raw_query, top_n=TOP_N, max_exact=50):
         ar_ts = cd(q_ar, idx.ar_list, fuzz.token_set_ratio)
         rasm_part = cd(q_rasm_ns, idx.rasm_ns_list, fuzz.partial_ratio)
         rasm_ts = cd(q_rasm, idx.rasm_list, fuzz.token_set_ratio)
-
         if len(q_ar_words) <= 2 and len(q_ar_ns) <= 12:
-            # لو المستخدم كاتب كلمة واحدة أو كلمتين (أو كام حرف) في أي مكان في البيت
-            short_fuzzy = 0.40 * ar_ts + 0.30 * ar_part + 0.15 * rasm_ts + 0.15 * rasm_part
-            fuzzy_scores = np.maximum(base_vec, short_fuzzy * 0.92)
+            short_f = 0.40 * ar_ts + 0.30 * ar_part + 0.15 * rasm_ts + 0.15 * rasm_part
+            fuzzy_scores = np.maximum(base_vec, short_f * 0.92)
         else:
-            mid_fuzzy = 0.35 * ar_ts + 0.25 * ar_part + 0.25 * rasm_ts + 0.15 * rasm_part
-            fuzzy_scores = np.maximum(base_vec, mid_fuzzy * 0.95)
+            mid_f = 0.35 * ar_ts + 0.25 * ar_part + 0.25 * rasm_ts + 0.15 * rasm_part
+            fuzzy_scores = np.maximum(base_vec, mid_f * 0.95)
     else:
         fuzzy_scores = direct_scores.copy()
 
     combined_scores = np.maximum(direct_scores, fuzzy_scores)
-
-    # ترتيب كل النتائج لأقرب 3
     top_indices = combined_scores.argsort()[::-1][:max(30, top_n * 6)]
-    raw_top_results = [
-        {
-            "score": float(combined_scores[i]),
-            "entry": idx.entries[i],
-            "match_type": match_types[i] or "تطابق تقريبي",
-        }
-        for i in top_indices
-        if combined_scores[i] > 0
+    raw_top = [
+        {"score": float(combined_scores[i]), "entry": idx.entries[i], "match_type": match_types[i] or "تطابق تقريبي"}
+        for i in top_indices if combined_scores[i] > 0
     ]
-    tops = top_distinct(raw_top_results, n=top_n)
+    tops = top_distinct(raw_top, n=top_n)
 
-    # جمع كل الأبيات المتطابقة فعلياً في الداتا
     exact_indices = np.where(direct_scores >= 80.0)[0]
     exact_order = exact_indices[np.argsort(direct_scores[exact_indices])[::-1]]
-    total_exact = int(len(exact_order))
-
     exact_raw = [
-        {
-            "score": float(direct_scores[i]),
-            "entry": idx.entries[i],
-            "match_type": match_types[i],
-        }
+        {"score": float(direct_scores[i]), "entry": idx.entries[i], "match_type": match_types[i]}
         for i in exact_order[:max_exact * 2]
     ]
-    exact_matches = top_distinct(exact_raw, n=max_exact)
-
     return {
         "query": raw_query,
         "tops": tops,
-        "exact_matches": exact_matches,
-        "total_exact": total_exact,
+        "exact_matches": top_distinct(exact_raw, n=max_exact),
+        "total_exact": int(len(exact_order)),
     }
 
-# ------------------------------------------------------------- PDF -> صور (صفحة = صورة)
-def _autocrop(path, pad=8, white_thresh=245):
-    """يقص الفراغ الأبيض حوالين الصورة (صفحة A4 فيها المصراع في النص) ويحفظ فوق نفس الملف."""
-    try:
-        from PIL import Image
-        im = Image.open(path).convert("RGB")
-        mask = im.convert("L").point(lambda x: 255 if x < white_thresh else 0)
-        box = mask.getbbox()
-        if not box:
-            return
-        l, t, r, b = box
-        box = (max(0, l - pad), max(0, t - pad), min(im.width, r + pad), min(im.height, b + pad))
-        im.crop(box).save(path, quality=90)
-    except Exception as e:
-        _log("⚠️ تعذر قص الصورة:", e)
 
-def pdf_to_images(pdf_path, out_dir="pdf_pages", dpi=PDF_DPI):
-    """يحوّل كل صفحة في الـ PDF لصورة JPEG بترقيم page_001.jpg ... بنفس ترتيب الصفحات."""
-    import fitz  # PyMuPDF
+# ------------------------------------------------------------- تجهيز الصور بدون أي قص
+def prepare_uploaded_images(saved_files, out_dir="prepared_images"):
+    """
+    يحفظ الصور المرفوعة كما هي بالظبط (بدون أي قص أو اقتطاع) بنفس ترتيب رفعها،
+    ويرجع مسارات الصور وأسماءها الأصلية.
+    """
+    from PIL import Image
     os.makedirs(out_dir, exist_ok=True)
-    doc = fitz.open(pdf_path)
-    paths = []
-    for i, page in enumerate(doc, 1):
-        pix = page.get_pixmap(dpi=dpi)
-        out = os.path.join(out_dir, f"page_{i:03d}.jpg")
-        pix.save(out, jpg_quality=90)
-        _autocrop(out)                       # قص الهوامش البيضاء حوالين المصراع
-        paths.append(out)
-    _log(f"📄 {os.path.basename(pdf_path)}: {len(paths)} صفحة اتحولت لصور")
-    return paths
+    paths, orig_names = [], []
+    for idx_num, src_path in enumerate(saved_files, 1):
+        base_name = os.path.basename(src_path)
+        dst = os.path.join(out_dir, f"img_{idx_num:03d}.jpg")
+        im = Image.open(src_path).convert("RGB")
+        im.save(dst, format="JPEG", quality=95)
+        paths.append(dst)
+        orig_names.append(base_name)
+    return paths, orig_names
 
-# ------------------------------------------------------------- قراءة JSON
-def _norm(s):
-    return re.sub(r"[^0-9a-z]", "", s.lower())
 
-def _find_image(file_hint, number, image_paths):
+def _stamp_image_for_api(img_path, page_num):
+    """
+    يضيف شريط ترقيم أعلى الصورة في الذاكرة فقط للـ API (PAGE 1, PAGE 2...)
+    بدون قص أو تغطية أي بكسل من الصورة الأصلية، لضمان ترتيب النتائج 100%.
+    """
+    from PIL import Image, ImageDraw
+    im = Image.open(img_path).convert("RGB")
+    max_dim = 1600
+    if max(im.width, im.height) > max_dim:
+        scale = max_dim / float(max(im.width, im.height))
+        im = im.resize((max(1, int(im.width * scale)), max(1, int(im.height * scale))), Image.LANCZOS)
+
+    banner_h = 34
+    new_w = max(im.width, 240)
+    canvas = Image.new("RGB", (new_w, im.height + banner_h), (255, 255, 255))
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle([(0, 0), (new_w, banner_h - 2)], fill=(30, 107, 87))
+    label = f"PAGE {page_num}"
+    draw.text((12, 9), label, fill=(255, 255, 255))
+    draw.text((new_w // 2 - 24, 9), label, fill=(255, 255, 255))
+
+    canvas.paste(im, ((new_w - im.width) // 2, banner_h))
+    buf = io.BytesIO()
+    canvas.save(buf, format="JPEG", quality=92)
+    return buf.getvalue()
+
+
+# ------------------------------------------------------------- الاتصال بـ Gemini API
+_KEY_MODE_CACHE = {}
+
+
+def _get_system_instruction(prompt_path="prompt.txt"):
+    if prompt_path and os.path.exists(prompt_path):
+        try:
+            with open(prompt_path, encoding="utf-8") as f:
+                txt = f.read().strip()
+            if txt:
+                return txt
+        except Exception:
+            pass
+    return DEFAULT_SYSTEM_INSTRUCTION
+
+
+def _call_gemini_sdk(api_key, model_name, batch_items, system_instruction, use_vertex=False):
+    from google import genai
+    from google.genai import types
+
+    client = genai.Client(vertexai=True, api_key=api_key) if use_vertex else genai.Client(api_key=api_key)
+    contents = []
+    for page_num, img_bytes in batch_items:
+        contents.append(f"=== PAGE {page_num} ===")
+        contents.append(types.Part.from_bytes(data=img_bytes, mime_type="image/jpeg"))
+
+    first_p, last_p = batch_items[0][0], batch_items[-1][0]
+    contents.append(
+        f"Read all {len(batch_items)} images above in exact order from page {first_p} to page {last_p}. "
+        f"Return the JSON object with 'results' where each item has its exact 'page' number ({first_p}..{last_p})."
+    )
+
+    t_cfg = (
+        types.ThinkingConfig(thinking_budget=8192)
+        if model_name.startswith("gemini-2.5")
+        else types.ThinkingConfig(thinking_level="high")
+    )
+
+    config = types.GenerateContentConfig(
+        system_instruction=system_instruction,
+        response_mime_type="application/json",
+        response_schema=RESPONSE_SCHEMA,
+        thinking_config=t_cfg,
+    )
+
+    resp = client.models.generate_content(model=model_name, contents=contents, config=config)
+    if resp and resp.text:
+        return resp.text
+    raise RuntimeError("النموذج رجّع رد فاضي.")
+
+
+def _call_gemini_rest(api_key, model_name, batch_items, system_instruction, use_vertex=False):
+    parts = []
+    for page_num, img_bytes in batch_items:
+        parts.append({"text": f"=== PAGE {page_num} ==="})
+        parts.append({
+            "inlineData": {
+                "mimeType": "image/jpeg",
+                "data": base64.b64encode(img_bytes).decode("ascii"),
+            }
+        })
+
+    first_p, last_p = batch_items[0][0], batch_items[-1][0]
+    parts.append({
+        "text": (
+            f"Read all {len(batch_items)} images above in exact order from page {first_p} to page {last_p}. "
+            f"Return the JSON object with 'results' where each item has its exact 'page' number ({first_p}..{last_p})."
+        )
+    })
+
+    thinking_cfg = {"thinkingBudget": 8192} if model_name.startswith("gemini-2.5") else {"thinkingLevel": "HIGH"}
+    payload = {
+        "systemInstruction": {"parts": [{"text": system_instruction}]},
+        "contents": [{"role": "user", "parts": parts}],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseSchema": RESPONSE_SCHEMA,
+            "thinkingConfig": thinking_cfg,
+        },
+    }
+
+    url = (
+        f"https://aiplatform.googleapis.com/v1beta1/publishers/google/models/{model_name}:generateContent"
+        if use_vertex
+        else f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent"
+    )
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json", "x-goog-api-key": api_key},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=180) as resp:
+        body = json.loads(resp.read().decode("utf-8"))
+
+    candidates = body.get("candidates") or []
+    if not candidates:
+        raise RuntimeError(f"لا توجد نتائج: {body}")
+    for part in candidates[0].get("content", {}).get("parts") or []:
+        if not part.get("thought") and part.get("text"):
+            return part["text"]
+    raise RuntimeError("لم يتم العثور على نص JSON في رد النموذج.")
+
+
+def _invoke_single_batch(batch_items, api_keys, system_instruction):
+    last_err = None
+    for model_name in FALLBACK_MODELS:
+        for key_idx, key in enumerate(api_keys, 1):
+            if key in _KEY_MODE_CACHE:
+                modes = [_KEY_MODE_CACHE[key]]
+            else:
+                modes = [True, False] if key.startswith("AQ.") else [False, True]
+            for use_vertex in modes:
+                try:
+                    _log(f"🤖 قراءة عبر {model_name} (مفتاح #{key_idx})...")
+                    try:
+                        raw_json = _call_gemini_sdk(key, model_name, batch_items, system_instruction, use_vertex=use_vertex)
+                    except ImportError:
+                        raw_json = _call_gemini_rest(key, model_name, batch_items, system_instruction, use_vertex=use_vertex)
+                    _KEY_MODE_CACHE[key] = use_vertex
+                    return raw_json
+                except Exception as e:
+                    last_err = e
+                    err_str = str(e)
+                    _log(f"⚠️ محاولة غير ناجحة ({model_name} / مفتاح #{key_idx}): {err_str[:160]}")
+                    if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str.upper():
+                        break
+                    continue
+    raise RuntimeError(f"تعذر قراءة الصور عبر مفاتيح الـ API. آخر خطأ: {last_err}")
+
+
+def read_images_with_gemini(image_paths, api_keys=None, prompt_path="prompt.txt", batch_size=15, progress_cb=None):
+    """يبعت الصور المرقمة لـ Gemini 3.5 Flash-Lite (Thinking: High) ويرجع JSON مترتب."""
     if not image_paths:
-        return None
-    hint = _norm(file_hint)
-    if hint:
-        for p in image_paths:
-            nb = _norm(os.path.basename(p))
-            if nb == hint or hint in nb or nb in hint:
-                return p
-    if number and 1 <= number <= len(image_paths):
-        return image_paths[number - 1]
-    return None
+        raise ValueError("لا توجد صور لقراءتها.")
 
-_WRAP_KEYS = ("response", "result", "results", "output", "images", "items", "data", "pages", "readings", "content", "text")
+    keys = []
+    if api_keys:
+        if isinstance(api_keys, str):
+            keys.extend([k.strip() for k in api_keys.splitlines() if k.strip()])
+        else:
+            keys.extend([str(k).strip() for k in api_keys if str(k).strip()])
+    for k in DEFAULT_API_KEYS:
+        if k not in keys:
+            keys.append(k)
+
+    system_instruction = _get_system_instruction(prompt_path)
+    stamped_all = [(i, _stamp_image_for_api(p, i)) for i, p in enumerate(image_paths, 1)]
+
+    all_results = []
+    total_batches = (len(stamped_all) + batch_size - 1) // batch_size
+
+    for b_idx in range(total_batches):
+        batch = stamped_all[b_idx * batch_size : (b_idx + 1) * batch_size]
+        if progress_cb:
+            progress_cb(b_idx + 1, total_batches, batch[0][0], batch[-1][0])
+        raw_batch_json = _invoke_single_batch(batch, keys, system_instruction)
+        parsed = json.loads(re.sub(r"^```(?:json)?|```$", "", raw_batch_json.strip(), flags=re.M).strip())
+        batch_list = _unwrap(parsed)
+        if isinstance(batch_list, list):
+            all_results.extend(batch_list)
+
+    return json.dumps({"results": all_results}, ensure_ascii=False, indent=2)
+
+
+# ------------------------------------------------------------- قراءة JSON وربطه بالصور
+_WRAP_KEYS = ("results", "response", "result", "output", "images", "items", "data", "pages", "readings", "content", "text")
+
 
 def _unwrap(data, depth=0):
-    """يفك أي تغليف: نص JSON جوه نص، أو قاموس زي {"response": "[...]"} أو {"results": [...]}."""
     if depth > 5:
         return data
     if isinstance(data, str):
@@ -443,46 +633,85 @@ def _unwrap(data, depth=0):
                     return inner
     return data
 
-def load_readings(json_path, image_paths=()):
-    return parse_readings(open(json_path, encoding="utf-8").read(), image_paths)
 
-def parse_readings(raw, image_paths=()):
-    raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.M).strip()   # لو Gemini لفّه في ```
-    m = re.search(r"[\[{]", raw)                                              # تجاهل أي كلام قبل أول [ أو {
+def parse_readings(raw, image_paths=(), orig_names=()):
+    """يربط كل قراءة بالصورة المقابلة لها برقم الـ page والترتيب بدقة 100%."""
+    raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.M).strip()
+    m = re.search(r"[\[{]", raw)
     if m:
         raw = raw[m.start():]
     try:
         data = json.loads(raw)
     except json.JSONDecodeError as e:
-        raise ValueError(f"الـ JSON فيه خطأ (سطر {e.lineno}، عمود {e.colno}): {e.msg}. "
-                         "اتأكد إنك نسخته كله من Gemini.")
+        raise ValueError(f"الـ JSON فيه خطأ (سطر {e.lineno}، عمود {e.colno}): {e.msg}.")
+
     data = _unwrap(data)
     if isinstance(data, dict):
         data = [{"file": k, "text": v} for k, v in data.items()]
-    items = []
+    if not isinstance(data, list):
+        raise ValueError("صيغة الـ JSON غير متوقعة.")
+
+    image_paths = list(image_paths)
+    orig_names = list(orig_names)
+
+    by_page = {}
+    unassigned = []
     for n, d in enumerate(data, 1):
         if isinstance(d, str):
-            d = {"text": d}
-        number = d.get("page") or d.get("index") or d.get("order") or n
-        try: number = int(number)
-        except Exception: number = n
+            d = {"text": d, "page": n}
+        p_num = d.get("page") or d.get("index") or d.get("order")
+        try:
+            p_num = int(p_num)
+        except Exception:
+            p_num = None
+        if p_num is not None and p_num not in by_page:
+            by_page[p_num] = d
+        else:
+            unassigned.append(d)
+
+    total_count = len(image_paths) if image_paths else max(len(data), max(by_page.keys(), default=0))
+    items = []
+
+    for page_num in range(1, total_count + 1):
+        d = by_page.get(page_num)
+        if d is None and unassigned:
+            d = unassigned.pop(0)
+        if d is None:
+            d = {"page": page_num, "text": "", "alternatives": [], "uncertain_words": [], "confidence": "low"}
+
         file_hint = str(d.get("file") or d.get("filename") or d.get("name") or "")
+        display_name = (
+            orig_names[page_num - 1]
+            if page_num <= len(orig_names) and orig_names[page_num - 1]
+            else (file_hint or f"image_{page_num}")
+        )
+        img_path = image_paths[page_num - 1] if page_num <= len(image_paths) else None
+
         alts = d.get("alternatives") or d.get("alts") or []
-        if isinstance(alts, str): alts = [alts]
+        if isinstance(alts, str):
+            alts = [alts]
+        uncertain = d.get("uncertain_words") or []
+        if isinstance(uncertain, str):
+            uncertain = [uncertain]
+
         items.append({
-            "number": number,
-            "name": file_hint or f"image_{number}",
-            "path": _find_image(file_hint, number, list(image_paths)),
+            "number": page_num,
+            "name": display_name,
+            "path": img_path,
             "reading": str(d.get("text") or d.get("reading") or "").strip(),
             "alts": [str(a).strip() for a in alts if str(a).strip()],
             "confidence": str(d.get("confidence") or "").lower(),
-            "uncertain": d.get("uncertain_words") or [],
+            "uncertain": [str(u).strip() for u in uncertain if str(u).strip()],
             "notes": [],
         })
+
     return items
 
+
 # ------------------------------------------------------------- التحليل
-def _adj(g): return g["score"] + g["bonus"]
+def _adj(g):
+    return g["score"] + g["bonus"]
+
 
 def _status(tops):
     if not tops:
@@ -490,8 +719,10 @@ def _status(tops):
     margin = _adj(tops[0]) - (_adj(tops[1]) if len(tops) > 1 else 0.0)
     return ("AUTO" if _adj(tops[0]) >= MIN_SCORE and margin >= MIN_MARGIN else "REVIEW"), margin
 
+
 def _poem_keys(g):
     return {(r["poet"], r["poem_title"]) for r in g["entry"]["refs"] + g["extra"]}
+
 
 def analyze(items):
     for it in items:
@@ -499,7 +730,6 @@ def analyze(items):
         it["tops"] = top_distinct(search(qs)) if qs else []
         it["status"], it["margin"] = _status(it["tops"])
 
-    # دعم القصيدة المشتركة
     auto = {i: _poem_keys(it["tops"][0]) for i, it in enumerate(items) if it["status"] == "AUTO"}
     for i, it in enumerate(items):
         for g in it["tops"]:
@@ -514,41 +744,43 @@ def analyze(items):
     for it in items:
         if it["status"] == "REVIEW" and it["margin"] < WEAK_MARGIN and _adj(it["tops"][0]) < WEAK_SCORE:
             it["status"] = "WEAK"
-            it["notes"].append("🔴 قراءة غير موثوقة: المرشحات ضعيفة ومتقاربة، غالباً القراءة نفسها غلط. "
-                               "اطلب من Gemini يعيد قراءة الصورة دي أو اكتبها يدوياً.")
+            it["notes"].append("🔴 قراءة غير موثوقة: المرشحات ضعيفة ومتقاربة، راجع الصورة أو استخدم البحث اليدوي.")
         if it["confidence"] in ("low", "منخفض") and it["status"] == "AUTO":
             it["status"] = "REVIEW"
-            it["notes"].append("🟡 Gemini نفسه قال إن ثقته منخفضة في القراءة — راجع الصورة.")
+            it["notes"].append("🟡 ثقة النموذج في وضوح الخط منخفضة — راجع الصورة.")
         if it["uncertain"]:
-            it["notes"].append("❓ كلمات غير مؤكدة حسب Gemini: " + "، ".join(map(str, it["uncertain"])))
+            it["notes"].append("❓ كلمات غير واضحة في الصورة: " + "، ".join(map(str, it["uncertain"])))
     return items
+
 
 # ------------------------------------------------------------- التقرير HTML
 BADGE = {"AUTO": ("🟢 مؤكد", "#17703a"), "REVIEW": ("🟡 يحتاج مراجعة", "#8a5a00"),
          "WEAK": ("🔴 قراءة غير موثوقة", "#b3261e"), "NO_MATCH": ("🔴 لا يوجد تطابق", "#b3261e")}
 
+
 def _where(r):
     return f"{r['poet']} · {r['poem_title']} · البيت {r['beyt_no']} ({r['hemistich']})"
+
 
 def _mime(path):
     e = os.path.splitext(path)[1].lower().strip(".")
     return "jpeg" if e in ("jpg", "jpeg") else e
 
+
 def _img_src(path):
-    import base64
     return f"data:image/{_mime(path)};base64," + base64.b64encode(open(path, "rb").read()).decode()
+
 
 FONT_LINK = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
              '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-             '<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800'
-             '&family=Noto+Naskh+Arabic:wght@400;500;600;700'
-             '&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap" rel="stylesheet">')
-FONT_STACK = "'Vazirmatn','Noto Naskh Arabic','Segoe UI',Tahoma,Arial,sans-serif"
-POEM_STACK = "'Noto Nastaliq Urdu','Vazirmatn','Noto Naskh Arabic',Georgia,serif"
+             '<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;700;800'
+             '&family=Noto+Naskh+Arabic:wght@400;600;700'
+             '&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">')
+FONT_STACK = "'Vazirmatn','Noto Naskh Arabic','Segoe UI',Tahoma,sans-serif"
+POEM_STACK = "'Noto Nastaliq Urdu','Vazirmatn','Noto Naskh Arabic',serif"
 
 
 def _couplet_pair(couplet, matched=None):
-    """يرجع المصراعين الفعليين للبيت حتى لو الكاش فيه سطر عنوان قبله."""
     if not couplet:
         return []
     if len(couplet) > 2:
@@ -559,99 +791,46 @@ def _couplet_pair(couplet, matched=None):
 
 
 def beyt_html(couplet, matched=None):
-    """البيت كامل: المصراعين جنب بعض (الأول يمين والتاني شمال)، والمصراع المطابق متظلّل."""
     esc = _html.escape
     pair = _couplet_pair(couplet, matched)
     if len(pair) < 2:
         return ""
     mc = clean(matched or "")
-    parts = []
-    for t in pair:
-        cls = "hem match" if mc and clean(t) == mc else "hem"
-        parts.append(f'<span class="{cls}">{esc(t)}</span>')
+    parts = [f'<span class="{"hem match" if mc and clean(t) == mc else "hem"}">{esc(t)}</span>' for t in pair]
     return f'<div class="beyt" dir="rtl">{parts[0]}<span class="sep">◆</span>{parts[1]}</div>'
 
 
 def render_html(items):
     esc = _html.escape
-    css = """
-:root{
---bg:#f6f2e8;--card:#fffdf8;--card-2:#fbf7ee;--text:#26231d;--muted:#777064;--line:#e5ddca;
---green:#1e6b57;--green-2:#154f41;--green-soft:#e8f1ec;--gold:#b78e3c;--gold-soft:#f6ecd2;
---hem:#f0ead9;--match:#f8e6a8;--link:#1e6b57;--thead:#f3ecdc;
---shadow:0 18px 40px -34px rgba(62,46,18,.55);
-}
-@media (prefers-color-scheme: dark){:root{
---bg:#14161a;--card:#1e2126;--card-2:#23272e;--text:#ecebe6;--muted:#adadb2;--line:#3a3d44;
---green:#4cc27a;--green-2:#8fe0ae;--green-soft:#1c2f22;--gold:#d9b464;--gold-soft:#3a3118;
---hem:#2b2f37;--match:#5a4a10;--link:#8cc0ff;--thead:#2b2f37;
---shadow:0 18px 40px -34px rgba(0,0,0,.8);
-}}
-*{box-sizing:border-box}
-html{color-scheme:light dark}
-body{margin:0;padding:26px 16px 46px;background:var(--bg);color:var(--text);font-family:__FONT__;
-line-height:1.8;overflow-wrap:anywhere;-webkit-font-smoothing:antialiased}
-.wrap{max-width:900px;margin:auto}
-.hero{position:relative;text-align:center;padding:4px 8px 22px;margin-bottom:8px}
-.hero .orn{color:var(--gold);font-size:1.1rem;line-height:1;margin-bottom:6px}
-.hero h1{font-size:clamp(1.6rem,4vw,2.15rem);margin:2px 0 6px;font-weight:800;line-height:1.5}
-.hero p{margin:0 auto;color:var(--muted);font-size:.95rem}
-.hero:after{content:"";position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:min(220px,65%);
-height:1px;background:linear-gradient(90deg,transparent,var(--gold),transparent)}
-.tablebox{overflow-x:auto;margin:22px 0}
-table{border-collapse:separate;border-spacing:0;width:100%;background:var(--card);color:var(--text);
-font-size:.88rem;border:1px solid var(--line);border-radius:14px;overflow:hidden}
-th,td{border-bottom:1px solid var(--line);padding:9px 12px;text-align:right;vertical-align:top}
-tr:last-child td{border-bottom:none}
-th{background:var(--thead);font-weight:700}
-.card{background:var(--card);color:var(--text);border-radius:18px;padding:16px 18px;margin:18px 0;
-border:1px solid var(--line);box-shadow:var(--shadow)}
-.head{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;margin-bottom:8px}
-.num{display:inline-grid;place-items:center;min-width:30px;height:30px;padding:0 7px;border-radius:9px;
-background:var(--green-soft);color:var(--green-2);font-weight:800;font-size:.92rem}
-.fname{color:var(--muted);font-size:.85rem}
-.badge{color:#fff;border-radius:999px;padding:2px 12px;font-size:.8rem;font-weight:700;
-margin-inline-start:auto;white-space:nowrap}
-.card img{display:block;margin:10px auto 12px;width:auto;max-width:100%;max-height:220px;object-fit:contain;
-border:1px solid var(--line);border-radius:12px;box-shadow:0 14px 30px -24px rgba(0,0,0,.45)}
-.read{background:var(--card-2);border:1px dashed var(--line);border-radius:12px;padding:9px 12px 8px;
-margin:8px 0 12px;color:var(--muted);font-size:.85rem}
-.read-label{display:block;font-size:.75rem;font-weight:700;color:var(--gold);letter-spacing:.02em}
-.read .rt{font-family:__POEM__;font-size:1.18rem;line-height:2.4;color:var(--text);padding:2px 0}
-.cand{border:1px solid var(--line);border-right:4px solid var(--line);background:var(--card-2);
-color:var(--text);padding:10px 14px;margin:10px 0;border-radius:12px}
-.cand.main{border-right-color:var(--green);background:linear-gradient(180deg,var(--green-soft),transparent)}
-.cand-head{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;margin-bottom:2px}
-.c-title{font-weight:800;font-size:.95rem}
-.score{font-size:.82rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.bonus{color:var(--green);font-weight:600}
-.verse{font-family:__POEM__;font-size:clamp(1.15rem,2.4vw,1.4rem);line-height:2.5;margin:4px 0;
-text-align:center;color:var(--text)}
-.beyt{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:2px 14px;margin:2px 0 8px;
-font-family:__POEM__;font-size:clamp(1.05rem,2.2vw,1.3rem);line-height:2.45}
-.hem{background:var(--hem);color:var(--text);padding:2px 10px;border-radius:8px;text-align:center}
-.hem.match{background:var(--match)}
-.sep{color:var(--gold);font-size:.65rem}
-.det{font-size:.84rem;color:var(--muted);line-height:1.8}
-.note{font-size:.87rem;margin:5px 0;color:var(--muted);line-height:1.8}
-.note.warn{background:var(--gold-soft);color:var(--text);padding:6px 10px;border-radius:10px;margin:8px 0}
-a{color:var(--link);text-decoration:none;border-bottom:1px dotted currentColor}
-a:hover{border-bottom-style:solid}
-bdi.l{unicode-bidi:isolate;direction:ltr}
-.footer{text-align:center;color:var(--muted);font-size:.78rem;line-height:1.9;margin-top:30px}
-@media (max-width:640px){
-.beyt{grid-template-columns:1fr;gap:2px}
-.beyt .sep{display:none}
-body{padding:18px 10px 34px}
-.card{padding:14px 14px}
-.tablebox{display:none}
-}
-@media print{
-body{background:#fff;color:#000;padding:0}
-.card{box-shadow:none;break-inside:avoid}
-a{color:#000}
-}
-""".replace("__FONT__", FONT_STACK).replace("__POEM__", POEM_STACK)
+    css = (
+        ":root{--bg:#f6f2e8;--card:#fffdf8;--card-2:#fbf7ee;--text:#26231d;--muted:#777064;--line:#e5ddca;"
+        "--green:#1e6b57;--green-2:#154f41;--green-soft:#e8f1ec;--gold:#b78e3c;--gold-soft:#f6ecd2;"
+        "--hem:#f0ead9;--match:#f8e6a8;--link:#1e6b57;--thead:#f3ecdc}"
+        "*{box-sizing:border-box}body{margin:0;padding:24px 14px;background:var(--bg);color:var(--text);"
+        f"font-family:{FONT_STACK};line-height:1.8}}.wrap{{max-width:900px;margin:auto}}"
+        ".hero{text-align:center;padding:4px 8px 18px;border-bottom:1px solid var(--line);margin-bottom:18px}"
+        ".tablebox{overflow-x:auto;margin:18px 0}table{border-collapse:collapse;width:100%;background:var(--card);"
+        "font-size:.88rem;border:1px solid var(--line);border-radius:12px;overflow:hidden}"
+        "th,td{border-bottom:1px solid var(--line);padding:8px 12px;text-align:right}th{background:var(--thead)}"
+        ".card{background:var(--card);border-radius:16px;padding:16px;margin:16px 0;border:1px solid var(--line)}"
+        ".head{display:flex;gap:10px;align-items:center;margin-bottom:8px}"
+        ".num{display:inline-grid;place-items:center;min-width:30px;height:30px;padding:0 7px;border-radius:8px;"
+        "background:var(--green-soft);color:var(--green-2);font-weight:800}"
+        ".fname{color:var(--muted);font-size:.85rem}.badge{color:#fff;border-radius:999px;padding:2px 12px;"
+        "font-size:.8rem;font-weight:700;margin-inline-start:auto}"
+        ".card img{display:block;margin:10px auto;max-width:100%;max-height:240px;border:1px solid var(--line);border-radius:10px}"
+        ".read{background:var(--card-2);border:1px dashed var(--line);border-radius:10px;padding:8px 12px;margin:8px 0}"
+        f".read .rt{{font-family:{POEM_STACK};font-size:1.15rem;line-height:2.3;color:var(--text)}}"
+        ".cand{border:1px solid var(--line);border-right:4px solid var(--line);background:var(--card-2);"
+        "padding:10px 14px;margin:10px 0;border-radius:12px}.cand.main{border-right-color:var(--green)}"
+        ".cand-head{display:flex;justify-content:space-between;margin-bottom:4px}.c-title{font-weight:800}"
+        f".verse,.beyt{{font-family:{POEM_STACK};font-size:1.2rem;line-height:2.4}}"
+        ".beyt{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:4px 12px;margin:4px 0}"
+        ".hem{background:var(--hem);padding:2px 10px;border-radius:8px;text-align:center}.hem.match{background:var(--match)}"
+        ".sep{color:var(--gold);font-size:.65rem}.det,.note{font-size:.85rem;color:var(--muted)}"
+        ".note.warn{background:var(--gold-soft);color:var(--text);padding:6px 10px;border-radius:8px}"
+        "a{color:var(--link);text-decoration:none}bdi.l{unicode-bidi:isolate;direction:ltr}"
+    )
     rows = "".join(
         f"<tr><td><bdi class='l'>{it['number']}</bdi></td><td><bdi class='l'>{esc(it['name'])}</bdi></td>"
         f"<td>{esc(BADGE[it['status']][0])}</td>"
@@ -659,36 +838,33 @@ a{color:#000}
     cards = []
     for it in items:
         label, color = BADGE[it["status"]]
-        pill_label = label.replace("🟢", "").replace("🟡", "").replace("⚠️", "").strip()
+        pill = label.replace("🟢", "").replace("🟡", "").replace("🔴", "").strip()
         c = [f'<div class="card"><div class="head"><span class="num"><bdi class="l">{it["number"]}</bdi></span>'
              f'<span class="fname"><bdi class="l">{esc(it["name"])}</bdi></span>'
-             f'<span class="badge" style="background:{color}">{esc(pill_label)}</span></div>']
+             f'<span class="badge" style="background:{color}">{esc(pill)}</span></div>']
         if it["path"] and os.path.exists(it["path"]):
             c.append(f'<img src="{_img_src(it["path"])}" alt="">')
-        c.append('<div class="read"><span class="read-label">القراءة من الصورة</span>'
+        c.append('<div class="read"><strong>القراءة من الصورة:</strong>'
                  f'<div class="rt" dir="rtl">{esc(it["reading"] or "—")}</div>'
                  + ("<div>بدائل: " + " / ".join(f'<span dir="rtl">{esc(a)}</span>' for a in it["alts"]) + "</div>"
-                    if it["alts"] else "")
-                 + "</div>")
+                    if it["alts"] else "") + "</div>")
         for k, g in enumerate(it["tops"]):
             e, r = g["entry"], g["entry"]["refs"][0]
             title = f"مرشح ضعيف {k+1}" if it["status"] == "WEAK" else ("الأقرب" if k == 0 else f"البديل {k}")
             score = f'<bdi class="l">{g["score"]:.1f}%</bdi>'
             if g["bonus"]:
-                score += f' <span class="bonus"><bdi class="l">+{g["bonus"]:.1f}</bdi> دعم القصيدة</span>'
+                score += f' <span class="bonus">+{g["bonus"]:.1f} دعم القصيدة</span>'
             full = idx.couplets.get((r["url"], r["beyt_no"]), [])
             verse = "" if full else f'<div class="verse" dir="rtl">{esc(e["text"])}</div>'
             det = [_where(r)] + [f"نفس السطر أيضاً في: {_where(x)}" for x in (e["refs"][1:] + g["extra"])[:4]]
             c.append(f'<div class="cand{" main" if k == 0 else ""}">'
                      f'<div class="cand-head"><span class="c-title">{esc(title)}</span>'
                      f'<span class="score">تطابق {score}</span></div>'
-                     + verse
-                     + beyt_html(full, e["text"])
+                     + verse + beyt_html(full, e["text"])
                      + "".join(f'<div class="det" dir="rtl">{esc(d)}</div>' for d in det)
-                     + f'<div class="det"><a href="{esc(r["url"])}" target="_blank" rel="noopener">فتح في گنجور ↗</a></div></div>')
+                     + f'<div class="det"><a href="{esc(r["url"])}" target="_blank">فتح في گنجور ↗</a></div></div>')
         if it["status"] in ("REVIEW", "WEAK") and it["tops"]:
-            c.append(f'<div class="note warn">⚠️ الفرق بين الأول والثاني <bdi class="l">{it["margin"]:.1f}</bdi> '
-                     'نقطة — راجع الصورة.</div>')
+            c.append(f'<div class="note warn">⚠️ الفرق بين الأول والثاني <bdi class="l">{it["margin"]:.1f}</bdi> نقطة — راجع الصورة.</div>')
         c += [f'<div class="note">{esc(n)}</div>' for n in it["notes"]]
         c.append("</div>")
         cards.append("".join(c))
@@ -696,25 +872,7 @@ a{color:#000}
     return (f'<!doctype html><html lang="fa" dir="rtl"><head><meta charset="utf-8">'
             f'<meta name="viewport" content="width=device-width,initial-scale=1"><title>نتائج مطابقة الأبيات</title>'
             f'{FONT_LINK}<style>{css}</style></head><body><div class="wrap">'
-            '<div class="hero"><div class="orn">❖</div><h1>نتائج مطابقة الأبيات</h1>'
-            f'<p>عدد الصفحات <bdi class="l">{len(items)}</bdi> · تحتاج مراجعة <bdi class="l">{n_rev}</bdi></p></div>'
-            f'<div class="tablebox"><table><tr><th>#</th><th>الملف</th><th>الحالة</th><th>الأقرب</th></tr>{rows}</table></div>'
-            f'{"".join(cards)}<div class="footer">النصوص من '
-            '<a href="https://ganjoor.net" target="_blank" rel="noopener">گنجور</a> · تقرير محلي</div>'
-            '</div></body></html>')
-
-
-def run(json_source, image_paths=()):
-    """json_source = نص JSON مباشرة، أو مسار ملف .json"""
-    image_paths = sorted(image_paths)
-    if os.path.exists(str(json_source)):
-        readings = load_readings(json_source, image_paths)
-    else:
-        readings = parse_readings(json_source, image_paths)
-    items = analyze(readings)
-    with open("report.html", "w", encoding="utf-8") as f:
-        f.write(render_html(items))
-    _log("📊", dict(Counter(it["status"] for it in items)))
-    return items
-
-# ------------------------------------------------------------- التشغيل في Colab
+            '<div class="hero"><h1>نتائج مطابقة الأبيات</h1>'
+            f'<p>عدد الصور <bdi class="l">{len(items)}</bdi> · تحتاج مراجعة <bdi class="l">{n_rev}</bdi></p></div>'
+            f'<div class="tablebox"><table><tr><th>#</th><th>الصورة</th><th>الحالة</th><th>الأقرب</th></tr>{rows}</table></div>'
+            f'{"".join(cards)}</div></body></html>')
