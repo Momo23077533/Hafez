@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""محرك مطابقة أنصاف الأبيات مع ديوان حافظ وسلمان (گنجور) + القراءة التلقائية بـ Gemini 3.5 Flash-Lite."""
+"""محرك قراءة ومطابقة أنصاف الأبيات مع ديوان حافظ وسلمان (گنجور)."""
 import os, io, re, sys, json, base64, pickle, subprocess, shutil, urllib.request, html as _html
 from collections import Counter
 
@@ -24,39 +24,9 @@ WEAK_MARGIN, WEAK_SCORE = 3.5, 85.0
 TFIDF_WEIGHT = 0.15
 ALT_PENALTY = 0.98
 
-# ------------------------------------------------------------- إعدادات Gemini API
-def _load_default_api_keys():
-    keys = []
-
-    env_value = os.environ.get("GEMINI_API_KEYS", "")
-    keys.extend(k.strip() for k in re.split(r"[\n,;]+", env_value) if k.strip())
-
-    try:
-        import streamlit as st
-
-        secret_value = st.secrets.get("GEMINI_API_KEYS", "")
-        if isinstance(secret_value, str):
-            keys.extend(k.strip() for k in re.split(r"[\n,;]+", secret_value) if k.strip())
-        else:
-            keys.extend(str(k).strip() for k in secret_value if str(k).strip())
-    except Exception:
-        pass
-
-    local_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "api_keys.txt")
-    try:
-        with open(local_file, encoding="utf-8") as f:
-            keys.extend(k.strip() for k in re.split(r"[\n,;]+", f.read()) if k.strip())
-    except OSError:
-        pass
-
-    unique = []
-    for key in keys:
-        if key not in unique:
-            unique.append(key)
-    return unique
-
-
-DEFAULT_API_KEYS = _load_default_api_keys()
+# ------------------------------------------------------------- إعدادات المحرك السحابي
+# المفاتيح بتتقرأ من st.secrets أو متغيرات البيئة (GEMINI_API_KEYS) — ممنوع كتابتها في الكود
+DEFAULT_API_KEYS = []
 
 PRIMARY_MODEL = "gemini-3.5-flash-lite"
 FALLBACK_MODELS = [
@@ -399,10 +369,6 @@ def manual_search(raw_query, top_n=TOP_N, max_exact=50):
 
 # ------------------------------------------------------------- تجهيز الصور بدون أي قص
 def prepare_uploaded_images(saved_files, out_dir="prepared_images"):
-    """
-    يحفظ الصور المرفوعة كما هي بالظبط (بدون أي قص أو اقتطاع) بنفس ترتيب رفعها،
-    ويرجع مسارات الصور وأسماءها الأصلية.
-    """
     from PIL import Image
     os.makedirs(out_dir, exist_ok=True)
     paths, orig_names = [], []
@@ -417,10 +383,6 @@ def prepare_uploaded_images(saved_files, out_dir="prepared_images"):
 
 
 def _stamp_image_for_api(img_path, page_num):
-    """
-    يضيف شريط ترقيم أعلى الصورة في الذاكرة فقط للـ API (PAGE 1, PAGE 2...)
-    بدون قص أو تغطية أي بكسل من الصورة الأصلية، لضمان ترتيب النتائج 100%.
-    """
     from PIL import Image, ImageDraw
     im = Image.open(img_path).convert("RGB")
     max_dim = 1600
@@ -443,8 +405,44 @@ def _stamp_image_for_api(img_path, page_num):
     return buf.getvalue()
 
 
-# ------------------------------------------------------------- الاتصال بـ Gemini API
+# ------------------------------------------------------------- استخراج النصوص من الصور
 _KEY_MODE_CACHE = {}
+
+
+def _collect_keys(extra_keys=None):
+    """يجمع المفاتيح من st.secrets أو متغيرات البيئة أو القائمة المدمجة بالترتيب."""
+    keys = []
+    def _add(val):
+        if not val:
+            return
+        if isinstance(val, str):
+            for line in re.split(r"[\s,]+", val.strip()):
+                if line and line not in keys:
+                    keys.append(line)
+        elif isinstance(val, (list, tuple)):
+            for item in val:
+                _add(item)
+        elif isinstance(val, dict):
+            for v in val.values():
+                _add(v)
+
+    _add(extra_keys)
+    try:
+        import streamlit as st
+        for k_name in ("API_KEYS", "GEMINI_API_KEYS", "GEMINI_API_KEY", "GOOGLE_API_KEY", "API_KEY"):
+            if k_name in st.secrets:
+                _add(st.secrets[k_name])
+        for v in st.secrets.values():
+            if isinstance(v, str) and (v.startswith("AQ.") or v.startswith("AIza")):
+                _add(v)
+    except Exception:
+        pass
+
+    for env_k in ("API_KEYS", "GEMINI_API_KEY", "GOOGLE_API_KEY"):
+        _add(os.environ.get(env_k))
+
+    _add(DEFAULT_API_KEYS)
+    return keys
 
 
 def _get_system_instruction(prompt_path="prompt.txt"):
@@ -491,7 +489,7 @@ def _call_gemini_sdk(api_key, model_name, batch_items, system_instruction, use_v
     resp = client.models.generate_content(model=model_name, contents=contents, config=config)
     if resp and resp.text:
         return resp.text
-    raise RuntimeError("النموذج رجّع رد فاضي.")
+    raise RuntimeError("Empty response")
 
 
 def _call_gemini_rest(api_key, model_name, batch_items, system_instruction, use_vertex=False):
@@ -540,11 +538,11 @@ def _call_gemini_rest(api_key, model_name, batch_items, system_instruction, use_
 
     candidates = body.get("candidates") or []
     if not candidates:
-        raise RuntimeError(f"لا توجد نتائج: {body}")
+        raise RuntimeError("No candidates")
     for part in candidates[0].get("content", {}).get("parts") or []:
         if not part.get("thought") and part.get("text"):
             return part["text"]
-    raise RuntimeError("لم يتم العثور على نص JSON في رد النموذج.")
+    raise RuntimeError("No text part")
 
 
 def _invoke_single_batch(batch_items, api_keys, system_instruction):
@@ -557,7 +555,6 @@ def _invoke_single_batch(batch_items, api_keys, system_instruction):
                 modes = [True, False] if key.startswith("AQ.") else [False, True]
             for use_vertex in modes:
                 try:
-                    _log(f"🤖 قراءة عبر {model_name} (مفتاح #{key_idx})...")
                     try:
                         raw_json = _call_gemini_sdk(key, model_name, batch_items, system_instruction, use_vertex=use_vertex)
                     except ImportError:
@@ -567,27 +564,19 @@ def _invoke_single_batch(batch_items, api_keys, system_instruction):
                 except Exception as e:
                     last_err = e
                     err_str = str(e)
-                    _log(f"⚠️ محاولة غير ناجحة ({model_name} / مفتاح #{key_idx}): {err_str[:160]}")
                     if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str.upper():
                         break
                     continue
-    raise RuntimeError(f"تعذر قراءة الصور عبر مفاتيح الـ API. آخر خطأ: {last_err}")
+    raise RuntimeError("تعذر معالجة الصور حالياً، يرجى المحاولة مرة أخرى.")
 
 
 def read_images_with_gemini(image_paths, api_keys=None, prompt_path="prompt.txt", batch_size=15, progress_cb=None):
-    """يبعت الصور المرقمة لـ Gemini 3.5 Flash-Lite (Thinking: High) ويرجع JSON مترتب."""
     if not image_paths:
-        raise ValueError("لا توجد صور لقراءتها.")
+        raise ValueError("لا توجد صور لمعالجتها.")
 
-    keys = []
-    if api_keys:
-        if isinstance(api_keys, str):
-            keys.extend([k.strip() for k in api_keys.splitlines() if k.strip()])
-        else:
-            keys.extend([str(k).strip() for k in api_keys if str(k).strip()])
-    for k in DEFAULT_API_KEYS:
-        if k not in keys:
-            keys.append(k)
+    keys = _collect_keys(api_keys)
+    if not keys:
+        raise RuntimeError("إعدادات الخدمة غير مكتملة.")
 
     system_instruction = _get_system_instruction(prompt_path)
     stamped_all = [(i, _stamp_image_for_api(p, i)) for i, p in enumerate(image_paths, 1)]
@@ -608,7 +597,7 @@ def read_images_with_gemini(image_paths, api_keys=None, prompt_path="prompt.txt"
     return json.dumps({"results": all_results}, ensure_ascii=False, indent=2)
 
 
-# ------------------------------------------------------------- قراءة JSON وربطه بالصور
+# ------------------------------------------------------------- ربط القراءات بالصور
 _WRAP_KEYS = ("results", "response", "result", "output", "images", "items", "data", "pages", "readings", "content", "text")
 
 
@@ -635,21 +624,20 @@ def _unwrap(data, depth=0):
 
 
 def parse_readings(raw, image_paths=(), orig_names=()):
-    """يربط كل قراءة بالصورة المقابلة لها برقم الـ page والترتيب بدقة 100%."""
     raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.M).strip()
     m = re.search(r"[\[{]", raw)
     if m:
         raw = raw[m.start():]
     try:
         data = json.loads(raw)
-    except json.JSONDecodeError as e:
-        raise ValueError(f"الـ JSON فيه خطأ (سطر {e.lineno}، عمود {e.colno}): {e.msg}.")
+    except json.JSONDecodeError:
+        raise ValueError("حدث خطأ أثناء قراءة البيانات المستخرجة.")
 
     data = _unwrap(data)
     if isinstance(data, dict):
         data = [{"file": k, "text": v} for k, v in data.items()]
     if not isinstance(data, list):
-        raise ValueError("صيغة الـ JSON غير متوقعة.")
+        raise ValueError("صيغة البيانات غير متوقعة.")
 
     image_paths = list(image_paths)
     orig_names = list(orig_names)
@@ -747,9 +735,9 @@ def analyze(items):
             it["notes"].append("🔴 قراءة غير موثوقة: المرشحات ضعيفة ومتقاربة، راجع الصورة أو استخدم البحث اليدوي.")
         if it["confidence"] in ("low", "منخفض") and it["status"] == "AUTO":
             it["status"] = "REVIEW"
-            it["notes"].append("🟡 ثقة النموذج في وضوح الخط منخفضة — راجع الصورة.")
+            it["notes"].append("🟡 الخط في الصورة غير واضح بالكامل — يُنصح بمراجعة الصورة.")
         if it["uncertain"]:
-            it["notes"].append("❓ كلمات غير واضحة في الصورة: " + "، ".join(map(str, it["uncertain"])))
+            it["notes"].append("❓ كلمات غير واضحة في المخطوطة: " + "، ".join(map(str, it["uncertain"])))
     return items
 
 
@@ -844,9 +832,9 @@ def render_html(items):
              f'<span class="badge" style="background:{color}">{esc(pill)}</span></div>']
         if it["path"] and os.path.exists(it["path"]):
             c.append(f'<img src="{_img_src(it["path"])}" alt="">')
-        c.append('<div class="read"><strong>القراءة من الصورة:</strong>'
+        c.append('<div class="read"><strong>النص المستخرج من الصورة:</strong>'
                  f'<div class="rt" dir="rtl">{esc(it["reading"] or "—")}</div>'
-                 + ("<div>بدائل: " + " / ".join(f'<span dir="rtl">{esc(a)}</span>' for a in it["alts"]) + "</div>"
+                 + ("<div>قراءات محتملة أخرى: " + " / ".join(f'<span dir="rtl">{esc(a)}</span>' for a in it["alts"]) + "</div>"
                     if it["alts"] else "") + "</div>")
         for k, g in enumerate(it["tops"]):
             e, r = g["entry"], g["entry"]["refs"][0]

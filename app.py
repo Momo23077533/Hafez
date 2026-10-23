@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""واجهة الموقع (Streamlit) — رفع الصور مباشرةً والقراءة والمطابقة التلقائية بضغطة زر."""
+"""واجهة الموقع (Streamlit) — نظام قراءة ومطابقة أنصاف الأبيات."""
 import os, tempfile, html, re, unicodedata
 import streamlit as st
 import engine
@@ -82,6 +82,10 @@ html,body,.stApp{background:var(--paper);color:var(--ink);}
   background:var(--card) !important;border:1px solid var(--line) !important;border-radius:18px !important;
   padding:1.1rem 1.15rem 1.25rem !important;box-shadow:var(--shadow);margin-bottom:.65rem;
 }
+/* إخفاء النتائج الـ 3 تلقائياً بمجرد الضغط على صندوق البحث اليدوي لتكون الصورة فوق البحث مباشرةً */
+[class*="st-key-result_"]:has([data-testid="stExpander"] details[open]) [class*="st-key-auto_res_"]{
+  display:none !important;
+}
 [data-testid="stFileUploaderDropzone"]{
   background:var(--card-2) !important;border:1.5px dashed var(--line) !important;border-radius:14px !important;padding:1.1rem !important;
 }
@@ -102,8 +106,8 @@ html,body,.stApp{background:var(--paper);color:var(--ink);}
   background:var(--green-soft);color:var(--green-2);font-weight:800;font-size:.95rem;}
 .res-file{color:var(--muted);font-size:.85rem;direction:ltr;unicode-bidi:isolate;}
 .pill{color:#fff;border-radius:999px;padding:.12rem .7rem;font-size:.8rem;font-weight:700;margin-inline-start:auto;}
-.ai-read-box{background:var(--card-2);border:1px dashed var(--line);border-radius:12px;padding:.55rem .9rem;margin:.55rem 0;}
-.ai-read-label{font-size:.76rem;font-weight:700;color:var(--gold);}
+.read-box{background:var(--card-2);border:1px dashed var(--line);border-radius:12px;padding:.55rem .9rem;margin:.55rem 0;}
+.read-label{font-size:.76rem;font-weight:700;color:var(--gold);}
 .reading-text{font-size:1.15rem;line-height:2.3;color:var(--ink);}
 [class*="st-key-cand_top_"],[class*="st-key-cand_alt_"]{position:relative;}
 [class*="st-key-copy_top_"],[class*="st-key-copy_alt_"]{position:absolute;bottom:1.7rem;left:1rem;height:1.9rem;margin:0;padding:0;z-index:3;}
@@ -184,14 +188,15 @@ def render_candidate_card(g, title, cand_key, copy_key, is_main=False):
 st.markdown(
     '<div class="hero"><div class="hero-orn">❖</div>'
     '<div class="hero-kicker">دیوانِ حافظ · سلمانِ ساوجی</div>'
-    '<h1>مطابقة أنصاف الأبيات بالذكاء الاصطناعي</h1>'
-    '<p>ارفع صور المخطوطات مباشرةً وسيقوم النموذج بقراءتها ومطابقتها تلقائياً بالترتيب مع ديوان حافظ وسلمان في گنجور.</p>'
+    '<h1>مطابقة أنصاف الأبيات</h1>'
+    '<p>ارفع صور المخطوطات مباشرةً ليتم قراءتها ومطابقتها بالترتيب مع ديوان حافظ وسلمان في گنجور، '
+    'أو ابحث مباشرةً بأي كلمة أو حرف في الفهرس.</p>'
     '</div>',
     unsafe_allow_html=True,
 )
 
 
-@st.cache_resource(show_spinner="⏳ تجهيز فهرس گنجور... (أول مرة فقط)")
+@st.cache_resource(show_spinner="⏳ تجهيز الفهرس... (أول مرة فقط)")
 def get_index():
     return engine.load_index()
 
@@ -204,7 +209,7 @@ except Exception as e:
 
 
 with st.container(border=True, key="step_upload"):
-    step("١", "ارفع صور المخطوطات مباشرةً", "ارفع صورة واحدة أو عدة صور معاً — سيتم حفظها وعرض نتائجها بنفس ترتيب رفعها بالضبط بدون أي قص.")
+    step("١", "ارفع صور المخطوطات", "ارفع صورة واحدة أو عدة صور معاً — سيتم حفظها وعرض نتائجها بنفس ترتيب رفعها بالضبط.")
     files = st.file_uploader(
         "الصور",
         type=["jpg", "jpeg", "png", "webp"],
@@ -216,17 +221,9 @@ with st.container(border=True, key="step_upload"):
 
 
 with st.container(border=True, key="step_run"):
-    step("٢", "قراءة الصور والمطابقة التلقائية", "يعمل تلقائياً بنموذج Gemini 3.5 Flash-Lite (بمستوى تفكير High) مع ربط كل صورة بقراءتها.")
+    step("٢", "بدء القراءة والمطابقة", "اضغط على الزر بالأسفل لفحص الصور واستخراج الأبيات المطابقة لها بالترتيب.")
 
-    with st.expander("⚙️ خيارات متقدمة (إدخال JSON يدوي أو مفتاح إضافي - اختياري)"):
-        custom_key = st.text_input("مفتاح API إضافي (اختياري — المفاتيح الأساسية مدمجة بالفعل)", type="password")
-        manual_json_text = st.text_area(
-            "أو الصق JSON خارجي هنا (اتركه فارغاً للقراءة التلقائية بالذكاء الاصطناعي)",
-            height=130,
-            placeholder='{"results": [{"page": 1, "text": "...", "alternatives": [], "uncertain_words": [], "confidence": "high"}]}',
-        )
-
-    if st.button("✨ ابدأ القراءة والمطابقة التلقائية", type="primary", use_container_width=True):
+    if st.button("✨ ابدأ القراءة والمطابقة", type="primary", use_container_width=True):
         if not files:
             st.warning("⚠️ ارفع صورة واحدة على الأقل الأول.")
         else:
@@ -241,28 +238,20 @@ with st.container(border=True, key="step_run"):
             orig_names = [f.name for f in files]
             try:
                 paths, _ = engine.prepare_uploaded_images(saved, out_dir=os.path.join(tmp, "ready"))
-                if manual_json_text.strip():
-                    with st.spinner("⏳ جاري تحليل الـ JSON المدخل ومطابقة الأبيات..."):
-                        raw_json = manual_json_text.strip()
-                        readings = engine.parse_readings(raw_json, paths, orig_names)
-                        st.session_state["items"] = engine.analyze(readings)
-                        st.session_state["last_json"] = raw_json
-                else:
-                    status_box = st.empty()
-                    def _prog(b_idx, total_b, p_start, p_end):
-                        status_box.info(f"🤖 جاري قراءة الصور ({p_start} إلى {p_end}) عبر Gemini 3.5 Flash-Lite (Thinking: High)...")
+                status_box = st.empty()
 
-                    with st.spinner("⏳ جاري قراءة المخطوطات بالذكاء الاصطناعي ومطابقتها مع گنجور..."):
-                        raw_json = engine.read_images_with_gemini(
-                            paths,
-                            api_keys=custom_key.strip() if custom_key.strip() else None,
-                            prompt_path=os.path.join(HERE, "prompt.txt"),
-                            progress_cb=_prog,
-                        )
-                        status_box.empty()
-                        readings = engine.parse_readings(raw_json, paths, orig_names)
-                        st.session_state["items"] = engine.analyze(readings)
-                        st.session_state["last_json"] = raw_json
+                def _prog(b_idx, total_b, p_start, p_end):
+                    status_box.info(f"⏳ جاري فحص ومعالجة الصور ({p_start} إلى {p_end})...")
+
+                with st.spinner("⏳ جاري استخراج النصوص ومطابقتها مع الفهرس..."):
+                    raw_data = engine.read_images_with_gemini(
+                        paths,
+                        prompt_path=os.path.join(HERE, "prompt.txt"),
+                        progress_cb=_prog,
+                    )
+                    status_box.empty()
+                    readings = engine.parse_readings(raw_data, paths, orig_names)
+                    st.session_state["items"] = engine.analyze(readings)
             except Exception as e:
                 st.error(f"❌ حصلت مشكلة أثناء المعالجة: {e}")
 
@@ -327,10 +316,6 @@ if items:
     with d2:
         only_review = st.checkbox("اعرض اللي يحتاج مراجعة بس")
 
-    if st.session_state.get("last_json"):
-        with st.expander("📄 عرض الـ JSON المستخرج من Gemini"):
-            st.code(st.session_state["last_json"], language="json")
-
     for i, it in enumerate(items):
         if only_review and it["status"] == "AUTO":
             continue
@@ -347,48 +332,59 @@ if items:
             if it["path"] and os.path.exists(it["path"]):
                 st.image(it["path"], width=460)
 
-            alts_html = (
-                '<div class="meta">بدائل مقترحة: ' + " ، ".join(html.escape(a) for a in it["alts"]) + "</div>"
-                if it["alts"] else ""
-            )
-            st.markdown(
-                '<div class="ai-read-box"><div class="ai-read-label">قراءة الذكاء الاصطناعي للصورة:</div>'
-                f'<div class="reading-text" dir="rtl">{html.escape(it["reading"] or "—")}</div>{alts_html}</div>',
-                unsafe_allow_html=True,
-            )
-
-            for k, g in enumerate(it["tops"]):
-                title = f"مرشح ضعيف {k + 1}" if it["status"] == "WEAK" else ("الأقرب" if k == 0 else f"البديل {k}")
-                cand_key = f"cand_top_{i}" if k == 0 else f"cand_alt_{i}_{k}"
-                copy_key = f"copy_top_{i}" if k == 0 else f"copy_alt_{i}_{k}"
-                render_candidate_card(g, title, cand_key, copy_key, is_main=(k == 0))
-
-            if it["status"] in ("REVIEW", "WEAK") and it["tops"]:
+            # حاوية النتائج الـ 3 التلقائية — تختفي فوراً عند فتح صندوق البحث اليدوي بالأسفل
+            with st.container(key=f"auto_res_{i}"):
+                alts_html = (
+                    '<div class="meta">قراءات محتملة أخرى: ' + " ، ".join(html.escape(a) for a in it["alts"]) + "</div>"
+                    if it["alts"] else ""
+                )
                 st.markdown(
-                    f'<div class="note warn">⚠️ الفرق بين الأول والثاني <bdi class="l">{it["margin"]:.1f}</bdi> نقطة — راجع الصورة.</div>',
+                    '<div class="read-box"><div class="read-label">النص المستخرج من الصورة:</div>'
+                    f'<div class="reading-text" dir="rtl">{html.escape(it["reading"] or "—")}</div>{alts_html}</div>',
                     unsafe_allow_html=True,
                 )
-            for n in it["notes"]:
-                st.markdown(f'<div class="note">{html.escape(n)}</div>', unsafe_allow_html=True)
 
-            with st.expander("🔍 بحث يدوي مباشر لهذه الصورة (لو قراءة الـ AI غلط)"):
-                row_q = st.text_input(
-                    "اكتب كلمة أو حرف من الصورة",
-                    placeholder="اكتب كلمة أو حرف شايفه في الصورة دي...",
-                    label_visibility="collapsed",
-                    key=f"row_manual_q_{i}",
-                )
-                if row_q.strip():
-                    row_res = engine.manual_search(row_q.strip(), top_n=3, max_exact=20)
-                    for rk, rg in enumerate(row_res["tops"]):
-                        r_title = "الأقرب يدوياً" if rk == 0 else f"البديل اليدوي {rk}"
-                        render_candidate_card(rg, r_title,
-                                              f"cand_top_row_{i}_{rk}" if rk == 0 else f"cand_alt_row_{i}_{rk}",
-                                              f"copy_top_row_{i}_{rk}" if rk == 0 else f"copy_alt_row_{i}_{rk}",
-                                              is_main=(rk == 0))
+                for k, g in enumerate(it["tops"]):
+                    title = f"مرشح ضعيف {k + 1}" if it["status"] == "WEAK" else ("الأقرب" if k == 0 else f"البديل {k}")
+                    cand_key = f"cand_top_{i}" if k == 0 else f"cand_alt_{i}_{k}"
+                    copy_key = f"copy_top_{i}" if k == 0 else f"copy_alt_{i}_{k}"
+                    render_candidate_card(g, title, cand_key, copy_key, is_main=(k == 0))
+
+                if it["status"] in ("REVIEW", "WEAK") and it["tops"]:
+                    st.markdown(
+                        f'<div class="note warn">⚠️ الفرق بين الأول والثاني <bdi class="l">{it["margin"]:.1f}</bdi> نقطة — راجع الصورة.</div>',
+                        unsafe_allow_html=True,
+                    )
+                for n in it["notes"]:
+                    st.markdown(f'<div class="note">{html.escape(n)}</div>', unsafe_allow_html=True)
+
+            is_searching_row = bool(st.session_state.get(f"row_manual_q_{i}", "").strip())
+            with st.expander("🔍 بحث يدوي مباشر لهذه الصورة", expanded=is_searching_row):
+                rc1, rc2 = st.columns([3.3, 1])
+                with rc1:
+                    row_q = st.text_input(
+                        "اكتب كلمة أو حرف من الصورة",
+                        placeholder="اكتب كلمة أو حرف شايفه في الصورة دي...",
+                        label_visibility="collapsed",
+                        key=f"row_manual_q_{i}",
+                    )
+                with rc2:
+                    row_btn = st.button("بحث", type="primary", use_container_width=True, key=f"row_btn_{i}")
+
+                if row_btn or row_q.strip():
+                    if row_q.strip():
+                        row_res = engine.manual_search(row_q.strip(), top_n=3, max_exact=20)
+                        if not row_res["tops"]:
+                            st.info("لا توجد نتائج مطابقة لهذا النص.")
+                        for rk, rg in enumerate(row_res["tops"]):
+                            r_title = "الأقرب يدوياً" if rk == 0 else f"البديل اليدوي {rk}"
+                            render_candidate_card(rg, r_title,
+                                                  f"cand_top_row_{i}_{rk}" if rk == 0 else f"cand_alt_row_{i}_{rk}",
+                                                  f"copy_top_row_{i}_{rk}" if rk == 0 else f"copy_alt_row_{i}_{rk}",
+                                                  is_main=(rk == 0))
 
 st.markdown(
     '<div class="footer">النصوص من <a href="https://ganjoor.net" target="_blank" rel="noopener">گنجور</a> · '
-    'القراءة بواسطة Gemini 3.5 Flash-Lite والمطابقة محلياً</div>',
+    'نظام قراءة ومطابقة المخطوطات الفارسية</div>',
     unsafe_allow_html=True,
 )
