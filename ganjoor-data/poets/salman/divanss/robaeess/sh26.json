@@ -1,0 +1,61 @@
+{
+  "Id": 38990,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۲۶",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۲۶",
+  "FullUrl": "/salman/divanss/robaeess/sh26",
+  "RhymeLetters": "ادی",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شعر دربارهٔ سوسن است که از نسیم صبح خبری دربارهٔ آزادی دریافت می‌کند و زبان به شکایت و شادی می‌گشاید. سوسن با شادابی و شور از این خبر سخن می‌گوید و تأثیر آن را بر غنچه و گل‌ها مشاهده می‌کند. در نهایت، حال و هوای این شعر نشان‌دهندهٔ شادی و نشاط ناشی از آزادی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادی",
+      "PlainText": "سوسن ز صبا یافت خط آزادی \r\nز آن کرد از آن به صد زبان آزادی \r\nدر پرده صبا دوش ندانم که چه گفت\r\nبا غنچه که غنچه بر شکفت از شادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوسن ز صبا یافت خط آزادی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آن کرد از آن به صد زبان آزادی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پرده صبا دوش ندانم که چه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا غنچه که غنچه بر شکفت از شادی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوسن ز صبا یافت خط آزادی ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل سوسن به خاطر نسیم صبحی از آزادی خبر گرفت و از آن جا به هر زبانی درباره آزادی صحبت کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آن کرد از آن به صد زبان آزادی ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پرده صبا دوش ندانم که چه گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب گذشته، ندانم چه سخنی بین نسیم و غنچه رد و بدل شد که غنچه به خاطر خوشحالی شکوفا شد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با غنچه که غنچه بر شکفت از شادی ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

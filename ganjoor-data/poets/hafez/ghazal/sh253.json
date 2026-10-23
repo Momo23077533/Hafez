@@ -1,0 +1,453 @@
+{
+  "Id": 2382,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۵۳",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۵۳",
+  "FullUrl": "/hafez/ghazal/sh253",
+  "RhymeLetters": "ارعمر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر دربارهٔ گدازه‌های گذرا و زودگذر زندگی است و عشق را به‌عنوان منبع زیبایی و سرزندگی معرفی می‌کند. حافظ از معشوق خود می‌خواهد که به او بازگردد تا زندگی دوباره جان بگیرد. وی تأکید می‌کند که زمان محدود است و باید از هر لحظه استفاده کرد، در حالی که غم و دلتنگی نمی‌گذارد فرد به صورت کامل از زندگی لذت ببرد. شاعر از عبور عمر و حوادثی که در هر طرف کمین کرده‌اند نگران است و به یادگاری که از کلماتش بر صفحهٔ جهان باقی می‌ماند اشاره می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارعمر",
+      "PlainText": "ای خرم از فروغ رخت لاله زار عمر\r\nبازآ که ریخت بی گل رویت بهار عمر\r\nاز دیده گر سرشک چو باران چکد رواست\r\nکاندر غمت چو برق بشد روزگار عمر\r\nاین یک دو دم که مهلت دیدار ممکن است\r\nدریاب کار ما که نه پیداست کار عمر\r\nتا کی می صبوح و شکرخواب بامداد\r\nهشیار گرد هان که گذشت اختیار عمر\r\nدی در گذار بود و نظر سوی ما نکرد\r\nبیچاره دل که هیچ ندید از گذار عمر\r\nاندیشه از محیط فنا نیست هر که را\r\nبر نقطه دهان تو باشد مدار عمر\r\nدر هر طرف ز خیل حوادث کمین گهیست\r\nزان رو عنان گسسته دواند سوار عمر\r\nبی عمر زنده ام من و این بس عجب مدار\r\nروز فراق را که نهد در شمار عمر\r\nحافظ سخن بگوی که بر صفحه جهان\r\nاین نقش ماند از قلمت یادگار عمر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خُرَّم از فروغِ رُخَت لاله زارِ عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازآ که ریخت بی گُلِ رویت بهارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دیده گر سرشک چو باران چِکَد رواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر غمت چو برق بِشُد روزگارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین یک دو دَم که مهلتِ دیدار ممکن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاب کارِ ما که نه پیداست کارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی مِی صَبوح و شِکرخوابِ بامداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیار گَرد، هان که گذشت اختیارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی در گذار بود و نظر سویِ ما نکرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره دل که هیچ ندید از گذارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندیشه از محیطِ فنا نیست هر که را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر نقطهٔ دهانِ تو باشد مدارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هر طرف ز خیلِ حوادث کمین‌گهیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان رو عِنان‌گسسته دَوانَد سوارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی عمر زنده‌ام من و این بس عجب مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز فِراق را که نَهَد در شمارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ سخن بگوی که بر صفحهٔ جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نقش مانَد از قَلَمَت یادگارِ عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خُرَّم از فروغِ رُخَت لاله زارِ عمر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خوشحال، با نور چهره‌ات، زندگی‌ام را زنده کن. برگرد که بدونِ گلِ روی تو، بهار زندگی‌ام سپری شده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازآ که ریخت بی گُلِ رویت بهارِ عمر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دیده گر سرشک چو باران چِکَد رواست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر اشکی از چشمم مانند باران بریزد، ایرادی ندارد؛ زیرا در غم تو، عمرم همچون برق برق می‌زند و سریع می‌گذرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر غمت چو برق بِشُد روزگارِ عمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این یک دو دَم که مهلتِ دیدار ممکن است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دو لحظه‌ای که فرصت دیدار به دست آمده، ارزش لحظه‌های عمر ما را درک کن، زیرا کارهای ما نه تنها مشخص نیستند، بلکه زمان نیز بسیار محدود است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دریاب کارِ ما که نه پیداست کارِ عمر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا کی مِی صَبوح و شِکرخوابِ بامداد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا کی باید در نشئهٔ صبحگاهی و خواب شیرین بامداد بگذرانیم؟ بیدار شو و به یاد بیاور که عمر فرصتی است که دیگر برنمی‌گردد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هشیار گَرد، هان که گذشت اختیارِ عمر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دی در گذار بود و نظر سویِ ما نکرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیروز گذشت و نتوانستیم جلب توجه کنیم، دل بدبخت که در این گذر عمر هیچ چیزی نتوانست ببیند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بیچاره دل که هیچ ندید از گذارِ عمر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "اندیشه از محیطِ فنا نیست هر که را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اندیشه و تفکر از دنیای زوال و فنا نشأت نمی‌گیرد. هر کسی که زندگی‌اش به تو و کلام تو وابسته باشد، عمرش تحت تأثیر آن قرار می‌گیرد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر نقطهٔ دهانِ تو باشد مدارِ عمر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در هر طرف ز خیلِ حوادث کمین‌گهیست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر سو، از انبوه اتفاقات و مشکلات، خطرهایی lurking وجود دارد. به همین دلیل، سوار زندگی، افسار خود را رها کرده و با شتاب پیش می‌رود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "زان رو عِنان‌گسسته دَوانَد سوارِ عمر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بی عمر زنده‌ام من و این بس عجب مدار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من عمری کوتاه دارم و در این وضعیت عجیب است که روز جدایی را نیز در شمار عمر خود بدانم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "روز فِراق را که نَهَد در شمارِ عمر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "حافظ سخن بگوی که بر صفحهٔ جهان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ، صحبت کن تا کلامت بر صفحات دنیا باقی بماند و نشانی از عمرت را به یادگار بگذارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "این نقش مانَد از قَلَمَت یادگارِ عمر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 300
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 7,
+          "ConceptId": 791
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "ConceptId": 441
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 20
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 300
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 445
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "زندگی"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "معشوق"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 292
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 792
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 337
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 675
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "احاطه کننده"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "اقیانوس و دریا"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 793
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 748
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 300
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 794
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "به سرعت و شتابان"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 513
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "ConceptId": 795
+        }
+      ]
+    }
+  ]
+}

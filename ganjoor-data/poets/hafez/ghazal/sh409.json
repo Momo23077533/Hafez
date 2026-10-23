@@ -1,0 +1,276 @@
+{
+  "Id": 2538,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۰۹",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۰۹",
+  "FullUrl": "/hafez/ghazal/sh409",
+  "RhymeLetters": "اهتو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به وصف زیبایی و جذبه معشوق می‌پردازد و با شور و شوق، او را ستایش می کند. او از عشق و دلتنگی‌اش نسبت به معشوق با زبانی شاعرانه سخن می‌گوید و به تاثیر عمیق او بر زندگی و احساساتش اشاره می‌کند. معشوق در یگانگی خود، آرامش و خواب را برای دیگران فراهم می‌کند و سایه‌اش بر دل و دیده‌ی شاعر سنگینی می‌کند. در نهایت، شاعر به ناامیدی از دریافت عنایت و محبت معشوق اشاره می‌کند و حسی از آتش و درد ناشی از دوری را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهتو",
+      "PlainText": "ای خونبهای نافه چین خاک راه تو\r\nخورشید سایه پرور طرف کلاه تو\r\nنرگس کرشمه می برد از حد برون خرام\r\nای من فدای شیوه چشم سیاه تو\r\nخونم بخور که هیچ ملک با چنان جمال\r\nاز دل نیایدش که نویسد گناه تو\r\nآرام و خواب خلق جهان را سبب تویی\r\nزان شد کنار دیده و دل تکیه گاه تو\r\nبا هر ستاره ای سر و کار است هر شبم\r\nاز حسرت فروغ رخ همچو ماه تو\r\nیاران همنشین همه از هم جدا شدند\r\nماییم و آستانه دولت پناه تو\r\nحافظ طمع مبر ز عنایت که عاقبت\r\nآتش زند به خرمن غم دود آه تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خونبهای نافه چین خاک راه تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید سایه‌پرور طرف کلاه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنرگس کرشمه می‌برد از حد برون خرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای من فدای شیوه چشم سیاه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونم بخور که هیچ مَلَک با چنان جمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دل نیایدش که نویسد گناه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرام و خواب خلق جهان را سبب تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان شد کنار دیده و دل تکیه‌گاه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هر ستاره‌ای سر و کار است هر شبم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حسرت فروغ رخ همچو ماه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران همنشین همه از هم جدا شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماییم و آستانه دولت پناه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ طمع مبُر ز عنایت که عاقبت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش زند به خرمن غم دود آه تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7,
+      "MetreId": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خونبهای نافه چین خاک راه تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که بهای خون تو برای خوبی‌های ناب و زیباییت در زمین، مانند نوری است که سایه‌سار بر کلاه و سر تو می‌افکند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید سایه‌پرور طرف کلاه تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نرگس کرشمه می‌برد از حد برون خرام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نرگس با زیبایی و جذبه‌اش فراتر از حد و مرز می‌رود. ای کاش فدای آن شیوه نگاه زیبا و دانای تو بشوم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای من فدای شیوه چشم سیاه تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خونم بخور که هیچ مَلَک با چنان جمال",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی تو، خون من را به خاطر معصیتت بخور، چرا که هیچ فرشتهای نمی‌تواند زیبایی تو را از دلش بنویسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از دل نیایدش که نویسد گناه تو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آرام و خواب خلق جهان را سبب تویی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آرامش و خواب برای موجودات جهان به خاطر توست و به همین دلیل، چشمان و دل من به تو اتکا دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زان شد کنار دیده و دل تکیه‌گاه تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "با هر ستاره‌ای سر و کار است هر شبم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب با تمام ستاره‌ها در ارتباط هستم، اما حسرت نوری که در چهره‌ی مثل ماه تو وجود دارد، مرا از درون می‌سوزاند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از حسرت فروغ رخ همچو ماه تو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یاران همنشین همه از هم جدا شدند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستان و همراهان همه از یکدیگر جدا شده‌اند و تنها ما مانده‌ایم که به درگاه حمایت و بخشش تو پناه می‌بریم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ماییم و آستانه دولت پناه تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "حافظ طمع مبُر ز عنایت که عاقبت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0حافظ، از رحمت و لطف خداوند ناامید مشو، زیرا در نهایت درد و اندوه تو مانند آتشی می‌سوزاند و خرمن غم‌هایت را خواهد زد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "آتش زند به خرمن غم دود آه تو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "راحت طلب"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "خون کسی را خوردن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "کشتن و در رنج و عذاب انداختن کسی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "در کنار دیده و دل تکیه شدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "عزیز و گرامی بودن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 62
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 827
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "طمع بریدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "قطع امید کردن، چشمپوشی کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "هستی را به باد دادن"
+        }
+      ]
+    }
+  ]
+}

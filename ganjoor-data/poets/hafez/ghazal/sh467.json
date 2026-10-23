@@ -1,0 +1,297 @@
+{
+  "Id": 2596,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۶۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۶۷",
+  "FullUrl": "/hafez/ghazal/sh467",
+  "RhymeLetters": "امی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به عشق و شوق می‌پردازد و به زیبایی معشوق اشاره می‌کند. او به نارضایتی ناشی از دوری از معشوق و روزه‌داری اشاره می‌کند و این حال را در کنار فضیلت‌های عشق قرار می‌دهد. در این شعر، زهد و زندگی دنیا به چالش کشیده می‌شود و شاعر از وضعیت خود گله‌مند است. در انتها، او ناامیدی خود را از تحقق آرزوهای عشق را بیان می‌کند و به یادآوری معشوق تأکید می‌ورزد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امی",
+      "PlainText": "زان می عشق کز او پخته شود هر خامی\r\nگر چه ماه رمضان است بیاور جامی\r\nروزها رفت که دست من مسکین نگرفت\r\nزلف شمشادقدی ساعد سیم اندامی\r\nروزه هر چند که مهمان عزیز است ای دل\r\nصحبتش موهبتی دان و شدن انعامی\r\nمرغ زیرک به در خانقه اکنون نپرد\r\nکه نهاده ست به هر مجلس وعظی دامی\r\nگله از زاهد بدخو نکنم رسم این است\r\nکه چو صبحی بدمد در پی اش افتد شامی\r\nیار من چون بخرامد به تماشای چمن\r\nبرسانش ز من ای پیک صبا پیغامی\r\nآن حریفی که شب و روز می صاف کشد\r\nبود آیا که کند یاد ز دردآشامی\r\nحافظا گر ندهد داد دلت آصف عهد\r\nکام دشوار به دست آوری از خودکامی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان می عشق، کز او پخته شود هر خامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر چه ماه رمضان است بیاور جامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزها رفت که دست من مسکین نگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف شمشادقدی، ساعد سیم‌اندامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزه هر چند که مهمان عزیز است ای دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصحبتش موهبتی دان و شدن، انعامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ زیرک به در خانقه اکنون نپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نهاده‌ست به هر مجلس وعظی دامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگله از زاهد بدخو نکنم؛ رسم این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو صبحی بدمد، در پی‌اش افتد شامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار من چون بخرامد به تماشای چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرسانش ز من ای پیک صبا پیغامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن حریفی که شب و روز می صاف کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود آیا که کند یاد ز دردآشامی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظا گر ندهد دادِ دلت آصف عهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکام دشوار به دست آوری از خودکامی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان می عشق، کز او پخته شود هر خامی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به مانند نوشیدنی‌ای است که می‌تواند هر ناپخته و خامی را به کمال برساند. حتی اگر زمان رمضان باشد، باز هم بر این نکته تأکید می‌شود که باید جامی از این عشق بیاوری."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر چه ماه رمضان است بیاور جامی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزها رفت که دست من مسکین نگرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزها سپری شد و من که بیچاره‌ام، نتوانستم زلف‌های زیبای آن رقاصه‌ی خوش‌هیکل را بگیرم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زلف شمشادقدی، ساعد سیم‌اندامی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روزه هر چند که مهمان عزیز است ای دل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند روزه یک مهمان ارزشمند است، اما ای دل، خود گفتگو با آن را یک نعمت بدان و به قدمت آن خوش آمد بگو."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صحبتش موهبتی دان و شدن، انعامی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرغ زیرک به در خانقه اکنون نپرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرغ باهوش دیگر به درِ صومعه نمی‌پرد، زیرا در هر جلسه‌ی وعظ تله‌ای گذاشته شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که نهاده‌ست به هر مجلس وعظی دامی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گله از زاهد بدخو نکنم؛ رسم این است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زاهد بدخلق شکایت نمی‌کنم؛ چون همیشه پس از سپیده‌دم، شب به همراه خود می‌آورد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که چو صبحی بدمد، در پی‌اش افتد شامی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یار من چون بخرامد به تماشای چمن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی یار من به تماشا در چمن می‌آید، ای پیک صبح، پیامم را به او برسان."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "برسانش ز من ای پیک صبا پیغامی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "آن حریفی که شب و روز می صاف کشد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است کسی که همیشه در حال نوشیدن شراب است، به یاد دردهای ناشی از آن بیفتد؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بود آیا که کند یاد ز دردآشامی؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حافظا گر ندهد دادِ دلت آصف عهد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ، اگر دل تو را به خواسته‌ات نرسانند، در این صورت برای به دست آوردن آرزوی سخت و دشوار، باید از خودخواهی خود دوری کنی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کام دشوار به دست آوری از خودکامی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 125
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 100
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "پخته شدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "فهمیده و کامل شدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 2,
+          "ConceptId": 472
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 1195
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 346
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 257
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "رند عاشق پیشه مست"
+        }
+      ]
+    }
+  ]
+}

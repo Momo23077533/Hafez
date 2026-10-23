@@ -1,0 +1,188 @@
+{
+  "Id": 2280,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۵۱",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۵۱",
+  "FullUrl": "/hafez/ghazal/sh151",
+  "RhymeLetters": "رنمیارزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "این غزل به بیان ارزش واقعی زندگی می‌پردازد. حافظ می‌گوید که تمامی دنیای مادی هم حتی ارزش یک لحظه غم و اندوه را ندارد. شاعر\u00A0 تعصب بر دین و مطالبه ی قدرت را به سخره میگیرد و در نهایت راه قناعت توصیه می‌کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنمیارزد",
+      "PlainText": "دمی با غم به سر بردن جهان یک سر نمی ارزد\r\nبه می بفروش دلق ما کز این بهتر نمی ارزد\r\nبه کوی می فروشانش به جامی بر نمی گیرند\r\nزهی سجاده تقوا که یک ساغر نمی ارزد\r\nرقیبم سرزنش ها کرد کز این باب رخ برتاب\r\nچه افتاد این سر ما را که خاک در نمی ارزد\r\nشکوه تاج سلطانی که بیم جان در او درج است\r\nکلاهی دلکش است اما به ترک سر نمی ارزد\r\nچه آسان می نمود اول غم دریا به بوی سود\r\nغلط کردم که این طوفان به صد گوهر نمی ارزد\r\nتو را آن به که روی خود ز مشتاقان بپوشانی\r\nکه شادی جهانگیری غم لشکر نمی ارزد\r\nچو حافظ در قناعت کوش و از دنیای دون بگذر\r\nکه یک جو منت دونان دو صد من زر نمی ارزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدَمی با غم به سر بردن، جهان یک سر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه می بفروش دلقِ ما، کز این بهتر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کویِ می فروشانش، به جامی بر نمی‌گیرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهی سجادهٔ تقوا که یک ساغر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرقیبم سرزنش‌ها کرد کز این باب رُخ برتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه افتاد این سر ما را که خاکِ در نمی‌ارزد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکوهِ تاجِ سلطانی که بیمِ جان در او دَرج است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلاهی دلکش است اما به تَرکِ سر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه آسان می‌نمود اول غمِ دریا به بوی سود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلط کردم که این طوفان به صد گوهر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را آن بِهْ که رویِ خود ز مشتاقان بپوشانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شادیِّ جهانگیری، غمِ لشکر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو حافظ در قناعت کوش و از دنیایِ دون بگذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یک جو مِنَّتِ دونان دو صد من زر نمی‌ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7,
+      "MetreId": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دَمی با غم به سر بردن، جهان یک سر نمی‌ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "یک لحظه زندگی با غم و اندوه، به اندازه‌ی کل جهان نمی‌ارزد. لباس درویشی من را در قبال یک جام شراب بفروش که این بهترین معامله است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به می بفروش دلقِ ما، کز این بهتر نمی‌ارزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به کویِ می فروشانش، به جامی بر نمی‌گیرند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "چه بسیار سجاده ی (جانماز) انسان های به ظاهر با تقوا، که در بازار می فروشان حتی به اندازه ی یک جام شراب هم ارزش ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زهی سجادهٔ تقوا که یک ساغر نمی‌ارزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رقیبم سرزنش‌ها کرد کز این باب رُخ برتاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "رغیب نادانم مرا سرزنش میکند\u00A0که از رفتن به میخانه منصرف شوم. چه تصوری در ذهن ما انسان ها افتاده است که حتی سرمان از خاک در میخانه با ارزش تر است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه افتاد این سر ما را که خاکِ در نمی‌ارزد؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شکوهِ تاجِ سلطانی که بیمِ جان در او دَرج است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "تاج با شکوه سلطان، که در اصل ترس جانش در آن درج شده است. گرچه کلاهی زیباست، اما داشتنش به از دست دادن حضور و شرف انسانی نمی ارزد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کلاهی دلکش است اما به تَرکِ سر نمی‌ارزد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه آسان می‌نمود اول غمِ دریا به بوی سود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "در ابتدا فکر میکردم که تحمل سختی نوردیدن دریای طوفانی زندگی، به خاطر سود مادی اش، خیلی ساده است. واقعا اشتباه تصور میکردم زیرا صد گوهر گران بها هم به تن دادن به این طوفان نمی ارزد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غلط کردم که این طوفان به صد گوهر نمی‌ارزد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تو را آن بِهْ که رویِ خود ز مشتاقان بپوشانی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "تو مثل یوسف گم گشته ای اگه بیای همه از غم میمیرن دوباره نباشی"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که شادیِّ جهانگیری، غمِ لشکر نمی‌ارزد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چو حافظ در قناعت کوش و از دنیایِ دون بگذر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "مثل حافظ قانع باش که در قناعت گنجی هست که تورو از منت نان رها میکنه"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که یک جو مِنَّتِ دونان دو صد من زر نمی‌ارزد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 2,
+          "Misra": 0
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "ترک و رها کردن"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "کلاهخود آهنین"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "چیز کم و اندک"
+        }
+      ]
+    }
+  ]
+}

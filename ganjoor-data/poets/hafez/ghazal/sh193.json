@@ -1,0 +1,320 @@
+{
+  "Id": 2322,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۹۳",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۹۳",
+  "FullUrl": "/hafez/ghazal/sh193",
+  "RhymeLetters": "انند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به تمجید از عشق و حال معنوی می‌پردازد و تأکید می‌کند که عاقلان واقعی در دایره عشق، حیران و سرگردان‌اند. او خود را در میان عاشقان و مستان می‌بیند و به زیبایی‌های عشق و باری که بر دوش عاشق است، اشاره می‌کند. او به زهد و ظواهر دینی انتقاد می‌کند و عشق حقیقی را برتر از علم و ظواهر می‌داند. در پایان، شاعر به اهمیت یادگیری از عشق و زیبایی چشمان معشوق می‌پردازد و بر این باور است که تنها عشق می‌تواند دل‌ها را روشن کند و به کمال برساند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انند",
+      "PlainText": "در نظربازی ما بی خبران\nحیرانند\r\nمن چنینم که نمودم دگر ایشان دانند\r\nعاقلان نقطه پرگار وجودند\nولی\r\nعشق داند که در این دایره سرگردانند\r\nجلوه گاه رخ او دیده\nمن تنها نیست\r\nماه و خورشید همین آینه می گردانند\r\nعهد ما با لب شیرین دهنان\nبست خدا\r\nما همه بنده و این قوم خداوندانند\r\nمفلسانیم و هوای می و\nمطرب داریم\r\nآه اگر خرقه پشمین به گرو نستانند\r\nوصل خورشید به شب پره\nاعمیٰ نرسد\r\nکه در آن آینه صاحب نظران حیرانند\r\nلاف عشق و گله از یار\nزهی لاف دروغ\r\nعشق بازان چنین مستحق هجرانند\r\nمگرم چشم سیاه تو بیاموزد\nکار\r\nورنه مستوری و مستی همه کس نتوانند\r\nگر به نزهتگه ارواح\nبرد بوی تو باد\r\nعقل و جان گوهر هستی به نثار افشانند\r\nزاهد ار رندی حافظ\nنکند فهم چه شد\r\nدیو بگریزد از آن قوم که قرآن خوانند\r\nگر شوند آگه از اندیشه\nما مغ بچگان\r\nبعد از این خرقه صوفی به گرو نستانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نظربازی ما، بی‌خبران،\nحیرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن، چنینم که نمودم؛ دگر ایشان دانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقلان، نقطهٔ پرگار وجودند\nولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق داند که در این دایره، سرگردانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجلوه‌گاه رخ او، دیدهٔ\nمن، تنها نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماه و خورشید، همین آینه می‌گردانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعهد ما با لب شیرین‌دهنان\nبست خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما، همه، بنده و این قوم، خداوندانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفلسانیم و هوای می و\nمطرب داریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه اگر خرقهٔ پشمین به گرو نستانند!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصل خورشید به شب‌پرّهٔ\nاعمیٰ نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در آن آینه، صاحب‌نظران، حیرانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاف عشق و گِله از یار؟\nزهی لاف دروغ!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق‌بازانِ چُنین، مستحقِ هجرانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگرم چشم سیاه تو بیاموزد\nکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه مستوری و مستی، همه‌کس نتْوانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به نُزهتگهِ ارواح\nبَرَد بویِ تو، باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل و جان، گوهر هستی به نثار افشانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاهد ار رندیِ «حافظ»\nنکند فهم، چه شد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو بگریزد از آن قوم که قرآن خوانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر شوند آگه از اندیشهٔ\nما، مغ‌بَچگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد از این، خرقهٔ صوفی به گرو نستانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در نظربازی ما، بی‌خبران،\nحیرانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "آدم‌های نادان معنی نظربازی ما را نمی‌دانند؛ من همان هستم که به‌آنها نمودم‌، حالا خود می‌دانند که چه برداشت کنند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من، چنینم که نمودم؛ دگر ایشان دانند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاقلان، نقطهٔ پرگار وجودند\nولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "عاقلان و آنها که از عشق بی‌خبر هستند گرامی و گرانقدر هستند اما عشق‌، بها و ارزشی برای آنها قائل نیست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق داند که در این دایره، سرگردانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جلوه‌گاه رخ او، دیدهٔ\nمن، تنها نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "فقط من نیستم که پیوسته به‌او می‌نگرم و عاشق او هستم، بلکه ماه و خورشید نیز همین‌کار را می‌کنند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ماه و خورشید، همین آینه می‌گردانند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عهد ما با لب شیرین‌دهنان\nبست خدا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ما از ازل پیمان عشق خود را با شیرین‌دهنان بسته‌ایم؛ ما بندگان هستیم و آنها پادشاهان هستند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما، همه، بنده و این قوم، خداوندانند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مفلسانیم و هوای می و\nمطرب داریم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "مفلس و بی‌پول هستیم و برای می و موسیقی می‌خواهیم به خرابات برویم؛ وای بر ما اگر خرقه پشمین ما را به‌گرو قبول نکنند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آه اگر خرقهٔ پشمین به گرو نستانند!",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "وصل خورشید به شب‌پرّهٔ\nاعمیٰ نرسد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "خفاش کور نمی‌تواند به وصل خورشید برسد؛ حتی صاحب‌نظران نیز در آن دیدار، حیران می‌شوند (چه رسد به خفاش کور)"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که در آن آینه، صاحب‌نظران، حیرانند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "لاف عشق و گِله از یار؟\nزهی لاف دروغ!",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "لاف عاشقی زدن و شکایت از جور یار‌، دو چیز با هم ناساز هستند کسانی‌که این‌چنین هستند لایق وصال نیستند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "عشق‌بازانِ چُنین، مستحقِ هجرانند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "مگرم چشم سیاه تو بیاموزد\nکار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "مگر چشمان سیاه تو راهش را به‌من بیاموزد وگرنه نمی‌توانم مستی خود را پنهان کنم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ورنه مستوری و مستی، همه‌کس نتْوانند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گر به نُزهتگهِ ارواح\nبَرَد بویِ تو، باد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر عطر خوش تو را باد به بهشت برساند در آنجا عقل و جان خود را به‌شکرانه می‌بخشند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "عقل و جان، گوهر هستی به نثار افشانند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "زاهد ار رندیِ «حافظ»\nنکند فهم، چه شد؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "زاهد اگر رندی و نکته‌های حافظ را نمی‌فهمد (و او را سرزنش می‌کند) غیر از این نیست که دیوها نیز از آنان‌که قرآن می‌خوانند، می‌گریزند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "دیو بگریزد از آن قوم که قرآن خوانند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گر شوند آگه از اندیشهٔ\nما، مغ‌بَچگان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر مغبچگان از اندیشه ما آگاه شوند، بعد از این‌، صوفی را در خرابات نمی‌پذیرند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بعد از این، خرقهٔ صوفی به گرو نستانند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 657
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 658
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "باارزشترین موجودات هستی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 659
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 660
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 624
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 367
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "بهشت"
+        }
+      ]
+    }
+  ]
+}

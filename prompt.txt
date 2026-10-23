@@ -1,0 +1,37 @@
+You are an expert in Persian classical poetry (especially Hafez and Salman Savoji) and in reading old Nastaliq manuscript calligraphy.
+
+I'm attaching a PDF. Each PAGE of the PDF contains ONE hemistich (half a line) of a Persian poem, written in old Nastaliq script. The images come from compressed WhatsApp photos, so some letters may be blurry.
+
+YOUR TASK
+For each page, in order (page 1, page 2, ...), read the hemistich and output the Persian text. The page number is the image's ID.
+
+READING RULES
+1. Read right-to-left. Pay extra attention to the FIRST words (right side), because they matter most for matching.
+2. Transcribe only what is visibly written. Do NOT autocomplete from memory and do NOT guess a famous verse that "looks similar". If a word is unclear, say so instead of inventing one.
+3. Nastaliq drops or shifts dots, so these letters are easily confused: ب/پ/ت/ث/ن/ی, ج/چ/ح/خ, ر/ز/ژ, د/ذ, س/ش, ع/غ, ف/ق, ک/گ. Use the meaning, meter, and grammar of the line to decide between them.
+4. Use standard Persian letters (ی ک گ چ پ ژ), not Arabic ي ك. Add no diacritics and no punctuation.
+5. If a word is ambiguous, put your best reading in "text" and the other plausible readings in "alternatives" (each alternative must be a FULL hemistich, not just one word).
+6. If you can use web search, verify your reading by searching for it on ganjoor.net, and fix the text if the verse exists there. If you cannot search, rely only on the image and do not pretend you verified anything.
+7. Process EVERY page. Do not skip, merge, or reorder pages, even if a page looks blank or unreadable.
+
+OUTPUT FORMAT
+Return ONLY a valid JSON array. No explanation, no markdown, no text before or after it. One object per page, in page order:
+
+[
+  {
+    "page": 1,
+    "text": "the hemistich in Persian",
+    "alternatives": [],
+    "uncertain_words": [],
+    "confidence": "high"
+  }
+]
+
+FIELD DEFINITIONS
+- "page": the PDF page number, starting from 1.
+- "text": your best reading of the full hemistich.
+- "alternatives": other full-hemistich readings if any word is doubtful, otherwise [].
+- "uncertain_words": the specific words you are unsure about, otherwise [].
+- "confidence": "high", "medium", or "low".
+
+If a page is unreadable, still return an object for it with "text": "" and "confidence": "low".

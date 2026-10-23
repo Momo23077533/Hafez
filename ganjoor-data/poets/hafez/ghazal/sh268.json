@@ -1,0 +1,301 @@
+{
+  "Id": 2397,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۶۸",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۶۸",
+  "FullUrl": "/hafez/ghazal/sh268",
+  "RhymeLetters": "انمارابس",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: حافظ در این غزل بر لزوم رضایت از دنیای خود تأکید می‌کند و به زیبایی‌های موجود در زندگی اشاره دارد. او با بیان اینکه یک گلستان زیبا و سایه‌ی سروی برایش کافی است، نشان می‌دهد که به دور از مادیات و ریا، کیفیت زندگی برایش مهم‌تر از کمیت آن است. حافظ از سرنوشت خود راضی است و از دنیا و آزار آن می‌گذرد؛ زیرا همراهی با یار و دوستی کافی است. در نهایت، او به جای درخواست بهشت، از خداوند می‌خواهد که در کوی عشق و محبت باقی بماند و غزل‌هایش را ببیند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمارابس",
+      "PlainText": "گلعذاری ز گلستان جهان ما را بس\r\nزین چمن سایه آن سرو روان ما را بس\r\nمن و همصحبتی اهل ریا دورم باد\r\nاز گرانان جهان رطل گران ما را بس\r\nقصر فردوس به پاداش عمل می بخشند\r\nما که رندیم و گدا دیر مغان ما را بس\r\nبنشین بر لب جوی و گذر عمر ببین\r\nکاین اشارت ز جهان گذران ما را بس\r\nنقد بازار جهان بنگر و آزار جهان\r\nگر شما را نه بس این سود و زیان ما را بس\r\nیار با ماست چه حاجت که زیادت طلبیم\r\nدولت صحبت آن مونس جان ما را بس\r\nاز در خویش خدا را به بهشتم مفرست\r\nکه سر کوی تو از کون و مکان ما را بس\r\nحافظ از مشْرب قسمت گله ناانصافیست\r\nطبع چون آب و غزل های روان ما را بس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگُلعِذاری ز گلستانِ جهان ما را بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین چمن سایهٔ آن سروِ روان ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و همصحبتیِ اهلِ ریا دورَم باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گرانانِ جهان، رَطلِ گران ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصرِ فردوس به پاداشِ عمل می‌بخشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما که رندیم و گدا، دیرِ مُغان ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنشین بر لبِ جوی و گذرِ عمر ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین اشارت ز جهانِ گذران، ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقدِ بازارِ جهان بِنگر و آزارِ جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شما را نه بس این سود و زیان ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار با ماست، چه حاجت که زیادت طلبیم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولتِ صحبتِ آن مونسِ جان ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز درِ خویش خدا را به بهشتم مَفرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سرِ کویِ تو از کون و مکان ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ از مَشْرَبِ قسمت گِلِه ناانصافیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبعِ چون آب و غزل‌هایِ روان ما را بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گُلعِذاری ز گلستانِ جهان ما را بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از گلستانی که در دنیا داریم، فقط به همین گل براق اکتفا می‌کنیم، و به تهدیدهای آن سرو بلند از چمن اکتفا داریم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین چمن سایهٔ آن سروِ روان ما را بس",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من و همصحبتیِ اهلِ ریا دورَم باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من و افرادی که فقط ظاهر را می‌بینند و به حقیقت توجه نمی‌کنند، فاصله داریم. برای ما، زندگی ساده و بی‌دردسر با چیزهای کم ارزش کافی است و نیازی به دنیا و زرق و برق‌های آن نداریم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گرانانِ جهان، رَطلِ گران ما را بس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "قصرِ فردوس به پاداشِ عمل می‌بخشند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر کارهای خوب، به انسان‌ها قصرهای بهشتی می‌دهند، اما ما که آدم‌های بی‌پروا و نیازمندیم، برای ما همین محیط ساده و مودبانه‌ی میخانه کافی است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما که رندیم و گدا، دیرِ مُغان ما را بس",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بنشین بر لبِ جوی و گذرِ عمر ببین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار جوی آب بنشین و به گذر زمان نگاه کن؛ این نشانه‌ای از دنیای زودگذر است و برای ما کافی است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاین اشارت ز جهانِ گذران، ما را بس",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نقدِ بازارِ جهان بِنگر و آزارِ جهان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اوضاع و احوال دنیا دقت کن و مشکلاتی که در آن وجود دارد. اگر این نفع و ضرر شما را راضی نمی‌کند، برای ما همین کافی است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر شما را نه بس این سود و زیان ما را بس",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یار با ماست، چه حاجت که زیادت طلبیم؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست کنار ماست، پس چه نیازی به خواسته‌های بیشتر داریم؟ خوشی و نعمت این همراهی برای ما کافی است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دولتِ صحبتِ آن مونسِ جان ما را بس",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از درِ خویش خدا را به بهشتم مَفرست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از در خانه خود خدا را به بهشت نخوان، زیرا که در کوی تو برای ما از هر چیزی با ارزش‌تر است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که سرِ کویِ تو از کون و مکان ما را بس",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حافظ از مَشْرَبِ قسمت گِلِه ناانصافیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ می‌گوید که ناعدالتی در تقسیم راحتی و نعمت‌ها باعث شده که طبع و شعر او که مانند آب روان است، مورد بی توجهی قرار بگیرد. به عبارت دیگر، او احساس می‌کند که لایق آرامش و زیبایی است، اما این حق به او داده نشده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "طبعِ چون آب و غزل‌هایِ روان ما را بس",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 215
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 335
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "افراد ناگوار و نامطبوع که معاشرت با آنان برای دیگران ملال آور و نامطبوع است."
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 834
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 558
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 580
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 835
+        }
+      ]
+    }
+  ]
+}

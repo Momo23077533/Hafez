@@ -1,0 +1,106 @@
+{
+  "Id": 38877,
+  "CatId": 1135,
+  "Title": "قطعه شمارهٔ ۷۸",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » قطعات » قطعه شمارهٔ ۷۸",
+  "FullUrl": "/salman/divanss/ghetess/sh78",
+  "RhymeLetters": "ند",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این قطعه با بیان عشق و شوق خود به معشوق، از رنج و درد ناشی از جدایی سخن می‌گوید. او به یاد معشوق هر لحظه دعا می‌کند و به مقام و عظمت او سوگند می‌خورد. با وجود درد شدید و مشکلاتی که بر سر راه عشقش قرار دارد، نمی‌تواند از معشوق دل بکند و همچنان در بند عشق او باقی می‌ماند. در نهایت، تحمیل بخت زشت بر او، باعث می‌شود که علی‌رغم میل قلبی‌اش، نتواند به وصال معشوق دست یابد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ند",
+      "PlainText": "خسروا یاد می کنم هر دم \r\nبه سر تخت خسروی سوگند \r\nکه به همراهی مواکب شاه \r\nهست چون دیده ام دل اندر بند \r\nچشم زخمی رسید ناگاهم \r\nدرد چشمم ز راه باز افکند \r\nخواستیم تا کنم به دیده و دل \r\nخدمتت منع کرد بخت نژند\r\nدل به کلی ز خویش برکندم \r\nدیده را بر نمی توانم کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخسروا یاد می‌کنم هر دم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر تخت خسروی سوگند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه به همراهی مواکب شاه \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست چون دیده‌ام دل اندر بند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم زخمی رسید ناگاهم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد چشمم ز راه باز افکند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواستیم تا کنم به دیده و دل \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدمتت منع کرد بخت نژند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل به کلی ز خویش برکندم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیده را بر نمی‌توانم کند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 5,
+      "MetreId": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خسروا یاد می‌کنم هر دم ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه نام بزرگان را به یاد می‌آورم و به عزت و مقام شاهانه آن‌ها قسم می‌خورم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به سر تخت خسروی سوگند ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که به همراهی مواکب شاه ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در کنار کاروان شاه هستم و چون این را مشاهده کرده‌ام، دل‌ام در عشق و دلبستگی گرفتار شده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هست چون دیده‌ام دل اندر بند ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشم زخمی رسید ناگاهم ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمم به ناگه زخمی شد و از درد آن، دیگر نتوانستم راه بروم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "درد چشمم ز راه باز افکند ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خواستیم تا کنم به دیده و دل ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواستم به تو خدمت کنم و در دل و چشمم تو را ببینم، اما بخت بد مانع شد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خدمتت منع کرد بخت نژند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل به کلی ز خویش برکندم ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خود را کاملاً از تمام وابستگی‌ها و تعلقاتش آزاد کرده‌ام، اما نمی‌توانم از دیدن آنچه در اطرافم می‌گذرد، خود را جدا کنم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دیده را بر نمی‌توانم کند ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

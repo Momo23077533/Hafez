@@ -1,0 +1,331 @@
+{
+  "Id": 2517,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۳۸۸",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳۸۸",
+  "FullUrl": "/hafez/ghazal/sh388",
+  "RhymeLetters": "ن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر در وصف بهار و زیبایی‌های آن است، که با ورود باد صبا و ظهور گل‌ها، حال و هوای شادی و طرب را به تصویر می‌کشد. شاعر به توبه شکنی و رهایی از غم دعوت می‌کند و از دل صافی مانند آب برای جستجوی حقیقت می‌گوید. زیبایی گل‌ها و گیسوان سنبل را توصیف می‌کند و به محبت و خوشی‌های زندگی اشاره می‌کند. در نهایت، او از همصحبتی با خوبان و لذت بردن از باده سخن می‌گوید و به نصیحت‌های حکیمانه برجسته اشاره می‌نماید.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "بهار و گل طرب انگیز گشت و توبه شکن\r\nبه شادی رخ گل بیخ غم ز دل بر کن\r\nرسید باد صبا غنچه در هواداری\r\nز خود برون شد و بر خود درید پیراهن\r\nطریق صدق بیاموز از آب صافی دل\r\nبه راستی طلب آزادگی ز سرو چمن\r\nز دستبرد صبا گرد گل کلاله نگر\r\nشکنج گیسوی سنبل ببین به روی سمن\r\nعروس غنچه رسید از حرم به طالع سعد\r\nبعینه دل و دین می برد به وجه حسن\r\nصفیر بلبل شوریده و نفیر هزار\r\nبرای وصل گل آمد برون ز بیت حزن\r\nحدیث صحبت خوبان و جام باده بگو\r\nبه قول حافظ و فتوی پیر صاحب فن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهار و گل طرب‌انگیز گشت و توبه‌شکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شادی رخِ گل بیخ غم ز دل بر کن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرسید باد صبا غنچه در هواداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خود برون شد و بر خود درید پیراهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطریق صدق بیاموز از آب صافیِ دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه راستی طلب آزادگی ز سرو چمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دستبرد صبا گرد گل کلاله نگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکنج گیسوی سنبل ببین به روی سمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعروس غنچه رسید از حرم به طالع سعد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعینه دل و دین می‌برد به وجه حسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصفیر بلبل شوریده و نفیر هزار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرای وصل گل آمد برون ز بیت حزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیث صحبت خوبان و جام باده بگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قول حافظ و فتوی پیر صاحب فن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار و گل طرب‌انگیز گشت و توبه‌شکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار فرا رسیده و گل‌ها زیبا و شاداب شده‌اند. در این زمان شادمانی، با ترک غم و اندوه، از دل خود غم را دور کن و به شادی بپرداز."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به شادی رخِ گل بیخ غم ز دل بر کن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسید باد صبا غنچه در هواداری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نسیم خوشبو به سمت غنچه‌ای آمد و آن را از پس خود رها کرد و پیراهنش را که به آن بسته بود، درید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز خود برون شد و بر خود درید پیراهن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "طریق صدق بیاموز از آب صافیِ دل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آموختن صداقت را از آب زلال یاد بگیر و برای دستیابی به آزادی به راستی تلاش کن، مانند سروهایی که در چمن رشد می‌کنند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به راستی طلب آزادگی ز سرو چمن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز دستبرد صبا گرد گل کلاله نگر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دقت به زیبایی گل‌ها و گیسوان پنبه‌ای نگاه کن، که نسیم لطیف بر آنها می‌وزد و آنها را در هم می‌پیچد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شکنج گیسوی سنبل ببین به روی سمن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عروس غنچه رسید از حرم به طالع سعد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عروسی که از حرم خارج شده، به خوشی و خوشبختی می‌رسد و با زیبایی و چهره جذابش، دل و ایمان را تحت تأثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بعینه دل و دین می‌برد به وجه حسن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صفیر بلبل شوریده و نفیر هزار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای زیبای بلبل عاشق و فریاد هزاران عاشق برای رسیدن به گل، از دنیای غم و اندوه بیرون آمده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "برای وصل گل آمد برون ز بیت حزن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "حدیث صحبت خوبان و جام باده بگو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از سخنانی که درباره خوبی‌ها و زیبایی‌هاست بگو، و درباره پیمانه‌ی شراب بگو، به قول حافظ و بر اساس نظر someone که در این زمینه صاحب‌نظر است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به قول حافظ و فتوی پیر صاحب فن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "از خود برون شدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "خود را فراموش کردن و از خود بی خود گشتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "پیراهن دریدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "آشکار گشتن، شکفتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 130
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 741
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "شیفته و بی قرار کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "با صورت زیبا و نیکو"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "روش نیکو و پسندیده"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 8,
+          "ConceptId": 1063
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 797
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "Id": 2300,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۷۱",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۷۱",
+  "FullUrl": "/hafez/ghazal/sh171",
+  "RhymeLetters": "ارتامد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به صفا و زیبایی لحظات عاشقانه و همچنین حضور محبوب اشاره می‌کند. او به اهمیت وجود یار و نقش او در شادابی دل پرداخته و از برکات حضور او سخن می‌گوید. حافظ از خواننده می‌خواهد تا عیب‌های او را نپوشاند و به پاکی او توجه کند. همچنین، با توجه به محیط مجلس و ویژگی‌های خوبان، به فرصت‌های زندگی اشاره کرده و تأکید می‌کند که باید از این لحظات استفاده کرد. او در نهایت به اهمیت موقعیت‌ها و فرصت‌هایی که در زندگی پیش می‌آید، تأکید می‌کند.",
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتامد",
+      "PlainText": "دوش از جناب آصف پیک بشارت آمد\r\nکز حضرت سلیمان عشرت اشارت آمد\r\nخاک وجود ما را از آب دیده گل کن\r\nویران سرای دل را گاه عمارت آمد\r\nاین شرح بی نهایت کز زلف یار گفتند\r\nحرفی ست از هزاران کاندر عبارت آمد\r\nعیبم بپوش زنهار ای خرقه می آلود\r\nکآن پاک پاک دامن بهر زیارت آمد\r\nامروز جای هر کس پیدا شود ز خوبان\r\nکآن ماه مجلس افروز اندر صدارت آمد\r\nبر تخت جم که تاجش معراج آسمان است\r\nهمت نگر که موری با آن حقارت آمد\r\nاز چشم شوخش ای دل ایمان خود نگه دار\r\nکآن جادوی کمانکش بر عزم غارت آمد\r\nآلوده ای تو حافظ فیضی ز شاه درخواه\r\nکآن عنصر سماحت بهر طهارت آمد\r\nدریاست مجلس او دریاب وقت و در یاب\r\nهان ای زیان رسیده وقت تجارت آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوش از جنابِ آصف، پیکِ بشارت آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز حضرتِ سلیمان، عشرت اشارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاکِ وجود ما را، از آبِ دیده گِل کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eویران‌سرایِ دل را، گاهِ عمارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین شرحِ بی‌نهایت، کز زلفِ یار گفتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرفی‌ست از هزاران، کاَندر عبارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیبم بپوش زنهار، ای خرقهٔ مِی‌آلود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن پاکْ پاک‌دامن، بهرِ زیارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز جایِ هر کس، پیدا شود ز خوبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن ماهِ مجلس‌افروز، اندر صدارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر تختِ جم که تاجش، معراجِ آسمان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمّت نگر که موری، با آن حقارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشمِ شوخش ای دل! ایمانِ خود نگه دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن جادویِ کمانکش، بر عزمِ غارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآلوده‌ای تو حافظ، فیضی ز شاه درخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن عنصرِ سَماحت، بهرِ طهارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریاست مجلسِ او، دَریاب وقت و دُر یاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهان ای زیان‌رسیده وقتِ تجارت آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش از جنابِ آصف، پیکِ بشارت آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "دیشب پیام مژده‌ای از جناب آصف رسید که حضرت سلیمان فرمان کامرانی صادر کرده است. [منظور حافظ از آصف (وزیر سلیمان) و سلیمان به ترتیب عبارت است از خواجه قوام‌الدین صاحب عیار (وزیر شاه شجاع) و شاه شجاع.]"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز حضرتِ سلیمان، عشرت اشارت آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاکِ وجود ما را، از آبِ دیده گِل کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "با اشک‌، از خاک وجود ما گِل درست کن؛ (زیرا) زمان آبادنی خانهٔ ویران دل فرا رسیده است. [به یاد داشته باشیم که تا همین 60-50 سال گذشته از گِل و کاهگِل برای ساختن خانه استفاده می‌شد.]"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ویران‌سرایِ دل را، گاهِ عمارت آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این شرحِ بی‌نهایت، کز زلفِ یار گفتند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "این شرح بی‌پایان که در بارهٔ زلف یار گفتند، تنها یکی از هزاران حرفی است که به زبان آمد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حرفی‌ست از هزاران، کاَندر عبارت آمد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عیبم بپوش زنهار، ای خرقهٔ مِی‌آلود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "زنهار ای خرقهٔ آلوده به می، عیبم را بپوشان؛ که شخصی کاملا پاکدامن برای دیدار آمده است. [به استناد لغتنامه دهخدا (ستون اول، صفحه 5366، چاپ انتشارات دانشگاه تهران، سال 1377)، «پاک» به معنی «کاملا» یا «تماما» می‌باشد. بررسی اسناد نشان می‌دهد که مفهوم\u00A0«پاک ویران»\u00A0 (به معنی «کاملا ویران»)\u00A0از سوی فردوسی 7 بار و از سوی ملک‌الشعرا بهار 1 بار به کار رفته است. گذشته از آن، «پاک شوید» (به معنی «کاملا بشوید») در اشعار شیخ محمود شبستری، شاه نعمت‌الله ولی و علیشیر نوایی به کار رفته است. مفهوم «پاک شُست» نیز تا کنون 11 بار در متون دیده شده است. درخور یادآوری است که\u00A0واژهٔ «پاک» هم اکنون نیز در سراسر ایران به همان معنی «کاملا» به کار می‌رود (نمونه: «پاک دیوانه شده است!»).]"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کآن پاکْ پاک‌دامن، بهرِ زیارت آمد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "امروز جایِ هر کس، پیدا شود ز خوبان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز هر کس در جایگاه خود مشخص می‌شود، چون آن معشوق دلربا که مجلس را روشن می‌کند، در مقام رهبری و اداره امور آمده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کآن ماهِ مجلس‌افروز، اندر صدارت آمد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بر تختِ جم که تاجش، معراجِ آسمان است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تخت شاهانه‌ای که تاج آن نماد بلندی آسمان است، توجه کن که موری (مورچه‌ای) با آن کوچکی و حقارتش به آنجا آمده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "همّت نگر که موری، با آن حقارت آمد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از چشمِ شوخش ای دل! ایمانِ خود نگه دار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی و جذابیت چشمان او، ای دل، ایمان خود را حفظ کن، زیرا آن جذبه و سحری که در کمان او نهفته است، می‌تواند همه چیز را ببرد و تو را نیز درگیر کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کآن جادویِ کمانکش، بر عزمِ غارت آمد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "آلوده‌ای تو حافظ، فیضی ز شاه درخواه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "حافظ! تو آلوده‌ای، از شاه شجاع لطفی بخواه. زیرا این عنصر بخشندگی، برای پاکی آمده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کآن عنصرِ سَماحت، بهرِ طهارت آمد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دریاست مجلسِ او، دَریاب وقت و دُر یاب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "محفل او دریاست؛ زمان را غنیمت بشمار و از آن بهره برگیر . ای زیان دیده! زمان بده-بِستان فرا رسیده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هان ای زیان‌رسیده وقتِ تجارت آمد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 603
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "ConceptId": 590
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "عنوان احترام آمیز برای بزرگان"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "درگاه، پیشگاه."
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 88
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 509
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "ConceptId": 208
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 8
+        }
+      ]
+    }
+  ]
+}

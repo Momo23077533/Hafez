@@ -1,0 +1,4478 @@
+[
+  {
+    "Id": 2,
+    "Person1Id": 4,
+    "Person2Id": 3,
+    "AffiliationType": "Rival",
+    "Note": "هوشنگ خروزان دیو را به انتقام خون پدرش کشت",
+    "Evidence": []
+  },
+  {
+    "Id": 3,
+    "Person1Id": 8,
+    "Person2Id": 6,
+    "AffiliationType": "Rival",
+    "Note": "ضحاک جمشید را کشت",
+    "Evidence": []
+  },
+  {
+    "Id": 4,
+    "Person1Id": 13,
+    "Person2Id": 5,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1341,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Person1Id": 16,
+    "Person2Id": 8,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1347,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Person1Id": 17,
+    "Person2Id": 8,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1347,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Person1Id": 25,
+    "Person2Id": 24,
+    "AffiliationType": "Other",
+    "Evidence": []
+  },
+  {
+    "Id": 8,
+    "Person1Id": 26,
+    "Person2Id": 8,
+    "AffiliationType": "Rival",
+    "Evidence": []
+  },
+  {
+    "Id": 9,
+    "Person1Id": 29,
+    "Person2Id": 8,
+    "AffiliationType": "Minister",
+    "Evidence": []
+  },
+  {
+    "Id": 10,
+    "Person1Id": 30,
+    "Person2Id": 24,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Person1Id": 24,
+    "Person2Id": 31,
+    "AffiliationType": "Rival",
+    "Evidence": []
+  },
+  {
+    "Id": 12,
+    "Person1Id": 24,
+    "Person2Id": 8,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1351,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1355,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1356,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1388,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Person1Id": 26,
+    "Person2Id": 24,
+    "AffiliationType": "Patron",
+    "Evidence": []
+  },
+  {
+    "Id": 14,
+    "Person1Id": 42,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "سپهدار منوچهر",
+    "Evidence": []
+  },
+  {
+    "Id": 15,
+    "Person1Id": 43,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "فرماندهٔ سپاه لشکر منوچهر",
+    "Evidence": []
+  },
+  {
+    "Id": 16,
+    "Person1Id": 44,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "فرماندهٔ سپاه منوچهر",
+    "Evidence": []
+  },
+  {
+    "Id": 17,
+    "Person1Id": 45,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "سردار سپاه",
+    "Evidence": []
+  },
+  {
+    "Id": 18,
+    "Person1Id": 46,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "سردار سپاه",
+    "Evidence": []
+  },
+  {
+    "Id": 19,
+    "Person1Id": 47,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "سردار سپاه",
+    "Evidence": []
+  },
+  {
+    "Id": 20,
+    "Person1Id": 48,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Note": "سردار سپاه",
+    "Evidence": [
+      {
+        "PoemId": 1378,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Person1Id": 31,
+    "Person2Id": 38,
+    "AffiliationType": "Advisor",
+    "Evidence": []
+  },
+  {
+    "Id": 23,
+    "Person1Id": 50,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 24,
+    "Person1Id": 51,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 25,
+    "Person1Id": 38,
+    "Person2Id": 33,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1377,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Person1Id": 38,
+    "Person2Id": 34,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1374,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1375,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Person1Id": 59,
+    "Person2Id": 48,
+    "AffiliationType": "Rival",
+    "Evidence": []
+  },
+  {
+    "Id": 28,
+    "Person1Id": 64,
+    "Person2Id": 38,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 29,
+    "Person1Id": 64,
+    "Person2Id": 63,
+    "AffiliationType": "Rival",
+    "Evidence": []
+  },
+  {
+    "Id": 30,
+    "Person1Id": 14,
+    "Person2Id": 5,
+    "AffiliationType": "Rival",
+    "Evidence": []
+  },
+  {
+    "Id": 31,
+    "Person1Id": 18,
+    "Person2Id": 8,
+    "AffiliationType": "Courtier",
+    "Evidence": []
+  },
+  {
+    "Id": 32,
+    "Person1Id": 53,
+    "Person2Id": 54,
+    "AffiliationType": "Companion",
+    "Evidence": []
+  },
+  {
+    "Id": 33,
+    "Person1Id": 15,
+    "Person2Id": 8,
+    "AffiliationType": "Companion",
+    "Evidence": []
+  },
+  {
+    "Id": 34,
+    "Person1Id": 66,
+    "Person2Id": 62,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 35,
+    "Person1Id": 71,
+    "Person2Id": 62,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 36,
+    "Person1Id": 72,
+    "Person2Id": 62,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 37,
+    "Person1Id": 76,
+    "Person2Id": 55,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 38,
+    "Person1Id": 77,
+    "Person2Id": 55,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 39,
+    "Person1Id": 78,
+    "Person2Id": 55,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 40,
+    "Person1Id": 82,
+    "Person2Id": 60,
+    "AffiliationType": "Other",
+    "Note": "اسب رستم",
+    "Evidence": []
+  },
+  {
+    "Id": 41,
+    "Person1Id": 84,
+    "Person2Id": 62,
+    "AffiliationType": "Champion",
+    "Evidence": []
+  },
+  {
+    "Id": 42,
+    "Person1Id": 3,
+    "Person2Id": 2,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1335,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Person1Id": 42,
+    "Person2Id": 71,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1425,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1427,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Person1Id": 56,
+    "Person2Id": 83,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1427,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Person1Id": 85,
+    "Person2Id": 83,
+    "AffiliationType": "Successor",
+    "Note": "بیت 21: «تو بسپار تابوت و بردار تخت»",
+    "Evidence": [
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "Person1Id": 73,
+    "Person2Id": 85,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1432,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1446,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1476,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1481,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1481,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1486,
+        "CoupletIndex": 148,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87974,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "Person1Id": 62,
+    "Person2Id": 85,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1452,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Person1Id": 62,
+    "Person2Id": 60,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1452,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1495,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88020,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "Person1Id": 60,
+    "Person2Id": 85,
+    "AffiliationType": "Champion",
+    "Evidence": [
+      {
+        "PoemId": 1442,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1453,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "Person1Id": 68,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1464,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "Person1Id": 128,
+    "Person2Id": 85,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1472,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "Person1Id": 60,
+    "Person2Id": 128,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1476,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1478,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1579,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88098,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "Person1Id": 113,
+    "Person2Id": 121,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1487,
+        "CoupletIndex": 102,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "Person1Id": 344,
+    "Person2Id": 121,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1487,
+        "CoupletIndex": 102,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "Person1Id": 125,
+    "Person2Id": 62,
+    "AffiliationType": "Champion",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 52,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 281,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "Person1Id": 62,
+    "Person2Id": 70,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1418,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1420,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1489,
+        "CoupletIndex": 238,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88073,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88083,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "Person1Id": 125,
+    "Person2Id": 121,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1490,
+        "CoupletIndex": 228,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "Person1Id": 62,
+    "Person2Id": 121,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1491,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87954,
+        "CoupletIndex": 53,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 178,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88041,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88058,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88063,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88073,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88083,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88085,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "Person1Id": 60,
+    "Person2Id": 116,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1493,
+        "CoupletIndex": 39,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "Person1Id": 123,
+    "Person2Id": 62,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1495,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 61,
+    "Person1Id": 69,
+    "Person2Id": 125,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1497,
+        "CoupletIndex": 180,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 62,
+    "Person1Id": 144,
+    "Person2Id": 125,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1497,
+        "CoupletIndex": 180,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 63,
+    "Person1Id": 60,
+    "Person2Id": 153,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1506,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 64,
+    "Person1Id": 177,
+    "Person2Id": 176,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1526,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1528,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1542,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1581,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1904,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 65,
+    "Person1Id": 178,
+    "Person2Id": 177,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1532,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1537,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 66,
+    "Person1Id": 177,
+    "Person2Id": 66,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1533,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 67,
+    "Person1Id": 198,
+    "Person2Id": 53,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1565,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 68,
+    "Person1Id": 198,
+    "Person2Id": 208,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1567,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 69,
+    "Person1Id": 163,
+    "Person2Id": 157,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1567,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 70,
+    "Person1Id": 198,
+    "Person2Id": 66,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1568,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 71,
+    "Person1Id": 60,
+    "Person2Id": 102,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1440,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1579,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1592,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87988,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 72,
+    "Person1Id": 60,
+    "Person2Id": 83,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1584,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "Person1Id": 176,
+    "Person2Id": 153,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1592,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88102,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 74,
+    "Person1Id": 60,
+    "Person2Id": 198,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1596,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 75,
+    "Person1Id": 123,
+    "Person2Id": 224,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 76,
+    "Person1Id": 160,
+    "Person2Id": 222,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 77,
+    "Person1Id": 53,
+    "Person2Id": 60,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1600,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 78,
+    "Person1Id": 60,
+    "Person2Id": 198,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1602,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 79,
+    "Person1Id": 177,
+    "Person2Id": 198,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 74,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "Person1Id": 205,
+    "Person2Id": 177,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1532,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1536,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1555,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1605,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1904,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 81,
+    "Person1Id": 151,
+    "Person2Id": 121,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1490,
+        "CoupletIndex": 234,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1609,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "Person1Id": 221,
+    "Person2Id": 177,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1613,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 83,
+    "Person1Id": 199,
+    "Person2Id": 221,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1613,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 84,
+    "Person1Id": 221,
+    "Person2Id": 160,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1616,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "Person1Id": 211,
+    "Person2Id": 160,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1616,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 86,
+    "Person1Id": 623,
+    "Person2Id": 221,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1618,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "Person1Id": 623,
+    "Person2Id": 211,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1619,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 88,
+    "Person1Id": 221,
+    "Person2Id": 211,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1709,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 89,
+    "Person1Id": 45,
+    "Person2Id": 211,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1713,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 90,
+    "Person1Id": 45,
+    "Person2Id": 211,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1723,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1750,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 91,
+    "Person1Id": 45,
+    "Person2Id": 215,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1732,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 92,
+    "Person1Id": 45,
+    "Person2Id": 227,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1747,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 93,
+    "Person1Id": 290,
+    "Person2Id": 344,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1771,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 94,
+    "Person1Id": 312,
+    "Person2Id": 344,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1778,
+        "CoupletIndex": 65,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 95,
+    "Person1Id": 8,
+    "Person2Id": 7,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1343,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 96,
+    "Person1Id": 15,
+    "Person2Id": 8,
+    "AffiliationType": "Servant",
+    "Evidence": [
+      {
+        "PoemId": 1344,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 97,
+    "Person1Id": 8,
+    "Person2Id": 6,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1345,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1848,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 8873,
+        "CoupletIndex": 4,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 98,
+    "Person1Id": 8,
+    "Person2Id": 6,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1345,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 99,
+    "Person1Id": 8,
+    "Person2Id": 22,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1355,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 100,
+    "Person1Id": 29,
+    "Person2Id": 8,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1356,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 101,
+    "Person1Id": 34,
+    "Person2Id": 32,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1367,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 102,
+    "Person1Id": 31,
+    "Person2Id": 38,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1370,
+        "CoupletIndex": 107,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 103,
+    "Person1Id": 42,
+    "Person2Id": 38,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1374,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 104,
+    "Person1Id": 43,
+    "Person2Id": 38,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1377,
+        "CoupletIndex": 62,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 105,
+    "Person1Id": 38,
+    "Person2Id": 24,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1377,
+        "CoupletIndex": 69,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1405,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 106,
+    "Person1Id": 48,
+    "Person2Id": 38,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1380,
+        "CoupletIndex": 82,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1391,
+        "CoupletIndex": 75,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1392,
+        "CoupletIndex": 115,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 107,
+    "Person1Id": 48,
+    "Person2Id": 57,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1394,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 108,
+    "Person1Id": 55,
+    "Person2Id": 38,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1405,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 109,
+    "Person1Id": 48,
+    "Person2Id": 55,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1406,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 110,
+    "Person1Id": 65,
+    "Person2Id": 61,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1407,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 111,
+    "Person1Id": 42,
+    "Person2Id": 55,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1408,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 112,
+    "Person1Id": 71,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1408,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 113,
+    "Person1Id": 72,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1408,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 114,
+    "Person1Id": 68,
+    "Person2Id": 50,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1409,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 115,
+    "Person1Id": 75,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1411,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 116,
+    "Person1Id": 65,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1412,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 117,
+    "Person1Id": 54,
+    "Person2Id": 72,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1415,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 118,
+    "Person1Id": 54,
+    "Person2Id": 69,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1415,
+        "CoupletIndex": 29,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 119,
+    "Person1Id": 54,
+    "Person2Id": 48,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1420,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 120,
+    "Person1Id": 84,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1424,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 122,
+    "Person1Id": 94,
+    "Person2Id": 85,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1432,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 123,
+    "Person1Id": 60,
+    "Person2Id": 108,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1439,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 124,
+    "Person1Id": 60,
+    "Person2Id": 106,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1440,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Person1Id": 132,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1464,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88022,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Person1Id": 60,
+    "Person2Id": 137,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1470,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Person1Id": 95,
+    "Person2Id": 85,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1481,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 128,
+    "Person1Id": 155,
+    "Person2Id": 121,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1491,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88042,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 129,
+    "Person1Id": 160,
+    "Person2Id": 161,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1493,
+        "CoupletIndex": 101,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 130,
+    "Person1Id": 162,
+    "Person2Id": 121,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 1493,
+        "CoupletIndex": 163,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 131,
+    "Person1Id": 60,
+    "Person2Id": 154,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1494,
+        "CoupletIndex": 86,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 132,
+    "Person1Id": 153,
+    "Person2Id": 62,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1496,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87954,
+        "CoupletIndex": 62,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88075,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 133,
+    "Person1Id": 60,
+    "Person2Id": 170,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1506,
+        "CoupletIndex": 137,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 134,
+    "Person1Id": 60,
+    "Person2Id": 153,
+    "AffiliationType": "Champion",
+    "Evidence": [
+      {
+        "PoemId": 1506,
+        "CoupletIndex": 175,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87988,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88005,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88016,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 135,
+    "Person1Id": 184,
+    "Person2Id": 120,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1516,
+        "CoupletIndex": 39,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 136,
+    "Person1Id": 187,
+    "Person2Id": 120,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1524,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 137,
+    "Person1Id": 202,
+    "Person2Id": 11,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1529,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 138,
+    "Person1Id": 205,
+    "Person2Id": 177,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1533,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 139,
+    "Person1Id": 208,
+    "Person2Id": 66,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1534,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 140,
+    "Person1Id": 198,
+    "Person2Id": 203,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1536,
+        "CoupletIndex": 86,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 141,
+    "Person1Id": 203,
+    "Person2Id": 178,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1540,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 142,
+    "Person1Id": 213,
+    "Person2Id": 219,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1544,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 143,
+    "Person1Id": 213,
+    "Person2Id": 177,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1546,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 144,
+    "Person1Id": 205,
+    "Person2Id": 176,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1548,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 145,
+    "Person1Id": 214,
+    "Person2Id": 198,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1548,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 146,
+    "Person1Id": 208,
+    "Person2Id": 220,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1558,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 147,
+    "Person1Id": 199,
+    "Person2Id": 198,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1561,
+        "CoupletIndex": 52,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 148,
+    "Person1Id": 224,
+    "Person2Id": 229,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1570,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 149,
+    "Person1Id": 198,
+    "Person2Id": 146,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1572,
+        "CoupletIndex": 62,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "Person1Id": 224,
+    "Person2Id": 234,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 151,
+    "Person1Id": 237,
+    "Person2Id": 238,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1607,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 152,
+    "Person1Id": 239,
+    "Person2Id": 6,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1609,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 153,
+    "Person1Id": 60,
+    "Person2Id": 237,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1609,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 154,
+    "Person1Id": 199,
+    "Person2Id": 221,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1617,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 155,
+    "Person1Id": 249,
+    "Person2Id": 248,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 1628,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 156,
+    "Person1Id": 250,
+    "Person2Id": 251,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1629,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1631,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 158,
+    "Person1Id": 253,
+    "Person2Id": 250,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1631,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1681,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 159,
+    "Person1Id": 254,
+    "Person2Id": 247,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1637,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 160,
+    "Person1Id": 255,
+    "Person2Id": 247,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1637,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 161,
+    "Person1Id": 255,
+    "Person2Id": 247,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1637,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 162,
+    "Person1Id": 250,
+    "Person2Id": 255,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1638,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 163,
+    "Person1Id": 250,
+    "Person2Id": 254,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1638,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 164,
+    "Person1Id": 254,
+    "Person2Id": 247,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1638,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 165,
+    "Person1Id": 250,
+    "Person2Id": 247,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1642,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 166,
+    "Person1Id": 263,
+    "Person2Id": 371,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1655,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 167,
+    "Person1Id": 270,
+    "Person2Id": 269,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1658,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "Person1Id": 276,
+    "Person2Id": 250,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1661,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 169,
+    "Person1Id": 250,
+    "Person2Id": 272,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1666,
+        "CoupletIndex": 82,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 170,
+    "Person1Id": 250,
+    "Person2Id": 277,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1666,
+        "CoupletIndex": 84,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 171,
+    "Person1Id": 377,
+    "Person2Id": 299,
+    "AffiliationType": "Killer",
+    "Note": "بیت 48: «به شمشیر هندی بزد گردنش»",
+    "Evidence": []
+  },
+  {
+    "Id": 172,
+    "Person1Id": 377,
+    "Person2Id": 300,
+    "AffiliationType": "Rival",
+    "Note": "بیت 26: «چه سازیم با کرم و با هفتواد»",
+    "Evidence": []
+  },
+  {
+    "Id": 173,
+    "Person1Id": 377,
+    "Person2Id": 298,
+    "AffiliationType": "Rival",
+    "Note": "بیت 26: «چه سازیم با کرم و با هفتواد»",
+    "Evidence": []
+  },
+  {
+    "Id": 174,
+    "Person1Id": 279,
+    "Person2Id": 250,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1672,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 176,
+    "Person1Id": 211,
+    "Person2Id": 291,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1690,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 177,
+    "Person1Id": 211,
+    "Person2Id": 291,
+    "AffiliationType": "Servant",
+    "Evidence": [
+      {
+        "PoemId": 1691,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "Person1Id": 294,
+    "Person2Id": 291,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1692,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "Person1Id": 297,
+    "Person2Id": 291,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1698,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "Person1Id": 299,
+    "Person2Id": 211,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1704,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "Person1Id": 301,
+    "Person2Id": 298,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1707,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "Person1Id": 303,
+    "Person2Id": 211,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1712,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "Person1Id": 45,
+    "Person2Id": 211,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 1713,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "Person1Id": 307,
+    "Person2Id": 288,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 1721,
+        "CoupletIndex": 123,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "Person1Id": 344,
+    "Person2Id": 310,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1729,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "Person1Id": 311,
+    "Person2Id": 344,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1729,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 187,
+    "Person1Id": 290,
+    "Person2Id": 311,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1730,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 188,
+    "Person1Id": 325,
+    "Person2Id": 326,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1763,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 189,
+    "Person1Id": 325,
+    "Person2Id": 344,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 1758,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 190,
+    "Person1Id": 326,
+    "Person2Id": 344,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 1765,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 191,
+    "Person1Id": 326,
+    "Person2Id": 344,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1768,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 192,
+    "Person1Id": 333,
+    "Person2Id": 344,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1770,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 193,
+    "Person1Id": 417,
+    "Person2Id": 323,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1816,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 194,
+    "Person1Id": 405,
+    "Person2Id": 627,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1821,
+        "CoupletIndex": 150,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1823,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 195,
+    "Person1Id": 24,
+    "Person2Id": 8,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1820,
+        "CoupletIndex": 179,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 173,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 196,
+    "Person1Id": 292,
+    "Person2Id": 405,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1825,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 197,
+    "Person1Id": 326,
+    "Person2Id": 405,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1833,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 199,
+    "Person1Id": 377,
+    "Person2Id": 291,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 181,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 200,
+    "Person1Id": 275,
+    "Person2Id": 211,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1706,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 201,
+    "Person1Id": 344,
+    "Person2Id": 323,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 1799,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 202,
+    "Person1Id": 410,
+    "Person2Id": 417,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1845,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "Person1Id": 74,
+    "Person2Id": 417,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1845,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "Person1Id": 410,
+    "Person2Id": 469,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1847,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "Person1Id": 62,
+    "Person2Id": 55,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1848,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88073,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88079,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88083,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88085,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 206,
+    "Person1Id": 250,
+    "Person2Id": 371,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1848,
+        "CoupletIndex": 63,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 207,
+    "Person1Id": 410,
+    "Person2Id": 418,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1850,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 208,
+    "Person1Id": 627,
+    "Person2Id": 401,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1864,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 209,
+    "Person1Id": 421,
+    "Person2Id": 418,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 216,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1874,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1878,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 210,
+    "Person1Id": 84,
+    "Person2Id": 418,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1882,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 211,
+    "Person1Id": 469,
+    "Person2Id": 418,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1839,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1900,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1913,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 212,
+    "Person1Id": 470,
+    "Person2Id": 471,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1903,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 213,
+    "Person1Id": 187,
+    "Person2Id": 469,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1908,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 214,
+    "Person1Id": 469,
+    "Person2Id": 74,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1913,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 215,
+    "Person1Id": 328,
+    "Person2Id": 469,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1913,
+        "CoupletIndex": 169,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 216,
+    "Person1Id": 431,
+    "Person2Id": 409,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1920,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1920,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 217,
+    "Person1Id": 8,
+    "Person2Id": 462,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 218,
+    "Person1Id": 153,
+    "Person2Id": 62,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 219,
+    "Person1Id": 220,
+    "Person2Id": 176,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 220,
+    "Person1Id": 469,
+    "Person2Id": 410,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1890,
+        "CoupletIndex": 29,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 222,
+    "Person1Id": 46,
+    "Person2Id": 417,
+    "AffiliationType": "Servant",
+    "Evidence": [
+      {
+        "PoemId": 52170,
+        "CoupletIndex": 117,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 223,
+    "Person1Id": 418,
+    "Person2Id": 195,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 52172,
+        "CoupletIndex": 62,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 224,
+    "Person1Id": 418,
+    "Person2Id": 195,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 52173,
+        "CoupletIndex": 65,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 225,
+    "Person1Id": 418,
+    "Person2Id": 424,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 52174,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 226,
+    "Person1Id": 413,
+    "Person2Id": 418,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 52176,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 227,
+    "Person1Id": 428,
+    "Person2Id": 418,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 52176,
+        "CoupletIndex": 50,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 228,
+    "Person1Id": 150,
+    "Person2Id": 194,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87962,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 229,
+    "Person1Id": 150,
+    "Person2Id": 193,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87963,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87965,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 230,
+    "Person1Id": 73,
+    "Person2Id": 150,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87974,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87980,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 231,
+    "Person1Id": 94,
+    "Person2Id": 109,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 87974,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "Person1Id": 125,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 87979,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88022,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88024,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88034,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 233,
+    "Person1Id": 73,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 87957,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87980,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88035,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 234,
+    "Person1Id": 73,
+    "Person2Id": 103,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87981,
+        "CoupletIndex": 74,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 235,
+    "Person1Id": 165,
+    "Person2Id": 73,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 87986,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 236,
+    "Person1Id": 47,
+    "Person2Id": 73,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 87986,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 237,
+    "Person1Id": 78,
+    "Person2Id": 73,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 87986,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 238,
+    "Person1Id": 234,
+    "Person2Id": 60,
+    "AffiliationType": "Champion",
+    "Evidence": [
+      {
+        "PoemId": 87994,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 239,
+    "Person1Id": 60,
+    "Person2Id": 169,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87995,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 240,
+    "Person1Id": 389,
+    "Person2Id": 62,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 87997,
+        "CoupletIndex": 132,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 241,
+    "Person1Id": 60,
+    "Person2Id": 195,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88000,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 242,
+    "Person1Id": 60,
+    "Person2Id": 167,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88002,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 243,
+    "Person1Id": 96,
+    "Person2Id": 165,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 88011,
+        "CoupletIndex": 67,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 244,
+    "Person1Id": 125,
+    "Person2Id": 62,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 245,
+    "Person1Id": 60,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88017,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88025,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "Person1Id": 67,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88022,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 247,
+    "Person1Id": 142,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88022,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88024,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 248,
+    "Person1Id": 94,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88025,
+        "CoupletIndex": 60,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88025,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88035,
+        "CoupletIndex": 92,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 249,
+    "Person1Id": 97,
+    "Person2Id": 94,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 50,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 250,
+    "Person1Id": 95,
+    "Person2Id": 94,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 251,
+    "Person1Id": 132,
+    "Person2Id": 125,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 82,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 252,
+    "Person1Id": 146,
+    "Person2Id": 125,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 83,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 253,
+    "Person1Id": 94,
+    "Person2Id": 153,
+    "AffiliationType": "Champion",
+    "Evidence": [
+      {
+        "PoemId": 88029,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 254,
+    "Person1Id": 165,
+    "Person2Id": 144,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88033,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 255,
+    "Person1Id": 62,
+    "Person2Id": 38,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 88037,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 256,
+    "Person1Id": 62,
+    "Person2Id": 55,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 88037,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 257,
+    "Person1Id": 62,
+    "Person2Id": 625,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 88037,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 258,
+    "Person1Id": 94,
+    "Person2Id": 125,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 88037,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88042,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 259,
+    "Person1Id": 47,
+    "Person2Id": 94,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 232,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 260,
+    "Person1Id": 165,
+    "Person2Id": 132,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88032,
+        "CoupletIndex": 72,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 208,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 261,
+    "Person1Id": 109,
+    "Person2Id": 69,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88043,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 262,
+    "Person1Id": 114,
+    "Person2Id": 2,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88045,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 263,
+    "Person1Id": 165,
+    "Person2Id": 145,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88048,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 264,
+    "Person1Id": 96,
+    "Person2Id": 146,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88051,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 265,
+    "Person1Id": 94,
+    "Person2Id": 125,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88053,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88053,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 266,
+    "Person1Id": 74,
+    "Person2Id": 157,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88056,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 267,
+    "Person1Id": 74,
+    "Person2Id": 156,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88056,
+        "CoupletIndex": 39,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 268,
+    "Person1Id": 96,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88061,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 269,
+    "Person1Id": 143,
+    "Person2Id": 62,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88062,
+        "CoupletIndex": 99,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 270,
+    "Person1Id": 153,
+    "Person2Id": 125,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88063,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 271,
+    "Person1Id": 153,
+    "Person2Id": 142,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88066,
+        "CoupletIndex": 90,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 272,
+    "Person1Id": 141,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88069,
+        "CoupletIndex": 52,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 273,
+    "Person1Id": 74,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88069,
+        "CoupletIndex": 57,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 274,
+    "Person1Id": 264,
+    "Person2Id": 62,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 88075,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 275,
+    "Person1Id": 67,
+    "Person2Id": 121,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88078,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 276,
+    "Person1Id": 60,
+    "Person2Id": 101,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88098,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 277,
+    "Person1Id": 243,
+    "Person2Id": 405,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 151725,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 278,
+    "Person1Id": 413,
+    "Person2Id": 405,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 279,
+    "Person1Id": 387,
+    "Person2Id": 405,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 280,
+    "Person1Id": 414,
+    "Person2Id": 405,
+    "AffiliationType": "Minister",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 281,
+    "Person1Id": 417,
+    "Person2Id": 413,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 88,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 282,
+    "Person1Id": 417,
+    "Person2Id": 415,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 91,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 283,
+    "Person1Id": 417,
+    "Person2Id": 77,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 171,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 285,
+    "Person1Id": 418,
+    "Person2Id": 466,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1850,
+        "CoupletIndex": 50,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 286,
+    "Person1Id": 437,
+    "Person2Id": 410,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 1863,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 287,
+    "Person1Id": 418,
+    "Person2Id": 445,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1866,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 288,
+    "Person1Id": 344,
+    "Person2Id": 457,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1875,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 289,
+    "Person1Id": 461,
+    "Person2Id": 421,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1879,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 290,
+    "Person1Id": 426,
+    "Person2Id": 421,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1879,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 291,
+    "Person1Id": 464,
+    "Person2Id": 418,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1891,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 292,
+    "Person1Id": 475,
+    "Person2Id": 474,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1905,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 293,
+    "Person1Id": 478,
+    "Person2Id": 469,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 1908,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 294,
+    "Person1Id": 478,
+    "Person2Id": 119,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 1908,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 295,
+    "Person1Id": 483,
+    "Person2Id": 469,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1916,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 296,
+    "Person1Id": 479,
+    "Person2Id": 469,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 98,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 297,
+    "Person1Id": 487,
+    "Person2Id": 330,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1921,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 298,
+    "Person1Id": 495,
+    "Person2Id": 351,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1925,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 299,
+    "Person1Id": 498,
+    "Person2Id": 60,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1932,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 300,
+    "Person1Id": 499,
+    "Person2Id": 165,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 1933,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 301,
+    "Person1Id": 494,
+    "Person2Id": 493,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 1933,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 302,
+    "Person1Id": 494,
+    "Person2Id": 691,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 1937,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 303,
+    "Person1Id": 78,
+    "Person2Id": 417,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 52170,
+        "CoupletIndex": 112,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 304,
+    "Person1Id": 418,
+    "Person2Id": 417,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 52171,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 305,
+    "Person1Id": 506,
+    "Person2Id": 418,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 52171,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 306,
+    "Person1Id": 357,
+    "Person2Id": 421,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 52175,
+        "CoupletIndex": 133,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 307,
+    "Person1Id": 165,
+    "Person2Id": 519,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87970,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 308,
+    "Person1Id": 524,
+    "Person2Id": 520,
+    "AffiliationType": "Servant",
+    "Evidence": [
+      {
+        "PoemId": 87971,
+        "CoupletIndex": 62,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 309,
+    "Person1Id": 114,
+    "Person2Id": 518,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 310,
+    "Person1Id": 114,
+    "Person2Id": 113,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 311,
+    "Person1Id": 518,
+    "Person2Id": 113,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 312,
+    "Person1Id": 95,
+    "Person2Id": 520,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87978,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 313,
+    "Person1Id": 60,
+    "Person2Id": 532,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 87993,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 314,
+    "Person1Id": 167,
+    "Person2Id": 125,
+    "AffiliationType": "Ally",
+    "Evidence": [
+      {
+        "PoemId": 87993,
+        "CoupletIndex": 105,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 315,
+    "Person1Id": 60,
+    "Person2Id": 539,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88001,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 316,
+    "Person1Id": 60,
+    "Person2Id": 109,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 88004,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 317,
+    "Person1Id": 60,
+    "Person2Id": 541,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88007,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 318,
+    "Person1Id": 125,
+    "Person2Id": 62,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 319,
+    "Person1Id": 176,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88025,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 320,
+    "Person1Id": 553,
+    "Person2Id": 153,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88025,
+        "CoupletIndex": 57,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 321,
+    "Person1Id": 109,
+    "Person2Id": 94,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 322,
+    "Person1Id": 76,
+    "Person2Id": 97,
+    "AffiliationType": "Companion",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 323,
+    "Person1Id": 156,
+    "Person2Id": 125,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 85,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 324,
+    "Person1Id": 157,
+    "Person2Id": 125,
+    "AffiliationType": "MilitaryCommander",
+    "Evidence": [
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 85,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 325,
+    "Person1Id": 421,
+    "Person2Id": 62,
+    "AffiliationType": "Rival",
+    "Evidence": [
+      {
+        "PoemId": 88035,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 326,
+    "Person1Id": 518,
+    "Person2Id": 163,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 88052,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 327,
+    "Person1Id": 417,
+    "Person2Id": 405,
+    "AffiliationType": "Successor",
+    "Evidence": [
+      {
+        "PoemId": 8878,
+        "CoupletIndex": 1,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 328,
+    "Person1Id": 646,
+    "Person2Id": 469,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 8889,
+        "CoupletIndex": 16,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 329,
+    "Person1Id": 470,
+    "Person2Id": 441,
+    "AffiliationType": "Killer",
+    "Evidence": [
+      {
+        "PoemId": 8926,
+        "CoupletIndex": 4,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 330,
+    "Person1Id": 45,
+    "Person2Id": 469,
+    "AffiliationType": "Courtier",
+    "Evidence": [
+      {
+        "PoemId": 8943,
+        "CoupletIndex": 51,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 331,
+    "Person1Id": 110,
+    "Person2Id": 470,
+    "AffiliationType": "Lover",
+    "Evidence": []
+  },
+  {
+    "Id": 332,
+    "Person1Id": 405,
+    "Person2Id": 589,
+    "AffiliationType": "Advisor",
+    "Evidence": [
+      {
+        "PoemId": 151747,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  }
+]

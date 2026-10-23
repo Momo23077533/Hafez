@@ -1,0 +1,371 @@
+{
+  "Id": 2504,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۳۷۵",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳۷۵",
+  "FullUrl": "/hafez/ghazal/sh375",
+  "RhymeLetters": "رکشیم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این غزل حافظ، شاعر از صوفی دعوت می‌کند تا از تظاهر و ریای صوفیان فاصله بگیرد و به اصل حقیقت و لذت‌های واقعی زندگی بپردازد. او به انتقاد از رویکردهای ریاکارانه در دین و عرفان می‌پردازد و پیشنهاد می‌دهد که به جای نذر و عبادات ظاهری، به می و بزم و عشق روی آورند. حافظ به غم و حسرتی اشاره می‌کند که ممکن است در آینده گریبان‌گیر انسان شود و بر ضرورت بهره‌برداری از لذت‌های زمان حال تأکید می‌کند. در نهایت، او با بیان اینکه انسان نباید از حد خود فراتر رود، به ارزش‌های واقعی زندگی و خوشی‌های آن تأکید می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رکشیم",
+      "PlainText": "صوفی بیا که خرقه سالوس برکشیم\r\nوین نقش زرق را خط بطلان به سر کشیم\r\nنذر و فتوح صومعه در وجه می نهیم\r\nدلق ریا به آب خرابات برکشیم\r\nفردا اگر نه روضه رضوان به ما دهند\r\nغلمان ز روضه حور ز جنت به درکشیم\r\nبیرون جهیم سرخوش و از بزم صوفیان\r\nغارت کنیم باده و شاهد به بر کشیم\r\nعشرت کنیم ور نه به حسرت کشندمان\r\nروزی که رخت جان به جهانی دگر کشیم\r\nسر خدا که در تتق غیب منزویست\r\nمستانه اش نقاب ز رخسار برکشیم\r\nکو جلوه ای ز ابروی او تا چو ماه نو\r\nگوی سپهر در خم چوگان زر کشیم\r\nحافظ نه حد ماست چنین لاف ها زدن\r\nپای از گلیم خویش چرا بیشتر کشیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی بیا که خرقه سالوس برکشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین نقش زرق را خط بطلان به سر کشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنذر و فتوح صومعه در وجه می نهیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلق ریا به آب خرابات برکشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا اگر نه روضه رضوان به ما دهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلمان ز روضه حور ز جنت به درکشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیرون جهیم سرخوش و از بزم صوفیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغارت کنیم باده و شاهد به بر کشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشرت کنیم ور نه به حسرت کشندمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی که رخت جان به جهانی دگر کشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر خدا که در تتق غیب منزویست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستانه‌اش نقاب ز رخسار برکشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو جلوه‌ای ز ابروی او تا چو ماه نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوی سپهر در خم چوگان زر کشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ نه حد ماست چنین لاف‌ها زدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای از گلیم خویش چرا بیشتر کشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی بیا که خرقه سالوس برکشیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقانه به دیدار صوفی دعوت می‌کنیم تا لباس ریا و ظاهرسازی را کنار بگذاریم و برچسب تقلب و نادرستی را بر این دنیا بزنیم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین نقش زرق را خط بطلان به سر کشیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نذر و فتوح صومعه در وجه می نهیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما نذری و برکات صومعه را برای می‌نوشی قرار می‌دهیم و لباس ریا را در آب خرابات می‌شوییم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلق ریا به آب خرابات برکشیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فردا اگر نه روضه رضوان به ما دهند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فردا ما را به بهشت نبرند، از زیبایی‌های دنیای دیگر، جوانان خوش‌صورت را خواهیم گرفت و از نعمت‌های آنجا بهره‌مند خواهیم شد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غلمان ز روضه حور ز جنت به درکشیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بیرون جهیم سرخوش و از بزم صوفیان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با خوشحالی از میهمانی صوفیان خارج می‌شویم و شراب و محبوب خود را به سینه می‌چسبانیم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غارت کنیم باده و شاهد به بر کشیم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عشرت کنیم ور نه به حسرت کشندمان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا خوش بگذرانیم، وگرنه در روزی که جانمان را از این دنیا می‌بریم، حسرت بر دلمان می‌ماند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روزی که رخت جان به جهانی دگر کشیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سر خدا که در تتق غیب منزویست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوندی که در عوالم پنهان و دور از دسترس است، ما با شوق و عشق، نقاب از چهره‌اش برمی‌داریم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "مستانه‌اش نقاب ز رخسار برکشیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "کو جلوه‌ای ز ابروی او تا چو ماه نو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک زیبایی از ابروی او را نشان بده، تا مانند ماه نو، ستاره‌ها را در کمان زرینی که داریم بکشیم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گوی سپهر در خم چوگان زر کشیم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حافظ نه حد ماست چنین لاف‌ها زدن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ نمی‌گوید که ما در چه سطحی هستیم که بتوانیم این‌طور صحبت کنیم. چرا باید از اندازه خود فراتر برویم و خود را در معرض مشکلات بیشتری قرار دهیم؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "پای از گلیم خویش چرا بیشتر کشیم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 9
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "باطل کردن و هیچ انگاشتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "روز قیامت"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 428
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 1032
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "مردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 670
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 1033
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 535
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 409
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 6,
+          "ConceptId": 1034
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "ConceptId": 1035
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "مسلط شدن"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+[
+  {
+    "Id": 1,
+    "Name": "شیراز",
+    "Latitude": 29.5926,
+    "Longitude": 52.5836,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 2,
+    "Name": "اصفهان",
+    "Latitude": 32.6539,
+    "Longitude": 51.666,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 3,
+    "Name": "بلخ",
+    "Latitude": 36.7551,
+    "Longitude": 66.8975,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 4,
+    "Name": "مرو",
+    "Latitude": 37.6644,
+    "Longitude": 62.1747,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 5,
+    "Name": "غزنه",
+    "Latitude": 33.5451,
+    "Longitude": 68.4174,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 6,
+    "Name": "ری",
+    "Latitude": 35.577,
+    "Longitude": 51.4625,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 7,
+    "Name": "نیشابور",
+    "Latitude": 36.2141,
+    "Longitude": 58.7961,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8,
+    "Name": "خوسف",
+    "Latitude": 32.7811,
+    "Longitude": 58.892,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 9,
+    "Name": "فریومد",
+    "Latitude": 36.5151,
+    "Longitude": 56.7496,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 10,
+    "Name": "سبزوار",
+    "Latitude": 36.2152,
+    "Longitude": 57.6678,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 11,
+    "Name": "میهنه",
+    "Latitude": 36.871667,
+    "Longitude": 60.404167,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 12,
+    "Name": "هرات",
+    "Latitude": 34.3529,
+    "Longitude": 62.204,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 13,
+    "Name": "تبریز",
+    "Latitude": 38.0962,
+    "Longitude": 46.2738,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 14,
+    "Name": "مشهد",
+    "Latitude": 36.2605,
+    "Longitude": 59.6168,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 15,
+    "Name": "سیالکوت",
+    "Latitude": 32.4945,
+    "Longitude": 74.5229,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 16,
+    "Name": "لاهیجان",
+    "Latitude": 37.207,
+    "Longitude": 50.0034,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 17,
+    "Name": "دهلی",
+    "Latitude": 28.7041,
+    "Longitude": 77.1025,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 18,
+    "Name": "مراغه",
+    "Latitude": 37.3892,
+    "Longitude": 46.2534,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 19,
+    "Name": "تهران",
+    "Latitude": 35.6892,
+    "Longitude": 51.389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 20,
+    "Name": "کاشان",
+    "Latitude": 33.985,
+    "Longitude": 51.41,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 21,
+    "Name": "همدان",
+    "Latitude": 34.7989,
+    "Longitude": 48.515,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 22,
+    "Name": "عظیم‌آباد پتنه",
+    "Latitude": 25.5941,
+    "Longitude": 85.1376,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 23,
+    "Name": "قم",
+    "Latitude": 34.6416,
+    "Longitude": 50.8746,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 24,
+    "Name": "خرجرد جام",
+    "Latitude": 34.5331,
+    "Longitude": 60.1789,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 25,
+    "Name": "یزد",
+    "Latitude": 31.8974,
+    "Longitude": 54.3569,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 26,
+    "Name": "بنارس",
+    "Latitude": 25.3176,
+    "Longitude": 82.9739,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 27,
+    "Name": "خوارزم",
+    "Latitude": 41.3895,
+    "Longitude": 60.3415,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 28,
+    "Name": "غور",
+    "Latitude": 34.5225,
+    "Longitude": 65.251667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 29,
+    "Name": "فوداج",
+    "Latitude": 32.818889,
+    "Longitude": 59.277222,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 30,
+    "Name": "بیرجند",
+    "Latitude": 32.8649,
+    "Longitude": 59.2262,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 31,
+    "Name": "شروان",
+    "Latitude": 40.6319,
+    "Longitude": 48.6364,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 32,
+    "Name": "گنجه",
+    "Latitude": 40.6879,
+    "Longitude": 46.3723,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 33,
+    "Name": "سلیمانیه",
+    "Latitude": 35.5558,
+    "Longitude": 45.4351,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 34,
+    "Name": "کابل",
+    "Latitude": 34.5553,
+    "Longitude": 69.2075,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 35,
+    "Name": "کرمان",
+    "Latitude": 30.2839,
+    "Longitude": 57.0834,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 36,
+    "Name": "گرگانج",
+    "Latitude": 41.5345,
+    "Longitude": 60.6249,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 37,
+    "Name": "سمرقند",
+    "Latitude": 39.627,
+    "Longitude": 66.975,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 38,
+    "Name": "بخارا",
+    "Latitude": 39.7681,
+    "Longitude": 64.4556,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 39,
+    "Name": "قونیه",
+    "Latitude": 37.8746,
+    "Longitude": 32.4932,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 40,
+    "Name": "ساوه",
+    "Latitude": 35.0236,
+    "Longitude": 50.3585,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 41,
+    "Name": "مهرآباد اراک",
+    "Latitude": 34.201667,
+    "Longitude": 49.569167,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 42,
+    "Name": "مغله",
+    "Latitude": 37.2154,
+    "Longitude": 28.3634,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 43,
+    "Name": "بعلبک",
+    "Latitude": 34.0047,
+    "Longitude": 36.211,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 44,
+    "Name": "شبستر",
+    "Latitude": 38.1802,
+    "Longitude": 45.7079,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 45,
+    "Name": "بروجرد",
+    "Latitude": 33.8942,
+    "Longitude": 48.767,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 46,
+    "Name": "قزوین",
+    "Latitude": 36.2737,
+    "Longitude": 49.9982,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 47,
+    "Name": "سامان",
+    "Latitude": 32.4514,
+    "Longitude": 50.9117,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 48,
+    "Name": "دشتی",
+    "Latitude": 28.48685,
+    "Longitude": 51.56182,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 49,
+    "Name": "گرگان",
+    "Latitude": 36.8456,
+    "Longitude": 54.4393,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 50,
+    "Name": "زابل",
+    "Latitude": 31.0324,
+    "Longitude": 61.4902,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 51,
+    "Name": "خجند",
+    "Latitude": 40.2735,
+    "Longitude": 69.6392,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 52,
+    "Name": "لاهور",
+    "Latitude": 31.5204,
+    "Longitude": 74.3587,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 53,
+    "Name": "دامغان",
+    "Latitude": 36.1646,
+    "Longitude": 54.3576,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 54,
+    "Name": "کرمانشاه",
+    "Latitude": 34.3277,
+    "Longitude": 47.0778,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 55,
+    "Name": "بافق",
+    "Latitude": 31.6216,
+    "Longitude": 55.4139,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 56,
+    "Name": "ابیورد",
+    "Latitude": 37.391111,
+    "Longitude": 59.566667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 57,
+    "Name": "میبد",
+    "Latitude": 32.2487,
+    "Longitude": 54.0079,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 58,
+    "Name": "آرتیمان",
+    "Latitude": 34.5785,
+    "Longitude": 48.4469,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 59,
+    "Name": "مشگین‌شهر",
+    "Latitude": 38.4047,
+    "Longitude": 47.665,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 60,
+    "Name": "پنجاب",
+    "Latitude": 30.75,
+    "Longitude": 76.783333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 61,
+    "Name": "لارنده",
+    "Latitude": 37.181111,
+    "Longitude": 33.215,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 62,
+    "Name": "فرغانه",
+    "Latitude": 40.386389,
+    "Longitude": 71.786389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 63,
+    "Name": "بسطام",
+    "Latitude": 36.485278,
+    "Longitude": 54.99972,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 64,
+    "Name": "پانی‌پت",
+    "Latitude": 29.3909,
+    "Longitude": 76.9635,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 65,
+    "Name": "بین همدان و کردستان",
+    "Latitude": 35.1679,
+    "Longitude": 47.8038,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 66,
+    "Name": "فراهان",
+    "Latitude": 34.4035,
+    "Longitude": 49.6235,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 67,
+    "Name": "بردسیر",
+    "Latitude": 29.9264,
+    "Longitude": 56.575,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 68,
+    "Name": "بغداد",
+    "Latitude": 33.3152,
+    "Longitude": 44.3661,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 69,
+    "Name": "قوچان",
+    "Latitude": 37.1293,
+    "Longitude": 58.4744,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 70,
+    "Name": "برهانپور",
+    "Latitude": 21.3,
+    "Longitude": 76.23,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 71,
+    "Name": "نجف",
+    "Latitude": 32.0107,
+    "Longitude": 44.3265,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 72,
+    "Name": "جاموی کشمیر",
+    "Latitude": 32.73,
+    "Longitude": 74.87,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 73,
+    "Name": "آگره",
+    "Latitude": 27.18,
+    "Longitude": 78.02,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 74,
+    "Name": "سراب",
+    "Latitude": 37.9264,
+    "Longitude": 47.5481,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 75,
+    "Name": "نراق",
+    "Latitude": 34.01,
+    "Longitude": 50.8475,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 76,
+    "Name": "بندرعباس",
+    "Latitude": 27.1883,
+    "Longitude": 56.2766,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 77,
+    "Name": "بیلقان",
+    "Latitude": 39.7723,
+    "Longitude": 47.6154,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 78,
+    "Name": "شماخی",
+    "Latitude": 40.630278,
+    "Longitude": 48.641389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 79,
+    "Name": "جهنگ",
+    "Latitude": 31.269444,
+    "Longitude": 72.316111,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 80,
+    "Name": "اخسیکت",
+    "Latitude": 40.886569,
+    "Longitude": 71.450602,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 81,
+    "Name": "خلخال",
+    "Latitude": 48.525278,
+    "Longitude": 37.616111,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 82,
+    "Name": "حله",
+    "Latitude": 32.483333,
+    "Longitude": 44.433333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 83,
+    "Name": "کربلا",
+    "Latitude": 32.6027,
+    "Longitude": 44.0197,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 84,
+    "Name": "حلب",
+    "Latitude": 36.2021,
+    "Longitude": 37.1343,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 85,
+    "Name": "دیاربکر",
+    "Latitude": 37.925,
+    "Longitude": 40.211,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 86,
+    "Name": "گازران",
+    "Latitude": 34.575,
+    "Longitude": 49.617778,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 87,
+    "Name": "عینی",
+    "Latitude": 39.3975,
+    "Longitude": 68.540556,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 88,
+    "Name": "تویسرکان",
+    "Latitude": 34.9,
+    "Longitude": 48.4,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 89,
+    "Name": "ترمذ",
+    "Latitude": 37.216667,
+    "Longitude": 67.283333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 90,
+    "Name": "جندق",
+    "Latitude": 34.038313,
+    "Longitude": 54.413905,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 91,
+    "Name": "آمل",
+    "Latitude": 36.43,
+    "Longitude": 52.21,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 92,
+    "Name": "مهاباد",
+    "Latitude": 36.762571,
+    "Longitude": 45.721965,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 93,
+    "Name": "شوشتر",
+    "Latitude": 32.02,
+    "Longitude": 48.83,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 94,
+    "Name": "نخشب",
+    "Latitude": 38.866667,
+    "Longitude": 65.8,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 95,
+    "Name": "مرودشت",
+    "Latitude": 29.8,
+    "Longitude": 52.83,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 96,
+    "Name": "شبرغان",
+    "Latitude": 36.665,
+    "Longitude": 65.752,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 97,
+    "Name": "سرخس",
+    "Latitude": 36.5347,
+    "Longitude": 61.1611,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 98,
+    "Name": "سمنان",
+    "Latitude": 35.583542,
+    "Longitude": 53.388911,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 99,
+    "Name": "طارم",
+    "Latitude": 36.9276,
+    "Longitude": 48.9507,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 100,
+    "Name": "مرند",
+    "Latitude": 38.35,
+    "Longitude": 46,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 101,
+    "Name": "خوی",
+    "Latitude": 38.5525,
+    "Longitude": 44.9478,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 102,
+    "Name": "برکری",
+    "Latitude": 38.994722,
+    "Longitude": 43.768056,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 103,
+    "Name": "بدلیس",
+    "Latitude": 38.4,
+    "Longitude": 42.108333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 104,
+    "Name": "ارزروم",
+    "Latitude": 39.9,
+    "Longitude": 41.27,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 105,
+    "Name": "میافارقین",
+    "Latitude": 38.142222,
+    "Longitude": 41.001389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 106,
+    "Name": "آمد",
+    "Latitude": 37.981944,
+    "Longitude": 40.210556,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 107,
+    "Name": "حران",
+    "Latitude": 36.8775,
+    "Longitude": 39.033889,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 108,
+    "Name": "سوروچ",
+    "Latitude": 36.976389,
+    "Longitude": 38.426944,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 109,
+    "Name": "منبج",
+    "Latitude": 36.533333,
+    "Longitude": 37.95,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 110,
+    "Name": "سرمین",
+    "Latitude": 35.9,
+    "Longitude": 36.716667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 111,
+    "Name": "معره نعمان",
+    "Latitude": 35.633333,
+    "Longitude": 36.666667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 112,
+    "Name": "حما",
+    "Latitude": 35.133333,
+    "Longitude": 36.75,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 113,
+    "Name": "طرابلس (لبنان)",
+    "Latitude": 34.433333,
+    "Longitude": 35.85,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 114,
+    "Name": "جبیل",
+    "Latitude": 34.123611,
+    "Longitude": 35.651111,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 115,
+    "Name": "بیروت",
+    "Latitude": 33.886944,
+    "Longitude": 35.513056,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 116,
+    "Name": "صیدا",
+    "Latitude": 33.560556,
+    "Longitude": 35.398056,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 117,
+    "Name": "صور",
+    "Latitude": 33.268889,
+    "Longitude": 35.216389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 118,
+    "Name": "عکا",
+    "Latitude": 32.927778,
+    "Longitude": 35.081667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 119,
+    "Name": "طبریه",
+    "Latitude": 32.794444,
+    "Longitude": 35.533333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 120,
+    "Name": "حیفا",
+    "Latitude": 32.816667,
+    "Longitude": 34.983333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 121,
+    "Name": "قیساریه",
+    "Latitude": 32.502778,
+    "Longitude": 34.905556,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 122,
+    "Name": "کفار سابا",
+    "Latitude": 32.171389,
+    "Longitude": 34.908333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 123,
+    "Name": "رمله",
+    "Latitude": 31.933333,
+    "Longitude": 34.866667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 124,
+    "Name": "بیت‌المقدس",
+    "Latitude": 31.783333,
+    "Longitude": 35.216667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 125,
+    "Name": "بیت‌اللحم",
+    "Latitude": 31.716667,
+    "Longitude": 35.2,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 126,
+    "Name": "مکه",
+    "Latitude": 21.416667,
+    "Longitude": 39.816667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 127,
+    "Name": "عسقلان",
+    "Latitude": 31.666667,
+    "Longitude": 34.566667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 128,
+    "Name": "تنیس",
+    "Latitude": 31.2,
+    "Longitude": 32.233333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 129,
+    "Name": "صالحیه (شرقیه)",
+    "Latitude": 30.741111,
+    "Longitude": 30.006389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 130,
+    "Name": "قاهره",
+    "Latitude": 30.058056,
+    "Longitude": 31.228889,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 131,
+    "Name": "مدینه",
+    "Latitude": 24.466667,
+    "Longitude": 39.6,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 132,
+    "Name": "اسیوط",
+    "Latitude": 27.183333,
+    "Longitude": 31.166667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 133,
+    "Name": "اخمیم",
+    "Latitude": 26.566667,
+    "Longitude": 31.75,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 134,
+    "Name": "اسوان",
+    "Latitude": 24.088889,
+    "Longitude": 32.899722,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 135,
+    "Name": "عیذاب",
+    "Latitude": 22.330833,
+    "Longitude": 36.490278,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 136,
+    "Name": "جده",
+    "Latitude": 21.543333,
+    "Longitude": 39.172778,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 137,
+    "Name": "طائف",
+    "Latitude": 21.266667,
+    "Longitude": 40.416667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 138,
+    "Name": "احساء",
+    "Latitude": 25.429444,
+    "Longitude": 49.621944,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 139,
+    "Name": "بصره",
+    "Latitude": 30.5,
+    "Longitude": 47.816667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 140,
+    "Name": "ابله",
+    "Latitude": 30.31,
+    "Longitude": 47.5,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 141,
+    "Name": "آبادان",
+    "Latitude": 30.339167,
+    "Longitude": 48.304167,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 142,
+    "Name": "هندیجان",
+    "Latitude": 30.24,
+    "Longitude": 49.71,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 143,
+    "Name": "بهبهان",
+    "Latitude": 30.5959,
+    "Longitude": 50.2417,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 144,
+    "Name": "لردگان",
+    "Latitude": 31.5097,
+    "Longitude": 50.8283,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 145,
+    "Name": "لنجان",
+    "Latitude": 32.4,
+    "Longitude": 51.216667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 146,
+    "Name": "طبس",
+    "Latitude": 33.5883,
+    "Longitude": 56.9225,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 147,
+    "Name": "فردوس",
+    "Latitude": 34.018,
+    "Longitude": 58.172,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 148,
+    "Name": "قائن",
+    "Latitude": 33.73,
+    "Longitude": 59.18,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 149,
+    "Name": "مروالرود",
+    "Latitude": 34.9754,
+    "Longitude": 65.6109,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 150,
+    "Name": "میمنه",
+    "Latitude": 35.933333,
+    "Longitude": 64.75,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 151,
+    "Name": "دریاچهٔ سد ارس",
+    "Latitude": 39.174849,
+    "Longitude": 45.280887,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 152,
+    "Name": "رکن‌آباد شیراز",
+    "Latitude": 29.686278513,
+    "Longitude": 52.550443647,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 153,
+    "Name": "حافظیه (مصلی)",
+    "Latitude": 29.62563,
+    "Longitude": 52.55803,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 154,
+    "Name": "مصر (کشور)",
+    "Latitude": 30.058056,
+    "Longitude": 31.228888,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 155,
+    "Name": "کنعان (سرزمین باستانی)",
+    "Latitude": 31.783332,
+    "Longitude": 35.216667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 156,
+    "Name": "کوه طور",
+    "Latitude": 28.539417,
+    "Longitude": 33.975417,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 157,
+    "Name": "تنگ الله اکبر شیراز",
+    "Latitude": 29.635619,
+    "Longitude": 52.56185,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 158,
+    "Name": "حارث‌آباد",
+    "Latitude": 36.116111,
+    "Longitude": 57.610556,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 159,
+    "Name": "گوزگانان",
+    "Latitude": 36.75,
+    "Longitude": 66,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 160,
+    "Name": "تگین‌آباد",
+    "Latitude": 31.7,
+    "Longitude": 65.19,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 161,
+    "Name": "قلعهٔ کوهتیز",
+    "Latitude": 31.7,
+    "Longitude": 65.2,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 162,
+    "Name": "خراسان",
+    "Latitude": 36.2605,
+    "Longitude": 59.6167,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 163,
+    "Name": "سومنات",
+    "Latitude": 20.9,
+    "Longitude": 70.37,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 164,
+    "Name": "هندوستان",
+    "Latitude": 21,
+    "Longitude": 70.37,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 165,
+    "Name": "وادی ایمن",
+    "Latitude": 28.539417,
+    "Longitude": 33.975418,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 166,
+    "Name": "پازوار",
+    "Latitude": 36.648333,
+    "Longitude": 52.651389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8640,
+    "Name": "سرینگر",
+    "Latitude": 34.09,
+    "Longitude": 74.79,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8641,
+    "Name": "قلعهٔ نو بادغیس",
+    "Latitude": 34.986667,
+    "Longitude": 63.129167,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8642,
+    "Name": "بنج",
+    "Latitude": 38.133333,
+    "Longitude": 68.95,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8644,
+    "Name": "کنگاور",
+    "Latitude": 34.5043,
+    "Longitude": 47.9653,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8645,
+    "Name": "دماوند",
+    "Latitude": 35.717778,
+    "Longitude": 52.065,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8646,
+    "Name": "فنود",
+    "Latitude": 32.652563,
+    "Longitude": 59.491087,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8647,
+    "Name": "رامجرد",
+    "Latitude": 30.075,
+    "Longitude": 52.5925,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8648,
+    "Name": "شهریار",
+    "Latitude": 35.659722,
+    "Longitude": 51.059167,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8649,
+    "Name": "فراشر",
+    "Latitude": 40.366667,
+    "Longitude": 20.433333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8650,
+    "Name": "تیرانا",
+    "Latitude": 41.33,
+    "Longitude": 19.82,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8651,
+    "Name": "بتاله",
+    "Latitude": 31.8186,
+    "Longitude": 75.2028,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8652,
+    "Name": "بهاولپور",
+    "Latitude": 29.395556,
+    "Longitude": 71.683611,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8653,
+    "Name": "خشکناب",
+    "Latitude": 37.685939591,
+    "Longitude": 47.122163773,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8654,
+    "Name": "آنکارا",
+    "Latitude": 39.928889,
+    "Longitude": 32.854722,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8655,
+    "Name": "شوش",
+    "Latitude": 32.194722,
+    "Longitude": 48.2475,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8656,
+    "Name": "اربیل",
+    "Latitude": 36.191188,
+    "Longitude": 44.009189,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8657,
+    "Name": "بامیان",
+    "Latitude": 34.825,
+    "Longitude": 67.833333,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8658,
+    "Name": "عشق‌آباد",
+    "Latitude": 37.933333,
+    "Longitude": 58.366667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8659,
+    "Name": "اردبیل",
+    "Latitude": 38.25,
+    "Longitude": 48.3,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8660,
+    "Name": "ایروان",
+    "Latitude": 40.181389,
+    "Longitude": 44.514444,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8661,
+    "Name": "اردکان",
+    "Latitude": 32.309444,
+    "Longitude": 54.018611,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8662,
+    "Name": "رشت",
+    "Latitude": 37.274444,
+    "Longitude": 49.588889,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8663,
+    "Name": "کرج",
+    "Latitude": 35.829167,
+    "Longitude": 50.9675,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8664,
+    "Name": "رودبار",
+    "Latitude": 36.820833,
+    "Longitude": 49.426667,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8665,
+    "Name": "باکو",
+    "Latitude": 40.375556,
+    "Longitude": 49.8325,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8666,
+    "Name": "برلین",
+    "Latitude": 52.52,
+    "Longitude": 13.405,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8667,
+    "Name": "کاشمر",
+    "Latitude": 35.244722,
+    "Longitude": 58.460833,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8668,
+    "Name": "بجنورد",
+    "Latitude": 37.472222,
+    "Longitude": 57.328889,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8669,
+    "Name": "نی‌ریز",
+    "Latitude": 29.192778,
+    "Longitude": 54.319722,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8670,
+    "Name": "اروندرود",
+    "Latitude": 30.42748469,
+    "Longitude": 48.162946701,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8671,
+    "Name": "تمیشه",
+    "Latitude": 37.1023,
+    "Longitude": 54.317,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8672,
+    "Name": "صنعا",
+    "Latitude": 15.348333,
+    "Longitude": 44.206389,
+    "MachineGenerated": false
+  },
+  {
+    "Id": 8673,
+    "Name": "رودبار افغانستان",
+    "Latitude": 30.15,
+    "Longitude": 62.6,
+    "MachineGenerated": false
+  }
+]

@@ -1,0 +1,764 @@
+{
+  "Id": 2426,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۹۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۹۷",
+  "FullUrl": "/hafez/ghazal/sh297",
+  "RhymeLetters": "انفراق",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به بیان درد و غم فراق می‌پردازد و از ناتوانی زبان در توصیف عمق این احساس سخن می‌گوید. او به نگرانی از گذر عمر بدون دیدار معشوق اعتراف می‌کند و حسرت می‌خورد که بر سر راه فراق قرار گرفته است. در پی بیان توصیفاتی از رنج و ناکامی ناشی از دوری، شاعر به تمثیل‌هایی از غم و شکیبایی می‌پردازد و از دشواری‌های عشق و هجران می‌نویسد. در نهایت، او به ناامیدی و درد ناشی از صبر در برابر زیستن در دنیای فراق اشاره می‌کند و تاکید می‌کند که از دستش کاری برنمی‌آید.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انفراق",
+      "PlainText": "زبان خامه ندارد سر بیان فراق\r\nوگرنه شرح دهم با تو داستان فراق\r\nدریغ مدت عمرم که بر امید وصال\r\nبه سر رسید و نیامد به سر زمان فراق\r\nسری که بر سر گردون به فخر می سودم\r\nبه راستان که نهادم بر آستان فراق\r\nچگونه باز کنم بال در هوای وصال\r\nکه ریخت مرغ دلم پر در آشیان فراق\r\nکنون چه چاره که در بحر غم به گردابی\r\nفتاد زورق صبرم ز بادبان فراق\r\nبسی نماند که کشتی عمر غرقه شود\r\nز موج شوق تو در بحر بی کران فراق\r\nاگر به دست من افتد فراق را بکشم\r\nکه روز هجر سیه باد و خان و مان فراق\r\nرفیق خیل خیالیم و همنشین شکیب\r\nقرین آتش هجران و هم قران فراق\r\nچگونه دعوی وصلت کنم به جان که شده ست\r\nتنم وکیل قضا و دلم ضمان فراق\r\nز سوز شوق دلم شد کباب دور از یار\r\nمدام خون جگر می خورم ز خوان فراق\r\nفلک چو دید سرم را اسیر چنبر عشق\r\nببست گردن صبرم به ریسمان فراق\r\nبه پای شوق گر این ره به سر شدی حافظ\r\nبه دست هجر ندادی کسی عنان فراق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبانِ خامه ندارد سرِ بیان فِراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه شرح دهم با تو داستانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغ مدت عمرم که بر امیدِ وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر رسید و نیامد به سر زمانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسری که بر سرِ گردون به فخر می‌سودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه راستان که نهادم، بر آستانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچگونه باز کنم بال در هوایِ وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ریخت مرغِ دلم پَر در آشیانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون چه چاره که در بَحرِ غم به گردابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفُتاد زورقِ صبرم ز بادبانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسی نَمانْد که کَشتیِ عمر غرقه شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز موجِ شوقِ تو در بحرِ بی‌کرانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر به دستِ من اُفتَد فِراق را بِکُشَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روزِ هجر سیَه باد و خان و مانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفیقِ خِیلِ خیالیم و همنشینِ شَکیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقَرینِ آتشِ هجران و هم قِرانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچگونه دَعویِ وصلت کُنَم به جان؟ که شده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنم وکیلِ قَضا و دلم ضمانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز سوزِ شوق دلم شد کباب دور از یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدام خونِ جگر می‌خورم ز خوانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک چو دید سرم را اسیرِ چَنبَرِ عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِبَست گردنِ صبرم به ریسمانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پایِ شوق گر این رَه به سر شدی حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دستِ هجر ندادی کسی عِنانِ فِراق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زبانِ خامه ندارد سرِ بیان فِراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خامه (قلم) زبان ندارد تا بتواند درد و جدایی را بیان کند، و اگر داشت، داستان فراق را با تو بازگو می‌کردم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وگرنه شرح دهم با تو داستانِ فِراق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دریغ مدت عمرم که بر امیدِ وصال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "آه و افسوس از طول عمر من که آن را به امید وصال و رسیدن به دوست، طی کردم و به سر رسید اما زمان جدایی و فراق به پایان نرسید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به سر رسید و نیامد به سر زمانِ فِراق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سری که بر سرِ گردون به فخر می‌سودم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سری که با افتخار بر گردونه هستی می‌چرخید، اکنون به خاطر جدایی و فراق در آستانه‌ای ناامید و افسرده قرار گرفته است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به راستان که نهادم، بر آستانِ فِراق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چگونه باز کنم بال در هوایِ وصال",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه می‌توانم در هوای دیدار عاشقانه پرواز کنم وقتی که دلِ من در آغوش جدایی، بال و پرش را از دست داده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که ریخت مرغِ دلم پَر در آشیانِ فِراق",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کنون چه چاره که در بَحرِ غم به گردابی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون چه باید کرد وقتی که در دریای غم گرفتار شدم و کشتی صبرم به خاطر جدایی خراب شده است؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فُتاد زورقِ صبرم ز بادبانِ فِراق",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بسی نَمانْد که کَشتیِ عمر غرقه شود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدت زیادی باقی نمانده که زندگی انسان به دلیل شدت احساسات و اشتیاق به تو، دچار غرق شدگی شود در دریای بی‌پایان جدایی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ز موجِ شوقِ تو در بحرِ بی‌کرانِ فِراق",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اگر به دستِ من اُفتَد فِراق را بِکُشَم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فراق به دست من بیفتد، آن را نابود می‌کنم، زیرا روز جدایی، سیاه و سخت است و باعث از هم پاشیدگی زندگی و آرامش می‌شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که روزِ هجر سیَه باد و خان و مانِ فِراق",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "رفیقِ خِیلِ خیالیم و همنشینِ شَکیب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دوست و همراه خیال هستم و در کنار صبر قرار دارم. هم‌پیمان آتش جدایی و هم‌نشین دوری هستم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "قَرینِ آتشِ هجران و هم قِرانِ فِراق",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چگونه دَعویِ وصلت کُنَم به جان؟ که شده‌ست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم ادعای وصل و نزدیکی به تو را داشته باشم، در حالی که وجودم تحت قضا و تقدیر قرار گرفته و قلبم در حال جدایی است؟"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تنم وکیلِ قَضا و دلم ضمانِ فِراق",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ز سوزِ شوق دلم شد کباب دور از یار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از شدت شوق به عشق، مانند کبابی در آتش می‌سوزد. به دور از یارم همیشه در رنج و عذاب هستم و از غم فراق او خون جگر می‌خورم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مدام خونِ جگر می‌خورم ز خوانِ فِراق",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "فلک چو دید سرم را اسیرِ چَنبَرِ عشق",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی آسمان دید که من به عشق گرفتار شده‌ام، گردن صبرم را به بند فراق کشید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بِبَست گردنِ صبرم به ریسمانِ فِراق",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به پایِ شوق گر این رَه به سر شدی حافظ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به خاطر شوق و علاقه‌ام به این مسیر پایان دادی، حافظ، هیچ‌کس را در جدایی به دست غم و فراق نخواهی سپرد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "به دستِ هجر ندادی کسی عِنانِ فِراق",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "سر چیزی یا کاری داشتن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "قصد و توجه به چیزی یا کاری داشتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "به پایان رسیدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "سر بر آستان نهادن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "تسلیم و مطیع گشتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 157
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 876
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 877
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 878
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "پرریختن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "عاجز شدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "فضاآ آسمان"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "اشتیاق و آرزو"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 877
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 879
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 877
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 7,
+          "ConceptId": 880
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 300
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 73
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 142
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 881
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 747
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 748
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 673
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 124
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 7,
+          "Misra": 0
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 9,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 877
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 499
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 9,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 9,
+          "Misra": 0,
+          "Text": "رنج بردن و غصه خوردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 9,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 9,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 9
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 9,
+          "Misra": 0,
+          "Text": "در دوری از یار"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 9,
+          "Misra": 0,
+          "Text": "دور از یار باد"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 10,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 10,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 877
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 10,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 882
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 11,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 11,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 11,
+          "Misra": 0,
+          "Text": "به پایان آمدن"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 11,
+          "Misra": 0,
+          "Text": "با شور و شوق رفتن"
+        }
+      ]
+    }
+  ]
+}

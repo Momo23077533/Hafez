@@ -1,0 +1,505 @@
+{
+  "Id": 2600,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۷۱",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۷۱",
+  "FullUrl": "/hafez/ghazal/sh471",
+  "RhymeLetters": "می",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به تمسک به عشق و دل‌باختگی می‌پردازد و از احساسات و دردهای ناشی از آن سخن می‌گوید. او با اشاره به بی‌وفایی و گرفتاری‌های ناشی از عشق، به میخانه و مجالس شادمانی دعوت می‌کند و بر تقدس لحظه‌ها تأکید می‌کند. از سویی، در جستجوی دلی شاد و رهایی از غم‌ها، به روحانیت و معنویت نیز اشاره می‌کند و در انتها به این نکته می‌رسد که تنها دعای خالصانه و ارتباط با خدا می‌تواند او را به آرامش برساند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "می",
+      "PlainText": "ز دلبرم که رساند نوازش قلمی\r\nکجاست پیک صبا گر همی کند کرمی\r\nقیاس کردم و تدبیر عقل در ره عشق\r\nچو شبنمی است که بر بحر می کشد رقمی\r\nبیا که خرقه من گرچه رهن میکده هاست\r\nز مال وقف نبینی به نام من درمی\r\nحدیث چون و چرا درد سر دهد ای دل\r\nپیاله گیر و بیاسا ز عمر خویش دمی\r\nطبیب راه نشین درد عشق نشناسد\r\nبرو به دست کن ای مرده دل مسیح دمی\r\nدلم گرفت ز سالوس و طبل زیر گلیم\r\nبه آن که بر در میخانه برکشم علمی\r\nبیا که وقت شناسان دو کون بفروشند\r\nبه یک پیاله می صاف و صحبت صنمی\r\nدوام عیش و تنعم نه شیوه عشق است\r\nاگر معاشر مایی بنوش نیش غمی\r\nنمی کنم گله ای لیک ابر رحمت دوست\r\nبه کشته زار جگرتشنگان نداد نمی\r\nچرا به یک نی قندش نمی خرند آن کس\r\nکه کرد صد شکرافشانی از نی قلمی\r\nسزای قدر تو شاها به دست حافظ نیست\r\nجز از دعای شبی و نیاز صبحدمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دلبرم که رساند نوازش قلمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجاست پیک صبا گر همی کند کرمی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقیاس کردم و تدبیر عقل در ره عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو شبنمی است که بر بحر می‌کشد رقمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا که خرقهٔ من گرچه رهن میکده‌هاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مال وقف نبینی به نام من درمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیثِ چون و چرا دردِ سر دهد ای دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیاله گیر و بیاسا ز عمرِ خویش دمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبیبِ راه‌نشین درد عشق نشناسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرو به دست کن ای مرده‌دل مسیح‌دمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم گرفت ز سالوس و طبل زیر گلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آن که بر در میخانه برکشم عَلَمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا که وقت‌شناسان دو کون بفروشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یک پیاله میِ صاف و صحبتِ صنمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوام عیش و تنعم نه شیوهٔ عشق است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر معاشرِ مایی بنوش نیش غمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌کنم گله‌ای لیک ابر رحمت دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کِشته‌زار جگرتشنگان نداد نمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا به یک نیِ قندش نمی‌خرند آن کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کرد صد شکرافشانی از نیِ قلمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسزای قدر تو شاها به دست حافظ نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز از دعای شبی و نیاز صبحدمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز دلبرم که رساند نوازش قلمی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلبر من کجاست که با ناز و محبتش نزد من آمده باشد؟ ای پیک صبح، اگر تو هم به دوستی و محبت مشغولی، چه زمان خواهد رسید؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجاست پیک صبا گر همی کند کرمی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قیاس کردم و تدبیر عقل در ره عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مقایسه کردم و به این نتیجه رسیدم که تدبیر عقل در مسیر عشق، مانند شبنم است که بر روی دریا خطی نامشخص می‌کشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو شبنمی است که بر بحر می‌کشد رقمی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیا که خرقهٔ من گرچه رهن میکده‌هاست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا که لباس من هرچند در میکده ها به گروست، اما از اموال وقف نخواهد بود و به نام من نیست."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز مال وقف نبینی به نام من درمی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حدیثِ چون و چرا دردِ سر دهد ای دل",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، از دل مشغولی و بحث و جدل درباره زندگی خود دوری کن. پیاله‌ای به دست بگیر و از لحظه‌های زندگی‌ات لذت ببر و استراحت کن."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پیاله گیر و بیاسا ز عمرِ خویش دمی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طبیبِ راه‌نشین درد عشق نشناسد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پزشکی که فقط در کنار راه نشسته و تجربه‌ای از عشق ندارد، نمی‌تواند به تو کمکی کند. ای کسی که دل مرده‌ای داری، باید به خودت کمک کنی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برو به دست کن ای مرده‌دل مسیح‌دمی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دلم گرفت ز سالوس و طبل زیر گلیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از نفاق و تظاهر آدم‌ها آکنده از اندوه شده است، به‌گونه‌ای که دوست دارم پرچمی را به‌روی درِ میخانه برافرازم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به آن که بر در میخانه برکشم عَلَمی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بیا که وقت‌شناسان دو کون بفروشند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا که افرادی که به اهمیت زمان آگاه هستند، برای یک پیاله شراب خالص و صحبت با یک دوست خوب، حتی دو دنیای خود را هم می‌فروشند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به یک پیاله میِ صاف و صحبتِ صنمی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دوام عیش و تنعم نه شیوهٔ عشق است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای عشق و محبت، زندگی راحت و لذت بردن پایدار نیست. اگر با من هستی، این تلخی‌های زندگی را با هم تحمل کنیم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "اگر معاشرِ مایی بنوش نیش غمی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نمی‌کنم گله‌ای لیک ابر رحمت دوست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من شکایتی ندارم، اما بارش رحمت دوست به مزرعه دل‌های تشنه من نیامد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "به کِشته‌زار جگرتشنگان نداد نمی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چرا به یک نیِ قندش نمی‌خرند آن کس",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا کسی که با قلمش هزاران جلوه می‌آفریند، یک نی قند نمی‌خرد؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که کرد صد شکرافشانی از نیِ قلمی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "سزای قدر تو شاها به دست حافظ نیست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شایستگی و ارزش تو ای پادشاه، در دستان حافظ نیست و تنها از طریق دعا در شب و نیاز در سحرگاه به دست می‌آید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "جز از دعای شبی و نیاز صبحدمی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 346
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 257
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "نامه محبت آمیز"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 1201
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "افسرده دل"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "یافتن و انتخاب کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "پنهان کردن امر آشکار"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "علم برکشیدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "ظاهر شدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 275
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "ConceptId": 11
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 202
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 1202
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 7,
+          "Misra": 0
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 1203
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 969
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "مشتاقان"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 9,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 9,
+          "Misra": 0,
+          "Text": "شیرین سخنی"
+        }
+      ]
+    }
+  ]
+}

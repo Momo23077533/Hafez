@@ -1,0 +1,386 @@
+{
+  "Id": 2371,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۴۲",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۴۲",
+  "FullUrl": "/hafez/ghazal/sh242",
+  "RhymeLetters": "اهرسید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر درباره‌ی شادمانی و پیروزی ناشی از ورود یک پادشاه یا مهدی موعود است که به همراه خود نوید فتح و خوشبختی به ارمغان آورده است. شاعر به زیبایی این لحظه را وصف کرده و از ارتقاء حال و خوشی در زندگی مردم سخن می‌گوید. او همچنین به وقوع معجزاتی چون رهایی عزیز مصر اشاره می‌کند و ظاهراًCritics از صوفیانی که حقی را انکار می‌کنند، انتقاد می‌کند. در نهایت، شاعر از درد و عشق خود در دوری معشوق می‌نالد و از اینکه به بارگاه قبول رسیده، ابراز شکر و قدردانی می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهرسید",
+      "PlainText": "بیا که رایت منصور پادشاه رسید\r\nنوید فتح و بشارت به مهر و ماه رسید\r\nجمال بخت ز روی ظفر نقاب انداخت\r\nکمال عدل به فریاد دادخواه رسید\r\nسپهر دور خوش اکنون کند که ماه آمد\r\nجهان به کام دل اکنون رسد که شاه رسید\r\nز قاطعان طریق این زمان شوند ایمن\r\nقوافل دل و دانش که مرد راه رسید\r\nعزیز مصر به رغم برادران غیور\r\nز قعر چاه برآمد به اوج ماه رسید\r\nکجاست صوفی دجال فعل ملحدشکل\r\nبگو بسوز که مهدی دین پناه رسید\r\nصبا بگو که چه ها بر سرم در این غم عشق\r\nز آتش دل سوزان و دود آه رسید\r\nز شوق روی تو شاها بدین اسیر فراق\r\nهمان رسید کز آتش به برگ کاه رسید\r\nمرو به خواب که حافظ به بارگاه قبول\r\nز ورد نیم شب و درس صبحگاه رسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا که رایتِ منصورِ پادشاه رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنویدِ فتح و بشارت به مِهر و ماه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمالِ بخت ز رویِ ظفر نقاب انداخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکمالِ عدل به فریادِ دادخواه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپهر، دور خوش اکنون کُنَد که ماه آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان به کامِ دل اکنون رسد که شاه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز قاطعانِ طریق این زمان شوند ایمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوافلِ دل و دانش که مَرد راه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزیزِ مصر به رغمِ برادران غیور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز قعرِ چاه برآمد به اوجِ ماه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجاست صوفیِ دَجّال فِعلِ مُلحِدشکل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگو بسوز، که مهدیِّ دین پناه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبا بگو که چه‌ها بر سرم در این غمِ عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آتشِ دلِ سوزان و دودِ آه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز شوقِ رویِ تو شاها بدین اسیرِ فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان رسید کز آتش به برگِ کاه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرو به خواب که حافظ به بارگاهِ قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز وِردِ نیمْ شب و درسِ صبحگاه رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا که رایتِ منصورِ پادشاه رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا که پرچم پادشاه منصور به اهتزاز درآمد و خبر پیروزی و خوشحالی به آفتاب و ماه رسید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نویدِ فتح و بشارت به مِهر و ماه رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جمالِ بخت ز رویِ ظفر نقاب انداخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی با ظاهری زیبا از پیروزی پرده‌برداری کرد و کمالِ عدالت به کمکِ دادخواهی آمد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کمالِ عدل به فریادِ دادخواه رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سپهر، دور خوش اکنون کُنَد که ماه آمد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "گردش آسمان، از آمدن ماه سامان گرفت و اکنون جهان از رسیدن شاه،\u00A0به کام دل\u00A0می‌رسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جهان به کامِ دل اکنون رسد که شاه رسید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز قاطعانِ طریق این زمان شوند ایمن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "مژده دهید که اکنون قافله‌های دل و دانش، از راهزنان در امان خواهند بود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "قوافلِ دل و دانش که مَرد راه رسید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عزیزِ مصر به رغمِ برادران غیور",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "عزیز مصر، با وجود تعصب برادران، از ته چاه بیرون آمد و به اوج بزرگی دست یافت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز قعرِ چاه برآمد به اوجِ ماه رسید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کجاست صوفیِ دَجّال فِعلِ مُلحِدشکل",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "کجاست آن صوفیِ دجّال رفتارِ بی دین که به او بگویید بسوزد، چون مهدی دین‌پناه آمد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بگو بسوز، که مهدیِّ دین پناه رسید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "صبا بگو که چه‌ها بر سرم در این غمِ عشق",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "صبا بگو که در این غم عشق، از آتش دل سوزان و دود آهم چه‌ها به سرم آمد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ز آتشِ دلِ سوزان و دودِ آه رسید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز شوقِ رویِ تو شاها بدین اسیرِ فراق",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "شاها! از شوق روی تو بر این اسیر جدایی، همان آمد که آتش به [خرمن] کاه افتاده باشد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "همان رسید کز آتش به برگِ کاه رسید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مرو به خواب که حافظ به بارگاهِ قبول",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "به خواب نرو، زیرا حافظ با نیایش نیمه‌شب و درس صبحگاه در درگاه پذیرفته شد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ز وِردِ نیمْ شب و درسِ صبحگاه رسید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "پیروزمند"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "شاه منصور"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "ظاهر و آشکار کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 75
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 764
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "قاطعان راه"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "راهزنان"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "شاه منصور"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 6,
+          "ConceptId": 765
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 766
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "شاه منصور"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 767
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 768
+        }
+      ]
+    }
+  ]
+}

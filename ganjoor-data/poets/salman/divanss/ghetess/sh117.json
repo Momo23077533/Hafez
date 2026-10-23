@@ -1,0 +1,91 @@
+{
+  "Id": 38916,
+  "CatId": 1135,
+  "Title": "قطعه شمارهٔ ۱۱۷",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » قطعات » قطعه شمارهٔ ۱۱۷",
+  "FullUrl": "/salman/divanss/ghetess/sh117",
+  "RhymeLetters": "ال",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در گفت‌وگویی با خرد به نصیحت می‌پردازد و از اوضاع نگران‌کننده‌اش می‌گوید. خرد به او دلیل عدم پیشرفت و رویارویی با زمان را جویا می‌شود و شاعر در پاسخ توضیح می‌دهد که در دنیای امروز کسی وجود ندارد که مروت و خصال نیکو داشته باشد. او همچنین می‌گوید تلاش برای کسب قدرت و موفقیت در چنین شرایطی به سادگی ممکن نیست و اتخاذ رویکردی خردمندانه در مواجهه با زمان بسیار دشوار است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "دوش با من خرد از روی نصیحت می گفت\r\nکای گرفته ز جهان طبع لطیف تو ملال \r\nپیش ارباب زمان می نروی از چه سبب \r\nبهر قوتی که گریزت نبود در همه حال \r\nگفتمش زانکه درین دور قمر نیست کسی \r\nکه درو بوی مروت بود و حسن خصال \r\nکوه کندن ز پی قوت به نوک مژه به \r\nکه شدن پیش لییمان زمان بهر سوال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E دوش با من خرد از روی نصیحت می‌گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکای گرفته ز جهان طبع لطیف تو ملال \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش ارباب زمان می نروی از چه سبب \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر قوتی که گریزت نبود در همه حال \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتمش زانکه درین دور قمر نیست کسی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه درو بوی مروت بود و حسن خصال \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوه کندن ز پی قوت به نوک مژه به \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شدن پیش لئیمان زمان بهر سوال \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 4,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": " دوش با من خرد از روی نصیحت می‌گفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیشب خرد با من صحبت می‌کرد و نصیحت می‌کرد که ای کسی که به خاطر لطافت طبع‌ات، از دنیا رنج می‌بری."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کای گرفته ز جهان طبع لطیف تو ملال ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش ارباب زمان می نروی از چه سبب ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا در مقابل قدرت زمان نمی‌روی، وقتی که در هیچ حالتی نمی‌توانی از آن فرار کنی؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهر قوتی که گریزت نبود در همه حال ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتمش زانکه درین دور قمر نیست کسی ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که در این زمان کسی نیست که بوی جوانمردی و خوبی‌های اخلاقی را به همراه داشته باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که درو بوی مروت بود و حسن خصال ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کوه کندن ز پی قوت به نوک مژه به ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جای اینکه برای نشان دادن قدرت و توانایی خود تلاش زیادی بکنی، بهتر است که به افرادی که اهل کبر و خودخواهی هستند، درخواستی نداشته باشی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که شدن پیش لئیمان زمان بهر سوال ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    }
+  ]
+}

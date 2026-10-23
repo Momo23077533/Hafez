@@ -1,0 +1,61 @@
+{
+  "Id": 2067,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۷",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۷",
+  "FullUrl": "/hafez/robaee2/sh17",
+  "RhymeLetters": "ید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی به ناپایداری زندگی و بازی روزگار اشاره می‌کند. او با امید به آینده و در عین حال ترس از تحولات ناگهانی، از تغییر رنگ موی خود سخن می‌گوید و می‌پرسد که اگر بعد از تاریکی هیچ روشنایی نیست، چرا موی او سفید شده است. این ابیات نشان‌دهنده نگرانی و تردید او نسبت به آینده و بی‌ثباتی زمانه است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "از چرخ به هر گونه همی دار امید\r\nوز گردش روزگار می لرز چو بید\r\nگفتی که پس از سیاه رنگی نبود\r\nپس موی سیاه من چرا گشت سفید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چرخ به هر گونه همی دار امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گردش روزگار می‌لرز چو بید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که «پس از سیاه رنگی نبُوَد»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس موی سیاه من چرا گشت سفید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چرخ به هر گونه همی دار امید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از چرخ فلک به هر شکلی امید دارم و از نوسانات و تحولات زندگی مانند بید می‌لرزم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گردش روزگار می‌لرز چو بید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که «پس از سیاه رنگی نبُوَد»",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی بعد از رنگ سیاه، رنگی نخواهد بود، پس چرا موی سیاه من سفید شد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس موی سیاه من چرا گشت سفید؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

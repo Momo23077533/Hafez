@@ -1,0 +1,61 @@
+{
+  "Id": 2068,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۱۸",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۱۸",
+  "FullUrl": "/hafez/robaee2/sh18",
+  "RhymeLetters": "اباولیتر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی به زیبایی‌های جوانی و لذت‌های آن اشاره می‌کند و این موضوع را با نوشیدن شراب و شادابی سبزه‌ها در ارتباط می‌آورد. او به این نکته می‌پردازد که در دنیای پرآشوب و خرابی، لذت و شیرینی جوانی و بی‌خبری از این خرابی‌ها به مراتب بیشتر است. در واقع، او می‌خواهد بگوید که در میانهٔ مشکلات و خراب شدن‌ها، شادی و لذات جوانی همچنان ارزشمندتر و دلپذیرتر است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباولىٰتر",
+      "PlainText": "ایام شباب ست شراب اولاتر\r\nبا سبزخطان باده ناب اولاتر\r\nعالم همه سر به سر رباطی ست خراب\r\nدر جای خراب هم خراب اولاتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایّام شباب‌ست، شراب اولاتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سبزخَطان، بادهٔ ناب اولاتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم همه سر به سر رباطی‌ست خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جای خراب هم، خراب اولاتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایّام شباب‌ست، شراب اولاتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روزهای جوانی، نوشیدن شراب بهتر است و باده خالص و ناب نیز انتخابی مناسب‌تر است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سبزخَطان، بادهٔ ناب اولاتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم همه سر به سر رباطی‌ست خراب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دنیا مانند یک خوابگاه ویران است و در این ویرانی نیز، هیچ چیزی برتر از ویرانی وجود ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جای خراب هم، خراب اولاتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

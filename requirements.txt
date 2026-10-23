@@ -1,0 +1,6 @@
+streamlit
+rapidfuzz
+scikit-learn
+numpy
+pymupdf
+pillow

@@ -1,0 +1,61 @@
+{
+  "Id": 39210,
+  "CatId": 1141,
+  "Title": "بخش ۵ - رباعی",
+  "FullTitle": "سلمان ساوجی » جمشید و خورشید » بخش ۵ - رباعی",
+  "FullUrl": "/salman/jamkhor/sh5",
+  "RhymeLetters": "است",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شعر دربارهٔ شاهی است که با زینت و زیبایی‌اش، همچون نعلین، جلوه‌ای خاص به خود می‌بخشد. او به قدری زیباست که با قدم‌هایش، جهان را تحت تأثیر قرار می‌دهد. توجه او به زیبایی و حسن، موجب می‌شود که این زیبایی به طوری شگفت‌انگیز نمایان گردد و شب را به خاطر این زیبایی به یاد ماندنی کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "شاهی که به نعلین رخ مه آراست\r\nگشت از قدمش پشت کج گردون راست\r\nبر حسن مه چارده انگشت نهاد\r\nمه را بشکست وز آن شب انگشت نماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهی که به نعلین رخ مه آراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت از قدمش پشت کج گردون راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر حسن مه چارده انگشت نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه را بشکست وز آن شب انگشت نماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهی که به نعلین رخ مه آراست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهی که با زیبایی خود، دنیا را به زینت آراسته، با حضورش توانسته دنیا را سر و سامان بخشد و به مشکلات آن نظم دهد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشت از قدمش پشت کج گردون راست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر حسن مه چارده انگشت نهاد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر زیبایی ماه چهارده، دست گذاشت و ماه را شکست و از آن شب، به عنوان مثال بارز شناخته شد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مه را بشکست وز آن شب انگشت نماست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

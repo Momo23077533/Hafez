@@ -1,0 +1,75 @@
+{
+  "Id": 38843,
+  "CatId": 1135,
+  "Title": "قطعه شمارهٔ ۴۴",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » قطعات » قطعه شمارهٔ ۴۴",
+  "FullUrl": "/salman/divanss/ghetess/sh44",
+  "RhymeLetters": "اد",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این قطعه به موضوع حرص و طمع می‌پردازد و تأکید می‌کند که این ویژگی‌ها انسان را از عزت و سعادتی که در قناعت و درویشی نهفته است، دور می‌کند. او به دوستش می‌گوید که قناعت و دل کندن از طمع، موجب عزت و سعادت واقعی است. همچنین اشاره می‌کند که اگر پای توانگری بلغزد، این امر آسان است، اما سعادتمندی واقعی در درویشی و قناعت است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اد",
+      "PlainText": "کنار حرص الا پر کجا توانی کرد \r\nتو از طمع که سه حرف میان تهی افتاد \r\nعزیز من در درویشی و قناعت زن \r\nکه خواری از طمع و عزت از قناعت زاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنار حرص الا پر کجا توانی کرد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو از طمع که سه حرف میان تهی افتاد \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزیز من در درویشی و قناعت زن \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خواری از طمع و عزت از قناعت زاد \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 3,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کنار حرص الا پر کجا توانی کرد ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیای پر از حرص و طمع، چطور می‌توانی از این حس فرار کنی؟ وقتی که طمع فقط سه حرف خالی است و درونش هیچ ارزش واقعی ندارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو از طمع که سه حرف میان تهی افتاد ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عزیز من در درویشی و قناعت زن ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیز من، در زندگی ساده و بی‌ریا باش و قناعت را پیشه خود کن، زیرا طمع و حرص انسان را رسوا می‌کند، اما داشتن قناعت می‌تواند به او عزت و احترام ببخشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خواری از طمع و عزت از قناعت زاد ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر بلغزد پای توانگری سهل است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سعادت سر درویشی و قناعت باد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "Id": 39034,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۷۰",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۷۰",
+  "FullUrl": "/salman/divanss/robaeess/sh70",
+  "RhymeLetters": "ابکشد",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی از زیبایی و جذبه معشوق سخن می‌گوید و بیان می‌کند که عشق و زیبایی او دلی پرشور و شادابی به او می‌بخشد. او از معشوق می‌خواهد که به او توجه کند و از چشمانش به او نظر افکند، چرا که این نگاه به او زندگی و سرزندگی می‌بخشد. شاعر به لطافت لحظات عاشقانه اشاره می‌کند و از حس طلب و longing خود برای نزدیکی به معشوق می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابکشد",
+      "PlainText": "از شمع جمال تو دلم تاب کشد \r\nاز جام لبت خرد می ناب کشد \r\nاین مردمک دیده تر دامن من \r\nتا چند ز چاه زنخت آب کشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شمع جمال تو دلم تاب کشد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جام لبت خرد می ناب کشد \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مردمک دیده تر دامن من \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند ز چاه زنخت آب کشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شمع جمال تو دلم تاب کشد ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شمع زیبایی تو، دلم را شاد و سرزنده می‌کند و از لب‌های تو طعم خالص عشق را می‌نوشم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از جام لبت خرد می ناب کشد ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این مردمک دیده تر دامن من ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا تا چه زمانی این مردمک چشم من به دامن من نمی‌رسد و فقط از چاه غم آب می‌کشد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا چند ز چاه زنخت آب کشد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

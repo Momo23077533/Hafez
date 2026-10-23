@@ -1,0 +1,149 @@
+{
+  "Id": 2156,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۷",
+  "FullUrl": "/hafez/ghazal/sh27",
+  "RhymeLetters": "ست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این غزل، شاعر به توصیف یار خود می‌پردازد که با ظاهری دلربا در حالی که مشغول نوشیدن شراب است، در مکان شلوغی از میخواران وارد می‌شود. او زیبایی و جذابیت این یار را توصیف می‌کند و به تأثیر آن بر دل خود اشاره دارد. شاعر در نهایت به احساس ناامیدی و بی‌خبری خود از یار و همچنین گذر زمان می‌پردازد و از یار می‌خواهد که بازگردد، چون زمان عمر به سرعت می‌گذرد و فرصتی برای وصال باقی نمی‌ماند.",
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "در دیر مغان آمد یارم قدحی در دست\r\nمست از می و میخواران از نرگس مستش مست\r\nدر نعل سمند او شکل مه نو پیدا\r\nوز قد بلند او بالای صنوبر پست\r\nآخر به چه گویم هست از خود خبرم چون نیست\r\nوز بهر چه گویم نیست با وی نظرم چون هست\r\nشمع دل دمسازم بنشست چو او برخاست\r\nو افغان ز نظربازان برخاست چو او بنشست\r\nگر غالیه خوش بو شد در گیسوی او پیچید\r\nور وسمه کمانکش گشت در ابروی او پیوست\r\nبازآی که بازآید عمر شده حافظ\r\nهرچند که ناید باز تیری که بشد از شست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیرِ مغان آمد، یارم قدحی در دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمست از می و میخواران از نرگسِ مستش مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نعلِ سمندِ او شکلِ مهِ نو پیدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز قدِ بلندِ او بالایِ صنوبر، پست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخر به چه گویم هست از خود خبرم، چون نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بَهرِ چه گویم نیست با وی نظرم، چون هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمعِ دلِ دمسازم، بنشست چو او برخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو افغان ز نظربازان، برخاست چو او بنشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر غالیه خوش بو شد، در گیسویِ او پیچید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور وَسمه کمانکَش گشت، در ابروی او پیوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازآی که بازآید عمرِ شدهٔ حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند که ناید باز، تیری که بِشُد از شست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 6,
+      "MetreId": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیرِ مغان آمد، یارم قدحی در دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "در ميخانه، معشوق من با جامی در دست به سراغم آمد، او از شراب مست بود و باقی می‌نوشان از چشم زیبای او مست بودند"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مست از می و میخواران از نرگسِ مستش مست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در نعلِ سمندِ او شکلِ مهِ نو پیدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ماه به زیر نعل اسب او بود چ از قد بلند او، درخت صنوبر کوتاه‌تر به نظر می‌رسید"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز قدِ بلندِ او بالایِ صنوبر، پست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آخر به چه گویم هست از خود خبرم، چون نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "چگونه می‌توانم بگویم که از حال خود خبر دارم ؟! وقتی که خبر ندارم ، چرا بگویم که معشوق رابطه‌ای ندارم ؟! درصورتی که دارم"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وز بَهرِ چه گویم نیست با وی نظرم، چون هست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شمعِ دلِ دمسازم، بنشست چو او برخاست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": ": دل من مانند شمعی است که وقتی او نشسته،روشن است و وقتی او بلند می‌شود، من نیز خاموش می شوم.صدای فریاد و فغان نظربازان بلند است\u00A0 وقتی او می نشیند در کنارشان،\u00A0"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "و افغان ز نظربازان، برخاست چو او بنشست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر غالیه خوش بو شد، در گیسویِ او پیچید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر مشک خوش بو است به این دلیل است که در گیسوی معشوق رفته است و اگر گیاه وسمه برای آرایش ابرو استفاده میشود به این دلیل است که بر ابروی معشوق برخورد کرد\u00A0"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ور وَسمه کمانکَش گشت، در ابروی او پیوست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بازآی که بازآید عمرِ شدهٔ حافظ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "برگرد تا عمر تلف شده و از دست رفته حافظ برگردد هرچند میدانم تیری که رها بشود دیگر باز نمی‌گردد"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هرچند که ناید باز، تیری که بِشُد از شست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 137
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 138
+        }
+      ]
+    }
+  ]
+}

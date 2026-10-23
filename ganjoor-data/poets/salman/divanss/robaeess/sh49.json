@@ -1,0 +1,61 @@
+{
+  "Id": 39013,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۴۹",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۹",
+  "FullUrl": "/salman/divanss/robaeess/sh49",
+  "RhymeLetters": "ونیمناست",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی از غم و درد درونی خود سخن می‌گوید و به رابطهٔ عمیق‌اش با احساساتش اشاره می‌کند. اشک‌هایی که از چشمانش می‌ریزد نشانهٔ ضعف اوست، اما در عین حال این اشک‌ها به نوعی نشان‌دهندهٔ وجود یاری درون او هستند که به این احساسات شکل می‌بخشند. در واقع، این احساسات و اشک‌ها بخشی از هویت و وجود او را می‌سازند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونیمناست",
+      "PlainText": "این اشک گریز پا که خونی من است \r\nدر خون من از عین زبونی من است \r\nبا اینهمه کز چشم من افتاد دلم \r\nبا اوست که یار اندرونی من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشک گریز پا که خونی من است \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خون من از عین زبونی من است \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا اینهمه کز چشم من افتاد، دلم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا اوست که یار اندرونی من است \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این اشک گریز پا که خونی من است ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این اشک فوری و فرار، نشانه‌ای از دردهای من است و این خون، ناشی از ضعف و ناتوانی من است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خون من از عین زبونی من است ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با اینهمه کز چشم من افتاد، دلم ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه او دیگر در نظر من نیست، اما قلبم هنوز با اوست، چرا که او یار و محبوب نزدیک من است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با اوست که یار اندرونی من است ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

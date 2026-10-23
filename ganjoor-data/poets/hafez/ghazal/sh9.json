@@ -1,0 +1,628 @@
+{
+  "Id": 2138,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۹",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۹",
+  "FullUrl": "/hafez/ghazal/sh9",
+  "RhymeLetters": "انرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به اوج جوانی و زیبایی‌های بهاری اشاره می‌کند و از جوانان می‌خواهد که از نعمت‌های زندگی لذت ببرند. او به زیبایی گل‌ها و حال و هوای چمن اشاره می‌کند و از صبا درخواست می‌کند که این زیبایی‌ها را به او برساند. همچنین شاعری با احتیاط به خطراتی که ممکن است در میخانه‌ها وجود داشته باشد، اشاره می‌کند و بر اهمیت ایمان و درستکاری تأکید می‌کند. در پایان، با دعوت به خوش‌گذرانی و پرهیز از تزویر، فرهنگ مشترک انسانی را یادآوری می‌کند و بر واقعیات زندگی و گذرایی آن تأکید می‌نهد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انرا",
+      "PlainText": "رونق عهد شباب است دگر بستان را\r\nمی رسد مژده گل بلبل خوش الحان را\r\nای صبا گر به جوانان چمن باز رسی\r\nخدمت ما برسان سرو و گل و ریحان را\r\nگر چنین جلوه کند مغبچه باده فروش\r\nخاک روب در میخانه کنم مژگان را\r\nای که بر مه کشی از عنبر سارا چوگان\r\nمضطرب حال مگردان من سرگردان را\r\nترسم این قوم که بر دردکشان می خندند\r\nدر سر کار خرابات کنند ایمان را\r\nیار مردان خدا باش که در کشتی نوح\r\nهست خاکی که به آبی نخرد طوفان را\r\nبرو از خانه گردون به در و نان مطلب\r\nکآن سیه کاسه در آخر بکشد مهمان را\r\nهر که را خوابگه آخر مشتی خاک است\r\nگو چه حاجت که به افلاک کشی ایوان را\r\nماه کنعانی من مسند مصر آن تو شد\r\nوقت آن است که بدرود کنی زندان را\r\nحافظا می خور و رندی کن و خوش باش ولی\r\nدام تزویر مکن چون دگران قرآن را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرونق عهد شباب است دگر بُستان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌رسد مژدهٔ گل بلبل خوش‌الحان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صبا گر به جوانان چمن باز رَسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدمت ما برسان سرو و گل و ریحان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چنین جلوه کند مغبچهٔ باده‌فروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک‌روبِ درِ میخانه کنم مژگان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که بر مه کشی از عَنبرِ سارا چوگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمضطرب‌حال مگردان، من سرگردان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم این قوم که بر دُردکشان می‌خندند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سر کار خرابات کنند ایمان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار مردان خدا باش که در کشتی نوح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست خاکی که به آبی نخرد طوفان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو از خانهٔ گردون به در و نان مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن سیه‌کاسه در آخر بِکُشد مهمان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را خوابگه آخر مشتی خاک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو چه حاجت که به افلاک کشی ایوان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماه کنعانی من! مسند مصر آنِ تو شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت آن است که بدرود کنی زندان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظا می خور و رندی کن و خوش باش ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدام تزویر مکن چون دگران قرآن را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رونق عهد شباب است دگر بُستان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "دوباره نیکویی و گرمی ِ بازار ِ دوران ِ جوانی به بستان برگشته است. و به\nبلبل ِ خوش آواز، مژده‌یِ آمدن ِ گل می‌رسد.\n\nبه‌جز این، می‌توان گفت که بستان باعث شده است که روزگار ِ جوانی ِ ما\nرونق بگیرد و بازار ِ آن گرم شود. در این حالت می‌توان بلبل ِ خوش‌الحان ِ مصراع ِ\nدوم را خود ِ شاعر در نظر گرفت که به او مژده‌یِ گُل (دیدار و وصل ِ یار) رسیده\nاست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌رسد مژدهٔ گل بلبل خوش‌الحان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای صبا گر به جوانان چمن باز رَسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای بادِ صبا! اگر به نو رُسته‌های باغ رسیدی، ارادتِ ما را به\nسرو، گل و ریحان برسان. [با توجه به آنچه که در حاشیه این غزل آمده است، «جوانان چمن» یعنی «نو رُسته‌های باغ»]"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدمت ما برسان سرو و گل و ریحان را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر چنین جلوه کند مغبچهٔ باده‌فروش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر مغبچه‌یِ باده‌فروش، این‌چنین خود را نشان بدهد و ناز و کرشمه و دلبری\nکند، مژه‌های خودم را جارویِ در ِ می خانه خواهم کرد.\u00A0اگر مغبچه‌یِ باده‌فروش چنین به چشم ِ من در آید و دل از من ببَرَد، حاضر ام\nبرایِ آن که مقیم ِ میخانه باشم، در هیئت ِ یک خدمت‌کار، در ِ میخانه را جارو\nبزنم. آن هم با مژه‌هایِ خودم.\n\n\n\n"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خاک‌روبِ درِ میخانه کنم مژگان را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای که بر مه کشی از عَنبرِ سارا چوگان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای معشوقی که زلف ِ مشکین و تاب‌دار ِ خود را مانند ِ چوب ِ چوگان بر صورت‌ات\nافکنده‌ای (که انگار در بازی ِ چوگان گوی را به سمت ماه پرت کرده‌ای!)، من ِ آشفته\nرا با دیدن ِ ماه ِ رخ‌ات و حرکت زلف‌ات به این سو و آن سو پریشان و مضطرب‌حال نکن!"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مضطرب‌حال مگردان، من سرگردان را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ترسم این قوم که بر دُردکشان می‌خندند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "با حالتی طعنه‌آمیز می‌گوید: می‌ترسم که آن گروه و دسته‌ئی که به شراب‌خواران می‌خندند\nو آن‌ها را مسخره می‌کنند، خودشان سرانجام ایمان ِ خودشان را در سر ِ کار ِ خرابات\nو کارهای عیاشی و فسق، دربازند و بدهند!"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در سر کار خرابات کنند ایمان را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یار مردان خدا باش که در کشتی نوح",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "مفهومی که شاعر در این بیت بی نظیر در پی رساندن آن است همان خودداری از لذتی است که تورا ممکن است درگیر توفان کند! شاعر در مصراع اول مخاطب را دعوت به همراهی با یاران خدا می‌کند و در ادامه و مصراع دوم توضیح می‌دهد که اگر می‌خواهی در کشتی نوح سوار شوی و از توفان و بلا به دور باشی باید همچون خاکی (یا موجود خاکی یا همان انسان) که در کشتی نوح، بی آبی را به جان می‌خرد تا مگر نکند که طلب و دعای او توفانی را باعث شود، خوددار باشی. مردان خدا از بیم توفان آگاهند و با لذت‌های گذرا خود را به خطرِ پیاده شدن از کشتی نوح و از دست دادن هم‌نشینی با یارانِ خدا نمی‌اندازند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هست خاکی که به آبی نخرد طوفان را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "برو از خانهٔ گردون به در و نان مطلب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر به طلب ِ نان به در ِ خانه‌یِ گردون آمده‌ای، از آن خارج شو و از او\nطلب ِ نان مکُن! چون که این بخیل ِ رذل، سرانجام مهمان را خواهد کُشت.\n\nمی گوید این گردون، مثل ِ شخص ِ سیاه‌کاسه‌ئی است که\nنه تنها نان به تو نخواهد داد، بلکه در آخر تو را خواهد کشت! فرار کن!"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کآن سیه‌کاسه در آخر بِکُشد مهمان را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هر که را خوابگه آخر مشتی خاک است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "خوابگاه ِ پایانی ِ هر کسی، یک مشت خاک است. بگو چه نیازی است و چه فایده دارد\nکه خانه و عمارت و کاخ ِ خود را به آسمان برسانی و ایوان و قصر ِ بلند\nبسازی؟ همه سرانجام در زیر ِ مشتی خاک خواهیم خوابید."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گو چه حاجت که به افلاک کشی ایوان را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ماه کنعانی من! مسند مصر آنِ تو شد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای یوسف کنعانی من (باستعاره مقصود جان پاک)کرسی فرمانروایی ملک مصر(به استعاره مقصود عالم معنی)تراست،هنگام آنست که زندان (باستعاره مقصود قفس تن یا زندان دنیا )را وداع کنی و عزیز و فرمانروا در ملک معنی شوی"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "وقت آن است که بدرود کنی زندان را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "حافظا می خور و رندی کن و خوش باش ولی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای حافظ! می بخور! رندی بکن! و خوش باش! اما مانند ِ دیگران، قرآن را دامی\nبرای مکر و فریب دادن و به دروغ زیور کردن ِ کارهای خودت قرار نده.\n\nواژه‌یِ «قرآن» در این غزل آمده‌است. و در بیت‌های\nاین غزل تلمیح‌هایی از آیه‌ها و قصّه‌های قرآنی نیز آمده. به نوعی شاعر در بیت ِ آخر،\nبه صراحت این موضوع را یادآوری کرده است. به شکلی که\nیعنی از قرآن نیز می‌توان به درستی استفاده کرد و آن را دام ِ تزویر نکرد.\n\n\n\n"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "دام تزویر مکن چون دگران قرآن را",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 154,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 155,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 8,
+          "ConceptId": 37
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "ConceptId": 38
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "جوانه ها یا شاخه های تازه روییده،"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "جوانانی که به گلگشت چمن رفته اند."
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 39
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 40
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 41
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 42
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 43
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 44
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 9,
+          "WordEnd": 9,
+          "ConceptId": 45
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 46
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "رندان عاشق پیشه"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "در سر چیزی کردن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "بر باد دادن، نابود کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 4,
+          "Misra": 0
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "دردکشان"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 3,
+          "ConceptId": 47
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 48
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 4,
+          "ConceptId": 49
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "ConceptId": 4
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 50
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "ConceptId": 51
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "بخیل و سفله"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 5,
+          "ConceptId": 52
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "ConceptId": 53
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "ایوان به افلاک کشیدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "کاخ مجلل و باشکوه ساختن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 2,
+          "ConceptId": 54
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "ConceptId": 55
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 9,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 56
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 9,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 57
+        }
+      ]
+    }
+  ]
+}

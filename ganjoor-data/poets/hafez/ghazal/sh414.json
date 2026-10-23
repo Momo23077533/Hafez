@@ -1,0 +1,334 @@
+{
+  "Id": 2543,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۱۴",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۱۴",
+  "FullUrl": "/hafez/ghazal/sh414",
+  "RhymeLetters": "ارکو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به وصف لحظات خوش زندگی و لذت‌های بهاری می‌پردازد و از مجلسی پر از شادمانی و زیبایی سخن می‌گوید. او به ساقی می‌گوید که به گل و باده اشاره کند و در عین حال بر این نکته تأکید می‌کند که اسیر دل‌باختگی و دلتنگی‌های خود است. حافظ همچنین به این موضوع می‌پردازد که زیبایی‌های ظاهری و عشق نمی‌تواند غم و اندوه را از دل انسان بزداید و در نهایت به ناپایداری و دغدغه‌های روزگار اشاره می‌کند.",
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارکو",
+      "PlainText": "گلبن عیش می دمد ساقی گل عذار کو\r\nباد بهار می وزد باده خوش گوار کو\r\nهر گل نو ز گل رخی یاد همی کند ولی\r\nگوش سخن شنو کجا دیده اعتبار کو\r\nمجلس بزم عیش را غالیه مراد نیست\r\nای دم صبح خوش نفس نافه زلف یار کو\r\nحسن فروشی گلم نیست تحمل ای صبا\r\nدست زدم به خون دل بهر خدا نگار کو\r\nشمع سحرگهی اگر لاف ز عارض تو زد\r\nخصم زبان دراز شد خنجر آبدار کو\r\nگفت مگر ز لعل من بوسه نداری آرزو\r\nمردم از این هوس ولی قدرت و اختیار کو\r\nحافظ اگر چه در سخن خازن گنج حکمت است\r\nاز غم روزگار دون طبع سخن گزار کو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلبن عیش می‌دمد ساقی گل‌عذار کو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد بهار می‌وزد بادهٔ خوش‌گوار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر گل نو ز گل‌رخی یاد همی کند ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش سخن‌شنو کجا؟ دیدهٔ اعتبار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلس بزم عیش را غالیهٔ مراد نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دمِ صبحِ خوش‌نفس نافهٔ زلف یار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحُسن‌فروشیِ گلم نیست تحمل ای صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست زدم به خون دل بهر خدا نگار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع سحرگهی اگر لاف ز عارض تو زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخصم زبان دراز شد خنجر آبدار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت «مگر ز لعل من بوسه نداری آرزو؟»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمُردم از این هوس ولی قدرت و اختیار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ اگر چه در سخن خازن گنج حکمت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز غم روزگارِ دون، طبعِ سخن‌گزار کو؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7,
+      "MetreId": 17
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلبن عیش می‌دمد ساقی گل‌عذار کو؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهشتی که در آن لذت و شادی برپا می‌شود، کجاست؟ ای نوشنده، دختر زیبا کجا است؟ نسیم بهاری می‌وزد، ولی شراب خوش‌گوار کجاست؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد بهار می‌وزد بادهٔ خوش‌گوار کو؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گل نو ز گل‌رخی یاد همی کند ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر گلی از گل‌های زیبا یاد می‌کند، اما چه کسی به صحبت‌ها گوش می‌دهد؟ دیدهٔ پر ارزش کجاست؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوش سخن‌شنو کجا؟ دیدهٔ اعتبار کو؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مجلس بزم عیش را غالیهٔ مراد نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این مجلس خوشی و شادی، آرزویم محقق نمی‌شود. ای صبح زیبای خوش‌بو، کجاست آن گل عطرآگین که از زلف یار بیرون آمده است؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای دمِ صبحِ خوش‌نفس نافهٔ زلف یار کو؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حُسن‌فروشیِ گلم نیست تحمل ای صبا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نسیم، زیبایی من را نمی‌توانی تحمل کنی. با دل شکسته‌ام به یادت اشاره کردم. ای کاش برای خدا، تصاویر محبوبم را به من نشان بدهی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دست زدم به خون دل بهر خدا نگار کو؟",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شمع سحرگهی اگر لاف ز عارض تو زد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شمع سحرگاهی (که به زیبایی تو می‌نازد) زبان به ناز و خودستایی بگشاید، دشمن هم در آن لحظه زبانش دراز خواهد شد. اما کجاست آن خنجر تیز و برنده که به خاطر زیبایی تو برانگیخته می‌شود؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خصم زبان دراز شد خنجر آبدار کو؟",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گفت «مگر ز لعل من بوسه نداری آرزو؟»",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفت: «آیا از زیبایی من آرزوی بوسه نداری؟» من از این میل دچار مرگ شدم، اما کجاست آن قدرت و اختیار که مرا از این خواسته بازدارد؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "مُردم از این هوس ولی قدرت و اختیار کو؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "حافظ اگر چه در سخن خازن گنج حکمت است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ اگرچه در شعرش به گنجینه‌ای پرارزش از حکمت دست یافته، اما در برابر غم روزگار پست، کجا می‌تواند قدرت و ذوق شاعرانه‌اش را نشان دهد؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "از غم روزگارِ دون، طبعِ سخن‌گزار کو؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 561
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 0,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 530
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 58
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 1
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 426
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 1112
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "کشتن دل"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 2,
+          "ConceptId": 1113
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 1114
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "گستاخ"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 13
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 83
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 725
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 203
+        }
+      ]
+    }
+  ]
+}

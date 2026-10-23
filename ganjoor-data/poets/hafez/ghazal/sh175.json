@@ -1,0 +1,272 @@
+{
+  "Id": 2304,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۷۵",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۷۵",
+  "FullUrl": "/hafez/ghazal/sh175",
+  "RhymeLetters": "وشامد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر به توصیف آمدن بهار و حال‌وهوای شادابی طبیعت می‌پردازد. در آن، صبا به نزد پیر می‌فروش آمده و نوید طرب و خوشی را می‌آورد، درختان سبز و پرندگان در حال آوازخوانی هستند. شاعر به دعوت به شادی و نشستن در مجالس انس با دوستان اشاره می‌کند و از تفرقه و جدایی دوری می‌جوید. در پایان، حافظ از رفتن به میخانه و رهایی از زهد ریاکارانه سخن می‌گوید تا بتواند به حقیقت و مستی دست یابد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشامد",
+      "PlainText": "صبا به تهنیت پیر می فروش آمد\r\nکه موسم طرب و عیش و ناز و نوش آمد\r\nهوا مسیح نفس گشت و باد نافه گشای\r\nدرخت سبز شد و مرغ در خروش آمد\r\nتنور لاله چنان برفروخت باد بهار\r\nکه غنچه غرق عرق گشت و گل به جوش آمد\r\nبه گوش هوش نیوش از من و به عشرت کوش\r\nکه این سخن سحر از هاتفم به گوش آمد\r\nز فکر تفرقه بازآی تا شوی مجموع\r\nبه حکم آنکه چو شد اهرمن سروش آمد\r\nز مرغ صبح ندانم که سوسن آزاد\r\nچه گوش کرد که با ده زبان خموش آمد\r\nچه جای صحبت نامحرم است مجلس انس\r\nسر پیاله بپوشان که خرقه پوش آمد\r\nز خانقاه به میخانه می رود حافظ\r\nمگر ز مستی زهد ریا به هوش آمد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبا به تهنیتِ پیرِ مِی‌فروش آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه موسمِ طرب و عیش و ناز و نوش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوا مسیح‌نفس گشت و باد نافه‌گشای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرخت سبز شد و مرغ دَر خروش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنورِ لاله چنان برفروخت بادِ بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه غنچه غرقِ عرق گشت و گل به جوش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گوشِ هوش نیوش از من و به عشرت کوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه این سخن سَحَر از هاتفم به گوش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز فکرِ تفرقه بازآی تا شوی مجموع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه حکمِ آنکه چو شد اهرمن سروش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز مرغِ صبح ندانم که سوسنِ آزاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه گوش کرد که با دَه زبان خموش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه جایِ صحبتِ نامحرم است مجلسِ انس؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرِ پیاله بپوشان که خرقه‌پوش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خانقاه به میخانه می‌رود حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر ز مستیِ زهدِ ریا به هوش آمد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبا به تهنیتِ پیرِ مِی‌فروش آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "باد صبا به پیرِ مِی‌فروش مژده داد که زمان شادی، خوشی و کامرانی کامل فرارسیده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که موسمِ طرب و عیش و ناز و نوش آمد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هوا مسیح‌نفس گشت و باد نافه‌گشای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوا چون دم مسیح (زندگی بخش) شد و باد مشک پراکند. درخت جوانه زد و پرنده، آواز سر داد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درخت سبز شد و مرغ دَر خروش آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تنورِ لاله چنان برفروخت بادِ بهار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "باد بهاری چنان در تنور لاله (آتش عشق) دمید که غنچه‌ غرق عرق شد و گل‌، ناآرام گردید."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که غنچه غرقِ عرق گشت و گل به جوش آمد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به گوشِ هوش نیوش از من و به عشرت کوش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "سخن مرا با گوش جان بشنو و به کامرانی بپرداز؛ زیرا این سخن را بامدادان از پیام آوری شنیده‌ام که دیده نمی‌شود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که این سخن سَحَر از هاتفم به گوش آمد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز فکرِ تفرقه بازآی تا شوی مجموع",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "از اندیشهٔ تفرقه بیرون بیا تا مجموع شوی؛ زیرا پس از رفتن اهرمن، سروش می‌آید. [تفرقه و جمع همیشه در کنار هم هستند! به استناد لغتنامه دهخدا (نقل از\u00A0 عطار نیشابوری)، «جمع» عین حق است و «تفرقه» صفت حق.]"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به حکمِ آنکه چو شد اهرمن سروش آمد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز مرغِ صبح ندانم که سوسنِ آزاد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "نمیدانم سوسن آزاد از مرغ صبح چه شنید که با داشتنِ دَه زبان، خاموشی گزید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چه گوش کرد که با دَه زبان خموش آمد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چه جایِ صحبتِ نامحرم است مجلسِ انس؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا تأکید بر این است که در شرایطی که نباید صحبت‌های نامناسب مطرح شود، بهتر است که از گفتگوهای نا مناسب اجتناب کنیم. همچنین، اشاره به این است که وقتی فردی با ویژگی‌های خاص و مذهبی وارد جمع می‌شود، باید رفتار و گفتار خود را متناسب با آن شرایط تغییر دهیم و محتاطانه عمل کنیم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سرِ پیاله بپوشان که خرقه‌پوش آمد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز خانقاه به میخانه می‌رود حافظ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "حافظ از خانقاه به میخانه می‌رود؛ گویا مستی زهدِ ریایی از سر او پریده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مگر ز مستیِ زهدِ ریا به هوش آمد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "حیات بخش گشتن هوا"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 610
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 611
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 612
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 613
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 10
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "بی قراری و به هیجان آمدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "بلبل"
+        }
+      ]
+    }
+  ]
+}

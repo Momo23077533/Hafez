@@ -1,0 +1,324 @@
+{
+  "Id": 2376,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۴۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۴۷",
+  "FullUrl": "/hafez/ghazal/sh247",
+  "RhymeLetters": "ردریغمدار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به عشق و وصال معشوق می‌پردازد و از عشق ورزی خود می‌گوید. او از صبا و نسیم می‌خواهد که اخبار عاشق را به معشوق برسانند و در وصف زیبایی معشوق، او را به گل و ماه تشبیه می‌کند. شاعر تأکید دارد که دنیا و بدنیات آن در برابر عشق و معرفت ناچیز است و از معشوق می‌خواهد که اجازه دهد از زیبایی و سخن او بهره‌مند شود. در نهایت، حافظ با اشاره به غم و اندوه، از تغییر حال خود به خوشبختی سخن می‌گوید و از دیگران می‌خواهد که بر او ترحم کنند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردریغمدار",
+      "PlainText": "صبا ز منزل جانان گذر دریغ مدار\r\nوز او به عاشق بی دل خبر دریغ مدار\r\nبه شکر آن که شکفتی به کام بخت ای گل\r\nنسیم وصل ز مرغ سحر دریغ مدار\r\nحریف عشق تو بودم چو ماه نو بودی\r\nکنون که ماه تمامی نظر دریغ مدار\r\nجهان و هر چه در او هست سهل و مختصر است\r\nز اهل معرفت این مختصر دریغ مدار\r\nکنون که چشمه قند است لعل نوشین ات\r\nسخن بگوی و ز طوطی شکر دریغ مدار\r\nمکارم تو به آفاق می برد شاعر\r\nاز او وظیفه و زاد سفر دریغ مدار\r\nچو ذکر خیر طلب می کنی سخن این است\r\nکه در بهای سخن سیم و زر دریغ مدار\r\nغبار غم برود حال خوش شود حافظ\r\nتو آب دیده از این ره گذر دریغ مدار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبا ز منزلِ جانان گذر دریغ مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز او به عاشقِ بی‌دل خبر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شُکرِ آن که شِکُفتی به کامِ بخت ای گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسیمِ وصل ز مرغِ سحر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحریفِ عشقِ تو بودم چو ماهِ نو بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون که ماهِ تمامی نظر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان و هر چه در او هست سهل و مختصر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اهلِ معرفت این مختصر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون که چشمهٔ قند است لعلِ نوشین‌ات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن بگوی و ز طوطی، شِکَر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکارمِ تو به آفاق می‌بَرَد شاعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز او وظیفه و زادِ سفر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو ذکرِ خیر طلب می‌کنی سخن این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در بهایِ سخن سیم و زر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغبارِ غم بِرَوَد، حال خوش شود حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو آبِ دیده از این ره‌گذر دریغ مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبا ز منزلِ جانان گذر دریغ مدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد صبا را که از سوی معشوق می‌آید، نباید از دست بدهی و باید به او که عاشق بی‌دل است، خبر برسانی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز او به عاشقِ بی‌دل خبر دریغ مدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به شُکرِ آن که شِکُفتی به کامِ بخت ای گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر شکرگزاری از اینکه تو، ای گل، به خوشبختی شکفته‌ای، از نسیم وصال و آواز مرغ سحر دریغ نزن."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نسیمِ وصل ز مرغِ سحر دریغ مدار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حریفِ عشقِ تو بودم چو ماهِ نو بودی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در عشق تو مانند ماه نو بودم و اکنون که به کمال خود رسیده‌ای، برای تو بزرگ‌تر از آنچه هستی، ننگر."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کنون که ماهِ تمامی نظر دریغ مدار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جهان و هر چه در او هست سهل و مختصر است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا و هر آنچه در آن وجود دارد، چیزی ساده و کوچک است؛ اما از اهل دانش و معرفت نباید به سادگی گذشت و باید به آن اهمیت داد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز اهلِ معرفت این مختصر دریغ مدار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کنون که چشمهٔ قند است لعلِ نوشین‌ات",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون که لب‌های شیرین تو همچون چشمه‌ای از قند هستند، سخن بگو و در بیان شیرینی‌ات مانند طوطی، دریغ نکن."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سخن بگوی و ز طوطی، شِکَر دریغ مدار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مکارمِ تو به آفاق می‌بَرَد شاعر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکویی‌ها و ویژگی‌های تو دامن‌گیر جهانیان است، پس شاعر را در انجام وظایفش و آماده کردن وسایل سفرش تنها نگذار."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از او وظیفه و زادِ سفر دریغ مدار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چو ذکرِ خیر طلب می‌کنی سخن این است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از دیگران خوبی و نیکی یاد می‌کنی، باید بدان که در مقابل تعریف و تمجیدها، باید از مال و دارایی خود نیز دریغ نکنی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که در بهایِ سخن سیم و زر دریغ مدار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "غبارِ غم بِرَوَد، حال خوش شود حافظ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر غبار غم برطرف شود، حال انسان بهتر خواهد شد. حافظ، تو نباید از این درد و اندوه، اشک بریزی و از آن دریغ نکنی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تو آبِ دیده از این ره‌گذر دریغ مدار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 529
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 158
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "بلبل"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 7,
+          "ConceptId": 777
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 778
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 4,
+          "ConceptId": 555
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 779
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 13
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 83
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 263
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 35
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 202
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 449
+        }
+      ]
+    }
+  ]
+}

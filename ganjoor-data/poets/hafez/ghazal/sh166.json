@@ -1,0 +1,269 @@
+{
+  "Id": 2295,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۶۶",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۶۶",
+  "FullUrl": "/hafez/ghazal/sh166",
+  "RhymeLetters": "اراخرشد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل با بیانی پر از شوق و امید، از پایان دورهٔ جدایی و دوری از معشوق سخن می‌گوید. او از خزان و ناز و تنعم گذشته یاد می‌کند و به تحول و زیبا شدن اوضاع اشاره دارد. در اینجا، لحظهٔ صبح، نماد امید و رهایی از غم‌هاست و به تأثیر محبت یار در آرامش دل اشاره می‌شود. شاعر به یاد می‌آورد که با وجود بدعهدی روزگار، خوشبختی در پی یاری معشوق به دست آمده و تقدیر را شکر می‌گوید. او نهایتاً به یاد غم و محنت‌های پیشین می‌افتد که در پرتو محبت و می‌نوشی به پایان رسیده است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اراخرشد",
+      "PlainText": "روز هجران و شب فرقت یار آخر شد\r\nزدم این فال و گذشت اختر و کار آخر شد\r\nآن همه ناز و تنعم که خزان می فرمود\r\nعاقبت در قدم باد بهار آخر شد\r\nشکر ایزد که به اقبال کله گوشه گل\r\nنخوت باد دی و شوکت خار آخر شد\r\nصبح امید که بد معتکف پرده غیب\r\nگو برون آی که کار شب تار آخر شد\r\nآن پریشانی شب های دراز و غم دل\r\nهمه در سایه گیسوی نگار آخر شد\r\nباورم نیست ز بدعهدی ایام هنوز\r\nقصه غصه که در دولت یار آخر شد\r\nساقیا لطف نمودی قدحت پر می باد\r\nکه به تدبیر تو تشویش خمار آخر شد\r\nدر شمار ار چه نیاورد کسی حافظ را\r\nشکر کان محنت بی حد و شمار آخر شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزِ هجران و شبِ فُرقَتِ یار آخر شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزدم این فال و گذشت اختر و کار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن همه ناز و تَنَعُّم که خزان می‌فرمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت در قدمِ بادِ بهار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشُکرِ ایزد که به اقبالِ کُلَه گوشهٔ گُل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنَخوَتِ بادِ دی و شوکتِ خار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبحِ امّید که بُد معتکفِ پردهٔ غیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو برون آی که کارِ شبِ تار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن پریشانیِ شب‌هایِ دراز و غمِ دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه در سایهٔ گیسویِ نگار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباورم نیست ز بدعهدی ایام هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصهٔ غصه که در دولتِ یار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقیا لطف نمودی قدحت پُر مِی باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به تدبیرِ تو تشویشِ خُمار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شمار ار چه نیاورد کسی حافظ را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشُکرْ کان محنتِ بی‌حدّ و شمار آخر شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزِ هجران و شبِ فُرقَتِ یار آخر شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز جدایی و شب فراق یار به پایان رسید. من این فال را زدم و زمان و امور نیز گذشتند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زدم این فال و گذشت اختر و کار آخر شد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن همه ناز و تَنَعُّم که خزان می‌فرمود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "همه شکوه و جلالی که از پاییز سراغ داریم، در برابر باد جان افزای بهار نه حرفی برای گفتن دارد و\u00A0 نه یارای ماندن دارد"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عاقبت در قدمِ بادِ بهار آخر شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شُکرِ ایزد که به اقبالِ کُلَه گوشهٔ گُل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شکر خدا که با خوشبینی و دستاوردهای جدید، دیگر نه از باد سرد دی خبری هست و نه از سختی‌های خار."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نَخوَتِ بادِ دی و شوکتِ خار آخر شد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صبحِ امّید که بُد معتکفِ پردهٔ غیب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح امیدی که در حال اعتکاف در پرده غیب بود، اکنون زمان آن رسیده که خارج شود، زیرا کار شب تار پایان یافته است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گو برون آی که کارِ شبِ تار آخر شد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آن پریشانیِ شب‌هایِ دراز و غمِ دل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و بی‌قراری‌های شب‌های طولانی و درد دل همه به لطف زیبایی و وجود معشوق پایان یافت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همه در سایهٔ گیسویِ نگار آخر شد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "باورم نیست ز بدعهدی ایام هنوز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانم باور کنم که هنوز داستان غم و اندوهی که در دوران خوشی با محبوبم به پایان رسید، وجود دارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "قصهٔ غصه که در دولتِ یار آخر شد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ساقیا لطف نمودی قدحت پُر مِی باد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تو با محبت خود، جامی پر از شراب به من دادی. امیدوارم با تدبیر و هنر تو، نگرانی و بی‌قراری من در اثر مستی به پایان برسد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که به تدبیرِ تو تشویشِ خُمار آخر شد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در شمار ار چه نیاورد کسی حافظ را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه هیچ‌کس حافظ را در رده‌های بالای شاعران قرار نداد، اما او از این بابت شکرگزار است، زیرا رنج‌ها و مشکلات بی‌حد و شماره‌اش در نهایت به نتیجه‌ای خوش ختم شد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "شُکرْ کان محنتِ بی‌حدّ و شمار آخر شد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "برگ های گل، بزرگی و سرافرازی گل"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 586
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 587
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 588
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 4,
+          "Misra": 0
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 4,
+          "Misra": 0
+        }
+      ]
+    }
+  ]
+}

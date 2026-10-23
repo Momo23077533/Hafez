@@ -1,0 +1,61 @@
+{
+  "Id": 38965,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۱",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱",
+  "FullUrl": "/salman/divanss/robaeess/sh1",
+  "RhymeLetters": "انهما",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی از حال و هوای شاد و مستی می‌گوید. صدای سحری از میخانه به گوش می‌رسد و او رندان دیوانه را دعوت می‌کند تا از می بنوشند. او تأکید دارد که باید قبل از پر شدن پیمانه‌ها، لحظه را غنیمت بشمارند و از لذت این لحظات بهره‌برداری کنند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهما",
+      "PlainText": "آمد سحری ندا ز میخانه ما \r\nکای رند خراباتی دیوانه ما \r\nبرخیز که پر کنیم پیمانه ز می \r\nزآن پیش که پر کنند پیمانه ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد سحری ندا ز میخانه ما \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکای رند خراباتی دیوانه ما \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخیز که پر کنیم پیمانه ز می \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن پیش که پر کنند پیمانه ما \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد سحری ندا ز میخانه ما ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سحر ندا و پیامی از میخانه ما به گوش رسید که ای رند دیوانه و خراباتی، به این دعوت پاسخ بده."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کای رند خراباتی دیوانه ما ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز که پر کنیم پیمانه ز می ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیدار شو و بیفکن جام‌مان را پر از شراب، قبل از این که خودمان را در این دنیا پر کنیم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآن پیش که پر کنند پیمانه ما ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

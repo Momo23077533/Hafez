@@ -1,0 +1,534 @@
+{
+  "Id": 2254,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۲۵",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۲۵",
+  "FullUrl": "/hafez/ghazal/sh125",
+  "RhymeLetters": "انیدارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به زیبایی و لطافت خاصی اشاره می‌کند که تنها از آن محبوب اوست و دیگر زیبایی‌ها را کم‌اهمیت می‌داند. او از چشمان گل‌خندی می‌خواهد که با محبتش دل او را دریابد. همچنین، به ناتوانی عشق در به اشتراک گذاشتن رازهای خود با دیگران اشاره دارد و بر این نکته تأکید می‌کند که هر کس بر اساس فکر خود، برداشت‌هایی متفاوت از عشق دارد. شاعر در نهایت به این نتیجه می‌رسد که سخنانش دارای دیدگاه و بیان خاصی است که نباید به سادگی نادیده گرفته شود.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انیدارد",
+      "PlainText": "شاهد آن نیست که مویی و میانی دارد\r\nبنده طلعت آن باش که آنی دارد\r\nشیوه حور و پری گرچه لطیف است ولی\r\nخوبی آن است و لطافت که فلانی دارد\r\nچشمه چشم مرا ای گل خندان دریاب\r\nکه به امید تو خوش آب روانی دارد\r\nگوی خوبی که برد از تو که خورشید آن جا\r\nنه سواریست که در دست عنانی دارد\r\nدل نشان شد سخنم تا تو قبولش کردی\r\nآری آری سخن عشق نشانی دارد\r\nخم ابروی تو در صنعت تیراندازی\r\nبرده از دست هر آن کس که کمانی دارد\r\nدر ره عشق نشد کس به یقین محرم راز\r\nهر کسی بر حسب فکر گمانی دارد\r\nبا خرابات نشینان ز کرامات ملاف\r\nهر سخن وقتی و هر نکته مکانی دارد\r\nمرغ زیرک نزند در چمنش پرده سرای\r\nهر بهاری که به دنباله خزانی دارد\r\nمدعی گو لغز و نکته به حافظ مفروش\r\nکلک ما نیز زبانی و بیانی دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهد آن نیست که موییّ و میانی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبندهٔ طلعتِ آن باش که آنی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیوهٔ حور و پری گرچه لطیف است ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوبی آن است و لطافت که فُلانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمهٔ چشمِ مرا ای گلِ خندان دریاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به امّیدِ تو خوش آبِ روانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوی خوبی که بَرَد از تو؟ که خورشید آن جا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه سواریست که در دست عِنانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل نشان شد سخنم تا تو قبولش کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری آری سخنِ عشق نشانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخَمِ ابرویِ تو در صنعتِ تیراندازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُرده از دستِ هر آن کس که کمانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رَهِ عشق نشد کَس به یقین محرمِ راز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کسی بر حَسَبِ فکر، گُمانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا خرابات نشینان ز کَرامات مَلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سخن وقتی و هر نکته مکانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغِ زیرک نزند در چمنش پرده سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بهاری که به دنباله، خزانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدعی گو لُغَز و نکته به حافظ مفروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکِلکِ ما نیز زبانی و بیانی دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهد آن نیست که موییّ و میانی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به زیبایی و جذابیت اشاره شده است. شخصی که بنده و عاشق زیبایی است، باید به زیبایی واقعی توجه کند، نه به ظواهر و مانند آنها. در واقع، او باید به درون و عمق وجود شخص یا چیز زیبایی که می‌بیند، توجه کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بندهٔ طلعتِ آن باش که آنی دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیوهٔ حور و پری گرچه لطیف است ولی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روش و زیبایی حور و پری هرچقدر هم که نرم و دلپذیر باشد، اما زیبایی و لطافت واقعی متعلق به فرد دیگری است که فراتر از آن‌هاست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوبی آن است و لطافت که فُلانی دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشمهٔ چشمِ مرا ای گلِ خندان دریاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای گل خندان، به من توجه کن و اشک‌های من را ببین، زیرا این اشک‌ها به خاطر امیدی است که به دیدار تو دارم و مانند جویبارِ زلالی است که به خاطر تو جریان دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که به امّیدِ تو خوش آبِ روانی دارد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گوی خوبی که بَرَد از تو؟ که خورشید آن جا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از تو خوب بگوید، چه کسی است؟ در آنجا که خورشید هم سوارکاری ندارد که افسار را در دست بگیرد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نه سواریست که در دست عِنانی دارد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل نشان شد سخنم تا تو قبولش کردی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به وضوح نشان داد که با جمله‌هایم تو را قانع کرده است. آری، سخن عشق نشانه‌ای دارد که آن را می‌توان به راحتی فهمید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آری آری سخنِ عشق نشانی دارد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خَمِ ابرویِ تو در صنعتِ تیراندازی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر پلک و ابروی تو، زیبایی‌ای وجود دارد که باعث می‌شود حتی ماهرترین تیراندازان هم در تیرکشی خود شکست بخورند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بُرده از دستِ هر آن کس که کمانی دارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در رَهِ عشق نشد کَس به یقین محرمِ راز",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر عشق، هیچ‌کس به‌طور قطع به رازهای درونی دیگری دسترسی ندارد و هر فرد بر اساس افکار خودش، دربارهٔ دیگران نظر و گمانی دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هر کسی بر حَسَبِ فکر، گُمانی دارد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "با خرابات نشینان ز کَرامات مَلاف",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار کسانی که در میکده زندگی می‌کنند، هر حرف و نکته‌ای زمان و مکان خاصی دارد و نشانه‌ای از بزرگی و کرامت آن‌هاست."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "هر سخن وقتی و هر نکته مکانی دارد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مرغِ زیرک نزند در چمنش پرده سرای",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ی هوشمند در باغش کسی را نمی‌پذیرد، چرا که هر فصل زیبایی که می‌آید، پایانی تلخ به دنبال دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هر بهاری که به دنباله، خزانی دارد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مدعی گو لُغَز و نکته به حافظ مفروش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدعی نگوید که حافظ تنها به زبانی خاص محدود است، چرا که قلم ما هم می‌تواند نکته‌ها و فنون ویژه‌ای را به تصویر بکشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "کِلکِ ما نیز زبانی و بیانی دارد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "بنده کسی بودن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "عاشق و هوادار کسی بودن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 465
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "ConceptId": 466
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "شاهد بیت اول"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 248
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 126
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 6,
+          "ConceptId": 467
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 468
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 7,
+          "ConceptId": 469
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 470
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 471
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 409
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "گوی خوبی از کسی بردن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "سبقت گرفتن از کسی از نظر زیبایی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "عنان در دست داشتن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "اختیار داشتن و آزاد بودن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "غمزه و ناز و کرشمه"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "بی اختیار و بی هوش کردن، بی قرار و مضطرب کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "رندان و مستان حق"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 2,
+          "ConceptId": 472
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "ConceptId": 473
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "لغز و نکته به کسی فروختن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "تکبر و تفاخر کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    }
+  ]
+}

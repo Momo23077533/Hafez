@@ -1,0 +1,331 @@
+{
+  "Id": 2530,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۰۱",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۰۱",
+  "FullUrl": "/hafez/ghazal/sh401",
+  "RhymeLetters": "اندزمن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به عواطف و احساسات عاشقانه‌اش اشاره می‌کند و به تصویر کشیدن خود در عشق می‌پردازد. او می‌گوید اگر روزی به خاک عاشقیش بیفتد، آن معشوق هرگز او را رها نمی‌کند و حتی با درخواست‌ها و آموخته‌هایش به او بی‌اعتنایی می‌کند. در مواجهه با معشوق، شاعر به تشنگی و خواسته‌هایش اشاره می‌کند و باوجود دشواری‌ها، همچنان امیدوار و مشتاق است. او تجربیات محبت را با تلخی و شیرینی توصیف می‌کند و در نهایت، به این نکته می‌رسد که عشق به هر حال داستانی پرماجرا دارد که به آن باید صبر کرد.",
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندزمن",
+      "PlainText": "چون شوم خاک رهش دامن بیفشاند ز من\r\nور بگویم دل بگردان رو بگرداند ز من\r\nروی رنگین را به هر کس می نماید همچو گل\r\nور بگویم بازپوشان بازپوشاند ز من\r\nچشم خود را گفتم آخر یک نظر سیرش ببین\r\nگفت می خواهی مگر تا جوی خون راند ز من\r\nاو به خونم تشنه و من بر لبش تا چون شود\r\nکام بستانم از او یا داد بستاند ز من\r\nگر چو فرهادم به تلخی جان برآید باک نیست\r\nبس حکایت های شیرین باز می ماند ز من\r\nگر چو شمعش پیش میرم بر غمم خندان شود\r\nور برنجم خاطر نازک برنجاند ز من\r\nدوستان جان داده ام بهر دهانش بنگرید\r\nکو به چیزی مختصر چون باز می ماند ز من\r\nصبر کن حافظ که گر زین دست باشد درس غم\r\nعشق در هر گوشه ای افسانه ای خواند ز من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شوم خاک رهش دامن بیفشاند ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور بگویم دل بگردان رو بگرداند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی رنگین را به هر کس می‌نماید همچو گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور بگویم بازپوشان بازپوشاند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم خود را گفتم آخر یک نظر سیرش ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت می‌خواهی مگر تا جوی خون راند ز من؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو به خونم تشنه و من بر لبش تا چون شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکام بستانم از او یا داد بستاند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چو فرهادم به تلخی جان برآید باک نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس حکایت‌های شیرین باز می‌ماند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چو شمعش پیش میرم بر غمم خندان شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور برنجم خاطر نازک برنجاند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان جان داده‌ام بهر دهانش بنگرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو به چیزی مختصر چون باز می‌ماند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبر کن حافظ که گر زین دست باشد درس غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق در هر گوشه‌ای افسانه‌ای خواند ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شوم خاک رهش دامن بیفشاند ز من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که من به خاک پای او تبدیل شوم، او دامنش را از من کنار می‌زند. و اگر بگویم که دل از او برگردان، او هم دلش را از من برمی‌گرداند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور بگویم دل بگردان رو بگرداند ز من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی رنگین را به هر کس می‌نماید همچو گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی می‌تواند زیبایی و دلربایی را ببیند و بشناسد، مانند گل که زیبایی‌اش را به همه نشان می‌دهد. اما اگر بگویم که کسی می‌تواند این زیبایی را از من بپوشاند و پنهان کند، این امکان برای دیگران وجود ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور بگویم بازپوشان بازپوشاند ز من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشم خود را گفتم آخر یک نظر سیرش ببین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چشمم گفتم که یک بار خوب مرا تماشا کند. او پاسخ داد که آیا می‌خواهی تا زمانی که جوی خون از من راه بیندازد، این کار را بکند؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گفت می‌خواهی مگر تا جوی خون راند ز من؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "او به خونم تشنه و من بر لبش تا چون شود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به خون من تشنه است و من بر لبش ایستاده‌ام. حالا باید ببینم آیا من می‌توانم از او چیزی بگیرم یا او از من چیزی درخواست خواهد کرد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کام بستانم از او یا داد بستاند ز من",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر چو فرهادم به تلخی جان برآید باک نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مثل فرهاد، با سختی و تلخی جان را به دوش ببرم، اشکالی ندارد؛ چرا که هنوز داستان‌های شیرینی از من باقی مانده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بس حکایت‌های شیرین باز می‌ماند ز من",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گر چو شمعش پیش میرم بر غمم خندان شود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من مانند شمع در کنار او باشم، غم و اندوه من شاد می‌شود و اگر هم به خاطر رنجش من ناراحت شود، دلش از من می‌گیرد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ور برنجم خاطر نازک برنجاند ز من",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دوستان جان داده‌ام بهر دهانش بنگرید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستانم را برای رضای او فدای سخن‌اش کرده‌ام؛ به او نگاه کنید که چطور به چیزهای ساده و کوچک دلبسته است و از من دوری می‌کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کو به چیزی مختصر چون باز می‌ماند ز من",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "صبر کن حافظ که گر زین دست باشد درس غم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبر کن حافظ، چرا که اگر اوضاع به همین صورت ادامه پیدا کند، در هر کجا داستانی از غم عشق خواهد شنید که من آن را روایت کرده‌ام."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "عشق در هر گوشه‌ای افسانه‌ای خواند ز من",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "خاک راه کسی شدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "فرمانبر کسی شدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "دامن افشاندن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "ترک کردن و دور داشتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "دل گرداندن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "تغییر نظر دادن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "روی گردانیدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "اعراض کردن و روی برتافتن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "سیر دیدن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "به حد کافی دیدن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "به خون کسی تشنه بودن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "خواهان مرگ کسی بودن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 3,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 1081
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "دهان کوچک معشوق"
+        }
+      ]
+    }
+  ]
+}

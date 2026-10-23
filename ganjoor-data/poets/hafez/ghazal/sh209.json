@@ -1,0 +1,283 @@
+{
+  "Id": 2338,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۲۰۹",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲۰۹",
+  "FullUrl": "/hafez/ghazal/sh209",
+  "RhymeLetters": "یرنبود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل از حسرت و درد جدایی از معشوق سخن می‌گوید. او اعتقاد دارد که اگر تقدیر بر قتل او به دست محبوب رقم نمی‌خورد، این موضوع به خاطر بی‌رحمی محبوب نیست. شاعر به زیبایی محبوب اشاره کرده و می‌گوید هیچ چیز برتر از او در طبیعت وجود ندارد. در حالی که او در میکده به دنبال عشق است، حسرت عدم دیدار محبوب را به دوش می‌کشد و در پایان بیان می‌کند که بدون حضور محبوب، زندگی‌اش همچون عذابی است که نیاز به تفسیر ندارد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرنبود",
+      "PlainText": "قتل این خسته به شمشیر تو تقدیر نبود\r\nور نه هیچ از دل بی رحم تو تقصیر نبود\r\nمن دیوانه چو زلف تو رها می کردم\r\nهیچ لایق ترم از حلقه زنجیر نبود\r\nیا رب این آینه حسن چه جوهر دارد\r\nکه در او آه مرا قوت تأثیر نبود\r\nسر ز حسرت به در میکده ها برکردم\r\nچون شناسای تو در صومعه یک پیر نبود\r\nنازنین تر ز قدت در چمن ناز نرست\r\nخوش تر از نقش تو در عالم تصویر نبود\r\nتا مگر همچو صبا باز به کوی تو رسم\r\nحاصلم دوش به جز ناله شبگیر نبود\r\nآن کشیدم ز تو ای آتش هجران که چو شمع\r\nجز فنای خودم از دست تو تدبیر نبود\r\nآیتی بود عذاب انده حافظ بی تو\r\nکه بر هیچ کسش حاجت تفسیر نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقتلِ این خسته به شمشیرِ تو تقدیر نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه هیچ از دلِ بی‌رحمِ تو تقصیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنِ دیوانه چو زلفِ تو رها می‌کردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ لایق‌ترم از حلقهٔ زنجیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب این آینهٔ حُسن چه جوهر دارد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در او آهِ مرا قُوَّتِ تأثیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر ز حسرت به درِ میکده‌ها بَرکردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شناسایِ تو در صومعه یک پیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازنین‌تر ز قَدَت در چمنِ ناز نَرُست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش‌تر از نقشِ تو در عالمِ تصویر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا مگر همچو صبا باز به کویِ تو رَسَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاصلم دوش به جز نالهٔ شبگیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کشیدم ز تو ای آتشِ هجران که چو شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز فنای خودم از دستِ تو تدبیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآیتی بود عذابْ اَنْدُهِ حافظ بی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بَرِ هیچ کَسَش حاجتِ تفسیر نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قتلِ این خسته به شمشیرِ تو تقدیر نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کشتن این فرد خسته به خاطر تو سرنوشت نبوده است، وگرنه از دل بی‌رحم تو کمترین قصوری وجود نداشته است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور نه هیچ از دلِ بی‌رحمِ تو تقصیر نبود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منِ دیوانه چو زلفِ تو رها می‌کردم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دیوانه، وقتی زلف تو را رها می‌کردم، هیچ چیزی لایق‌تر از زنجیر برای من نبود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هیچ لایق‌ترم از حلقهٔ زنجیر نبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یا رب این آینهٔ حُسن چه جوهر دارد؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدای من، این آئینه‌ی زیبایی چه گوهری در خود دارد که حتی آه من در آن تأثیری ندارد؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که در او آهِ مرا قُوَّتِ تأثیر نبود",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سر ز حسرت به درِ میکده‌ها بَرکردم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از روی حسرت به درِ میکده‌ها نگاه کردم، زیرا در آنجا کسی نبود که تو را بشناسد و در صومعه هم از نظر من یک پیرسالار وجود نداشت."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون شناسایِ تو در صومعه یک پیر نبود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نازنین‌تر ز قَدَت در چمنِ ناز نَرُست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ موجودی در چمنزار به زیبایی قامت تو وجود ندارد و هیچ تصویری در عالم به زیبایی نقش تو نیست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خوش‌تر از نقشِ تو در عالمِ تصویر نبود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تا مگر همچو صبا باز به کویِ تو رَسَم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچنان در تلاش هستم تا به کوی تو برسم، اما شب گذشته تنها چیزی که نصیبم شد ناله‌ای در دل شب بود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "حاصلم دوش به جز نالهٔ شبگیر نبود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "آن کشیدم ز تو ای آتشِ هجران که چو شمع",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دوری تو آنقدر رنج کشیدم که مانند شمع، تنها توانایی من برای درخشش، از بین رفتن خودم است و نمی‌توانم از تو هیچ راه حلی جستجو کنم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "جز فنای خودم از دستِ تو تدبیر نبود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "آیتی بود عذابْ اَنْدُهِ حافظ بی تو",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "معنی بیت بر اساس نسخی که این گونه ضبط کرده اند آیتی بُد ز عذاب اندوه حافظ ... چنین می شود: اندوه حافظ در دوری تو چنان شدید بود که نشانه ای از عذاب الهی است و چنان آشکار که نزد هیچکس نیاز به شرح و تفسیر ندارد"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که بَرِ هیچ کَسَش حاجتِ تفسیر نبود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 74
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 224
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 703
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 98
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "عالم خلقت و آفرینش از آن جهت که خدا مصور است و نقاش"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "عالم صورتگری و نقاشی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 673
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 124
+        }
+      ]
+    }
+  ]
+}

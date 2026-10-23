@@ -1,0 +1,61 @@
+{
+  "Id": 39024,
+  "CatId": 1136,
+  "Title": "رباعی شمارهٔ ۶۰",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » رباعیات » رباعی شمارهٔ ۶۰",
+  "FullUrl": "/salman/divanss/robaeess/sh60",
+  "RhymeLetters": "ود",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر با اشاره به قضا و قدر الهی می‌گوید که هرچه مقدر شده است، به هیچ وجه کم و زیاد نخواهد شد. او تأکید می‌کند که باید از نگرانی‌های دنیا آزاد بود و به زندگی آرامی پرداخت، چرا که آرامش در عدم وابستگی به امورات دنیوی و قضا و قدر الهی نهفته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ود",
+      "PlainText": "چون قسم تو آنچه عدل قسمت فرمود \r\nیک ذره نه کم شود نه خواهد افزود \r\nآسوده ز هر چه نیست می باید زیست \r\nو آزاد ز هر چه هست می باید بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون قسم تو آنچه عدل قسمت فرمود، \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذره نه کم شود نه خواهد افزود، \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسوده ز هر چه نیست می‌باید زیست \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آزاد ز هر چه هست می‌باید بود \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون قسم تو آنچه عدل قسمت فرمود، ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که قسم تو به شایستگی تقسیم شده است، نه چیزی از آن کم می‌شود و نه چیزی بر آن افزوده می‌گردد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک ذره نه کم شود نه خواهد افزود، ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسوده ز هر چه نیست می‌باید زیست ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید در زندگی از تمام آنچه وجود ندارد، آسوده خاطر بود و از تمامی آنچه وجود دارد، آزاد زندگی کرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آزاد ز هر چه هست می‌باید بود ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

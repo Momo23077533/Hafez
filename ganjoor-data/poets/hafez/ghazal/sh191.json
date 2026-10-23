@@ -1,0 +1,239 @@
+{
+  "Id": 2320,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۱۹۱",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۱۹۱",
+  "FullUrl": "/hafez/ghazal/sh191",
+  "RhymeLetters": "اریکند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به بیان احساسات عاشقانه و مشکلات ناشی از عشق می‌پردازد. او از وفاداری و محبت محبوبی سخن می‌گوید که به رغم بدکرداری و گناه خود، می‌تواند او را دلدار باشد. شاعر در جستجوی نجاتی از غم و دردهای عشق، به بیان احوالات خود همچون گدای بی نشان و بی‌خبر از مقام محبوب می‌پردازد. او بارها به پیچیدگی‌های عشق و غم‌های آن اشاره می‌کند و در پایان هشدار می‌دهد که از نیرنگ‌های چشم محبوب باید احتیاط کرد. این غزل ترکیبی از امید و ناامیدی در عشق را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اریکند",
+      "PlainText": "آن کیست کز روی\nکرم با ما وفاداری کند\r\nبر جای بدکاری چو من\nیک دم نکوکاری کند\r\nاول به بانگ نای و\nنی آرد به دل پیغام وی\r\nوآن گه به یک پیمانه\nمی با من وفاداری کند\r\nدلبر که جان فرسود از\nاو کام دلم نگشود از او\r\nنومید نتوان بود از\nاو باشد که دلداری کند\r\nگفتم گره نگشوده ام\nزان طره تا من بوده ام\r\nگفتا منش فرموده ام\nتا با تو طراری کند\r\nپشمینه پوش تندخو از\nعشق نشنیده ست بو\r\nبا مستی اش رمزی بگو\nتا ترک هشیاری کند\r\nچون من گدای بی نشان\nمشکل بود یاری چنان\r\nسلطان کجا عیش نهان\nبا رند بازاری کند\r\nزآن طره پرپیچ و خم\nسهل است اگر بینم ستم\r\nاز بند و زنجیرش چه غم\nهر کس که عیاری کند\r\nشد لشکر غم بی عدد از\nبخت می خواهم مدد\r\nتا فخر دین عبدالصمد\nباشد که غم خواری کند\r\nبا چشم پر نیرنگ او\nحافظ مکن آهنگ او\r\nکآن طره شبرنگ\nاو بسیار طراری کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن، کیست کز روی\nکَرَم، با ما وفاداری کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر جای بدکاری چو من،\nیک دم نکوکاری کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول، بِه بانگِ نای و\nنی، آرد به دل، پیغام وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن‌گه به یک پیمانه\nمی، با من وفاداری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلبر که جان فرسود از\nاو، کام دلم نگْشود از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنومید نتْوان بود از\nاو، باشد که دلداری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم: «گره نگْشوده‌ام،\nزان طُرّه تا من بوده‌ام»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتا: «مَنَش فرموده‌ام،\nتا با تو طَرّاری کند»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپشمینه‌پوش تندخو، از\nعشق نشنیده‌ست بو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا مستی‌اش، رمزی بگو!\nتا تَرکِ هشیاری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون من گدای بی‌نشان،\nمشکل بود یاری چُنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلطان کجا عیشِ نهان،\nبا رندِ بازاری کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن طُرّهٔ پرپیچ و خم،\nسهل است اگر بینم ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بند و زنجیرش چه غم،\nهر کس که عیّاری کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد لشکر غم بی‌عدد، از\nبخت می‌خواهم مدد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا فخرِ دین عبدالصّمد،\nباشد که غم‌خواری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چشم پر نیرنگ او،\n«حافظ»! مکن آهنگ او!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن طُرِّهٔ شبرنگِ\nاو، بسیار طرّاری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 16
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن، کیست کز روی\nکَرَم، با ما وفاداری کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ان چه کسیست که از روی بخشش بامن وفادار باشد و در پاسخ بد رفتاری هاي من برای لحظه ای مرا دریابد و جوابم را با نیکویی بدهد؟ (از خطایم بگذرد)"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر جای بدکاری چو من،\nیک دم نکوکاری کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اول، بِه بانگِ نای و\nنی، آرد به دل، پیغام وی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ابتدا با آواز و نی زدن برایم پیغام بفرستد وسپس\u00A0 در کنارم مي بنوشد و وفادار باشد"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وآن‌گه به یک پیمانه\nمی، با من وفاداری کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلبر که جان فرسود از\nاو، کام دلم نگْشود از او",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0افسرده و خسته شده ام از کسی که دوستش دارم ، هنوز مرا به آرزویم نرسانده اما\u00A0 نمی‌توانم از او ناامید شوم، شاید روزی عاشقانه بادلم مهربان شود\u00A0"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نومید نتْوان بود از\nاو، باشد که دلداری کند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گفتم: «گره نگْشوده‌ام،\nزان طُرّه تا من بوده‌ام»",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "گفتم تا با تو هستم گره ای از کارم باز نشده و وبه آرزویی نرسیده ام.گفت اين خواست من بوده که در کارت گره بیفتد و به خواسته ات نرسی"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گفتا: «مَنَش فرموده‌ام،\nتا با تو طَرّاری کند»",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پشمینه‌پوش تندخو، از\nعشق نشنیده‌ست بو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0شخصی که لباس خشن به تن دارد و اخلاق تند و پرخاشگر دارد، از عشق و احساسات عمیق بی‌خبر است. او را مست شوق و شادی کن تا رمز را دریابد و از خود بی‌خود شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با مستی‌اش، رمزی بگو!\nتا تَرکِ هشیاری کند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چون من گدای بی‌نشان،\nمشکل بود یاری چُنان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به عنوان یک فرد فقیر و بی‌هویت، کمک گرفتن از یک سلطان دشوار است. چگونه می‌تواند کسی که به زندگی پنهانی و لذت‌های خود مشغول است، به من که در دنیای عادی زندگی می‌کنم، یاری رساند؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "سلطان کجا عیشِ نهان،\nبا رندِ بازاری کند؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "زآن طُرّهٔ پرپیچ و خم،\nسهل است اگر بینم ستم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن موهای پرپیچ و تاب، آسان است اگر ببینم ظلم و ستمی که از بند و زنجیرش ناشی می‌شود، چه غمی دارم وقتی هر کس بتواند به نوعی مکارانه عمل کند؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "از بند و زنجیرش چه غم،\nهر کس که عیّاری کند؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "شد لشکر غم بی‌عدد، از\nبخت می‌خواهم مدد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم‌های زیادی بر من آمدند و چون یاری از سرنوشت می‌طلبم، امیدوارم که فخر دین، عبدالصمد، بتواند به من کمک کند و از اندوهم بکاهد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تا فخرِ دین عبدالصّمد،\nباشد که غم‌خواری کند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "با چشم پر نیرنگ او،\n«حافظ»! مکن آهنگ او!",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با نگاه جذاب و دلربای او، حافظ به او نزدیک نشو، زیرا آن چهره‌ی زیبا و فریبنده‌اش، بسیاری از کارها را به طرز ماهرانه‌ای انجام می‌دهد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کآن طُرِّهٔ شبرنگِ\nاو، بسیار طرّاری کند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "گره از زلف گشودن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "دیدن و رسیدن به معشوق"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "صوفی و زاهد"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 202
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 653
+        }
+      ]
+    }
+  ]
+}

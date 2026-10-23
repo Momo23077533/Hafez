@@ -1,0 +1,322 @@
+{
+  "Id": 2603,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۷۴",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۷۴",
+  "FullUrl": "/hafez/ghazal/sh474",
+  "RhymeLetters": "انی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این غزل از عشق و شیدایی شاعر به معشوق می‌گوید و عواطف عمیق او را بیان می‌کند. شاعر از آگاهی معشوق به احساسات عاشق سخن می‌گوید و به تمایلاتی چون رقص و شادی در محضر او اشاره می‌کند. او بر زیبایی و جذابیت معشوق تأکید می‌کند و می‌گوید که وجودش موجب روشنایی چشم اوست. همچنین، شاعر به عیش و خوشی شب‌زنده‌داری اشاره دارد که به سرعت می‌گذرد و از اهمیت لحظات شاد زندگی می‌گوید. در نهایت، شاعر به فریبندگی زلف معشوق اشاره می‌کند و از ضرورت هوشیاری در برابر آن یاد می‌کند.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "هواخواه توام جانا و می دانم که می دانی\r\nکه هم نادیده می بینی و هم ننوشته می خوانی\r\nملامت گو چه دریابد میان عاشق و معشوق\r\nنبیند چشم نابینا خصوص اسرار پنهانی\r\nبیفشان زلف و صوفی را به پابازی و رقص آور\r\nکه از هر رقعه دلقش هزاران بت بیفشانی\r\nگشاد کار مشتاقان در آن ابروی دلبند است\r\nخدا را یک نفس بنشین گره بگشا ز پیشانی\r\nملک در سجده آدم زمین بوس تو نیت کرد\r\nکه در حسن تو لطفی دید بیش از حد انسانی\r\nچراغ افروز چشم ما نسیم زلف جانان است\r\nمباد این جمع را یا رب غم از باد پریشانی\r\nدریغا عیش شب گیری که در خواب سحر بگذشت\r\nندانی قدر وقت ای دل مگر وقتی که درمانی\r\nملول از همرهان بودن طریق کاردانی نیست\r\nبکش دشواری منزل به یاد عهد آسانی\r\nخیال چنبر زلفش فریبت می دهد حافظ\r\nنگر تا حلقه اقبال ناممکن نجنبانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهواخواه توام جانا و می‌دانم که می‌دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم نادیده می‌بینی و هم ننوشته می‌خوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملامت‌گو چه دریابد میان عاشق و معشوق؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبیند چشم نابینا خصوص اسرار پنهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیفشان زلف و صوفی را به پابازی و رقص آور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از هر رقعهٔ دلقش هزاران بت بیفشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشادِ کار مشتاقان در آن ابروی دلبند است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدا را یک نفس بنشین گره بگشا ز پیشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک در سجدهٔ آدم زمین بوس تو نیت کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در حُسن تو لطفی دید بیش از حد انسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچراغ افروز چشم ما نسیم زلف جانان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمباد این جمع را یا رب غم از باد پریشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغا عیش شب‌گیری که در خواب سحر بگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانی قدر وقت ای دل مگر وقتی که درمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملول از همرهان بودن طریق کاردانی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکش دشواری منزل به یاد عهد آسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیال چنبر زلفش فریبت می‌دهد حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E«نگر تا حلقهٔ اقبال ناممکن نجنبانی»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هواخواه توام جانا و می‌دانم که می‌دانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "عزیزم من عاشق تو هستم و می‌دانم که تو هم این مطلب را می دانی؛ زیرا تو هم آنچه را که دیدنی نیست، می‌بینی و هم آنچه را که نوشته نشده است، می‌خوانی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که هم نادیده می‌بینی و هم ننوشته می‌خوانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ملامت‌گو چه دریابد میان عاشق و معشوق؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "سرزنشگر، از آنچه میان عاشق و معشوق می گذرد، چه می فهمد!؟ شخص نابینا، هیچ چیز، خصوصا اسرار پنهانی را نمی بیند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبیند چشم نابینا خصوص اسرار پنهانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیفشان زلف و صوفی را به پابازی و رقص آور",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "موی خود را در هم بریز و [با این کار] صوفی را به پایکوبی و رقص بیاور تا [در اثر رقص] از هر تکه لباسش هزاران بت بیرون بیاندازی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که از هر رقعهٔ دلقش هزاران بت بیفشانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گشادِ کار مشتاقان در آن ابروی دلبند است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "باز شدن گره زندگی مشتاقانت، وابسته به ابروی دلبند توست؛ تو را به خدا، یک لحظه بنشین و گره از ابروی خود باز کن [و با این کار، گره از زندگی مشتاقانت بگشا]"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خدا را یک نفس بنشین گره بگشا ز پیشانی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ملک در سجدهٔ آدم زمین بوس تو نیت کرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "فرشتگان به هنگام سجده بر آدم، زمین بوسی تو را نیت کردند[و به انگیزه زمین بوسی تو، بر او سجده کردند]؛ زیرا در زیبایی تو، ظرافت‌های فرا انسانی مشاهده کردند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که در حُسن تو لطفی دید بیش از حد انسانی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چراغ افروز چشم ما نسیم زلف جانان است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "خدایا روشنایی بخش چشم ما عاشقان، نسیم موی معشوق است؛ بنابراین، نگران پریشانی حاصل از عشق، نیستیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "مباد این جمع را یا رب غم از باد پریشانی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دریغا عیش شب‌گیری که در خواب سحر بگذشت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "حیف از لحظاتی که به جای لذت خلوت شبانه با معشوق، به خواب گذشت؛ ای دل، تو جز وقتی که فرصتها را از دست بدهی و درمانده شوی، قدر آنها را نمی دانی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ندانی قدر وقت ای دل مگر وقتی که درمانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ملول از همرهان بودن طریق کاردانی نیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "از همراهان زندگی، ملول و ناراحت بودن، منطقی و هوشمندانه نیست؛ دشواری زندگی را به امید روزهای آسانی، تحمل کن."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بکش دشواری منزل به یاد عهد آسانی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "خیال چنبر زلفش فریبت می‌دهد حافظ",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "حافظ مراقب باش که خیال موی معشوق، موجب فریبت می شود؛ و مراقب باش که سراغ آینده ناممکن نروی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "«نگر تا حلقهٔ اقبال ناممکن نجنبانی»",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 225
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 1207
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "گره از پیشانی گشادن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "برطرف کردن گرفتگی و عبوسی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "زلف یار"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "گروه عاشقان"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "عمر"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "اصطلاح صوفی"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 944
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 964
+        }
+      ]
+    }
+  ]
+}

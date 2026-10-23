@@ -1,0 +1,294 @@
+{
+  "Id": 2169,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۰",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۰",
+  "FullUrl": "/hafez/ghazal/sh40",
+  "RhymeLetters": "ازاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به زیبایی و جذابیت میکده و تاثیر آن بر روی روح و جان انسان‌ها اشاره می‌کند. او از احساس نیاز و درک عجز خود در مقابل عشق و زیبایی سخن می‌گوید و به اهمیت رازهایی که باید بین دوستان نگه‌داشته شوند، اشاره دارد. همچنین، شاعر با تکیه بر تمثیل‌های عمیق، نمایانگر دوگانگی بین مستی عشق و بیچارگی انسان است و در انتها به دل‌سوزی و غم خود پرداخته و از شمع به عنوان نماد سوز و گداز در عشق یاد می‌کند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازاست",
+      "PlainText": "المنة لله که در میکده باز است\r\nزان رو که مرا بر در او روی نیاز است\r\nخم ها همه در جوش و خروش اند ز مستی\r\nوان می که در آن جاست حقیقت نه مجاز است\r\nاز وی همه مستی و غرور است و تکبر\r\nوز ما همه بیچارگی و عجز و نیاز است\r\nرازی که بر غیر نگفتیم و نگوییم\r\nبا دوست بگوییم که او محرم راز است\r\nشرح شکن زلف خم اندر خم جانان\r\nکوته نتوان کرد که این قصه دراز است\r\nبار دل مجنون و خم طره لیلی\r\nرخساره محمود و کف پای ایاز است\r\nبردوخته ام دیده چو باز از همه عالم\r\nتا دیده من بر رخ زیبای تو باز است\r\nدر کعبه کوی تو هر آن کس که بیاید\r\nاز قبله ابروی تو در عین نماز است\r\nای مجلسیان سوز دل حافظ مسکین\r\nاز شمع بپرسید که در سوز و گداز است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاَلْمِنَّةُ لِلَّه که درِ میکده، باز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان رو که مرا بر در او، رویِ نیاز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخُم‌ها، همه در جوش و خُروش‌اند ز مَسْتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان می که در آن‌جاست، حقیقت، نه مَجاز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز وی، همه، مَسْتی و غُرور است و تَکَبُّر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ما همه بیچارگی و عَجْز و نیاز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرازی که بَرِ غیر نگفتیم و نگوییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دوست بگوییم که او مَحْرَمِ راز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشَرْحِ شِکَنِ زُلْفِ خَم اندر خَمِ جانان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوتَه نَتَوان کرد که این قِصِّه، دراز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبارِ دِلِ مَجْنون و خَمِ طُرِّهٔ لیلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرُخسارهٔ مَحمود و کَفِ پایِ اَیاز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبردوخته‌ام دیده چو باز از همه عالَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دیدهٔ من بر رُخِ زیبایِ تو، باز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کعبهٔ کویِ تو، هر آن‌کس که بیاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قبلهٔ ابرویِ تو در عِیْنِ نماز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مجلسیان، سوزِ دلِ «حافظِ» مسکین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شمع بپرسید که در سوز و گداز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اَلْمِنَّةُ لِلَّه که درِ میکده، باز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نعمت خداوند این است که درِ میکده به روی من باز است، زیرا من با دل و جان به سوی او نیاز دارم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان رو که مرا بر در او، رویِ نیاز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خُم‌ها، همه در جوش و خُروش‌اند ز مَسْتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام خُم‌ها در حال تلاطم و جنب و جوش هستند، زیرا درون آن‌ها شرابی است که سرمستی به ارمغان می‌آورد و این حالتی که در آن قرار داریم، واقعیت است و نه خیال و توهم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وان می که در آن‌جاست، حقیقت، نه مَجاز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از وی، همه، مَسْتی و غُرور است و تَکَبُّر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او همه چیزش سرشار از مستی و خودبزرگ بینی است، در حالی که ما جز ضعف، ناتوانی و نیاز چیزی نداریم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وز ما همه بیچارگی و عَجْز و نیاز است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رازی که بَرِ غیر نگفتیم و نگوییم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رازهایی که نتوانستیم به دیگران بگوییم و نمی‌گوییم، باید با دوستی شریک شویم که او مایه‌ی اعتماد و امانت است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با دوست بگوییم که او مَحْرَمِ راز است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شَرْحِ شِکَنِ زُلْفِ خَم اندر خَمِ جانان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: توضیح درباره‌ی زلف‌های پیچیده و زیبای محبوبم را نمی‌توان به آسانی انجام داد، زیرا این داستان بسیار طولانی و پیچیده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کوتَه نَتَوان کرد که این قِصِّه، دراز است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بارِ دِلِ مَجْنون و خَمِ طُرِّهٔ لیلی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل رنجور و غم‌زده مجنون به عشق لیلی است و زیبایی چهره محمود و نازکی کف پای ایاز به زیبایی و جذابیت او اشاره دارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "رُخسارهٔ مَحمود و کَفِ پایِ اَیاز است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بردوخته‌ام دیده چو باز از همه عالَم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "این بیت، شاعر با استفاده از دو معنای متفاوت برای واژه «باز»، معنای عمیقی را آفریده است:۱.\u00A0باز (پرنده):\u00A0که نگاهی تیزبین و متمرکز دارد و چشمانش را از غیرِ شکار (در اینجا غیرِ معشوق) می‌بندد.۲.\u00A0باز (گشاده/در حالِ نگاه کردن):\u00A0که در مصرع دوم به معنای گشوده ماندن چشم برای تماشای رخ محبوب است.تضاد «دوختن» (بستن) و «باز» (گشودن) در کنار تشبیه به «باز» (پرنده)، یک تصویرسازی کلاسیک و در عین حال دلنشین است که نشان می‌دهد عاشق برای رسیدن به آن یگانه دیدن (دیدار معشوق)، باید چشم بر تمام کثرت‌های عالم ببندد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا دیدهٔ من بر رُخِ زیبایِ تو، باز است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در کعبهٔ کویِ تو، هر آن‌کس که بیاید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به کعبهٔ تو بیاید، در واقع در حال عبادت و نماز است، چون نگاهش به ابروی توست که به نوعی قبلهٔ او شده."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از قبلهٔ ابرویِ تو در عِیْنِ نماز است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ای مجلسیان، سوزِ دلِ «حافظِ» مسکین",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسانی که در مجلس هستید، از شمع بپرسید که دلِ دردکشیده و رنجور حافظ چه سوز و گدازی دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "از شمع بپرسید که در سوز و گداز است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 4,
+          "Misra": 0
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "دراز بودن زلف معشوق"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "Text": "مفصل و بی پایان بودن ماجرای عشق"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "از عالم گذشتن و صرفنظر کردن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 6,
+          "Misra": 2,
+          "WordStart": 8,
+          "WordEnd": 8
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 186
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 143
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 97
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 187
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "Id": 2215,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۸۶",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۸۶",
+  "FullUrl": "/hafez/ghazal/sh86",
+  "RhymeLetters": "رگرفت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: غزل دربارهٔ می‌گساری و زیبایی‌های عشق و حال و هوای مجلس است. شاعر از ساقی درخواستی دارد تا به جشن و شادی ادامه دهد و از یار خود یاد می‌کند که چهره‌اش را نمایان کرده است. عشق و زیبایی مانند شمعی درخشنده در دل‌هاست و باید مراقب فریبندگی آن بود. همچنین شاعر از بار غم و اندوهی که بر دل داشته سخن می‌گوید و به مداوای آن اشاره می‌کند. در نهایت، شاعر به روشنی می‌گوید که چگونه این اندیشه‌ها و آموخته‌ها به شعر او شکل داده‌اند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگرفت",
+      "PlainText": "ساقی بیا که یار ز رخ پرده برگرفت\r\nکار چراغ خلوتیان باز درگرفت\r\nآن شمع سرگرفته دگر چهره برفروخت\r\nوین پیر سال خورده جوانی ز سر گرفت\r\nآن عشوه داد عشق که مفتی ز ره برفت\r\nوان لطف کرد دوست که دشمن حذر گرفت\r\nزنهار از آن عبارت شیرین دل فریب\r\nگویی که پسته تو سخن در شکر گرفت\r\nبار غمی که خاطر ما خسته کرده بود\r\nعیسی دمی خدا بفرستاد و برگرفت\r\nهر سروقد که بر مه و خور حسن می فروخت\r\nچون تو درآمدی پی کاری دگر گرفت\r\nزین قصه هفت گنبد افلاک پرصداست\r\nکوته نظر ببین که سخن مختصر گرفت\r\nحافظ تو این سخن ز که آموختی که بخت\r\nتعویذ کرد شعر تو را و به زر گرفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی بیا که یار ز رخ پرده برگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکارِ چراغ خلوتیان باز درگرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شمعِ سرگرفته دگر چهره برفروخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین پیرِ سال‌خورده جوانی ز سر گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن عشوه داد عشق که مفتی ز ره برفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان لطف کرد دوست که دشمن حذر گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار از آن عبارتِ شیرینِ دل‌فریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که پستهٔ تو سخن در شکر گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبارِ غمی که خاطرِ ما خسته کرده بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیسی‌دمی خدا بفرستاد و برگرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سروقد که بر مَه و خور حسن می‌فروخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تو درآمدی پیِ کاری دگر گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین قصه هفت گنبدِ افلاک پرصداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوته‌نظر ببین که سخن مختصر گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ تو این سخن ز که آموختی؟ که بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعویذ کرد شعرِ تو را و به زر گرفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8,
+      "MetreId": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی بیا که یار ز رخ پرده برگرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ساقی بیا و باده بریز که یار چهره نمایاند و رخ او مجلس خلوتیان را روشن کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کارِ چراغ خلوتیان باز درگرفت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن شمعِ سرگرفته دگر چهره برفروخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "آن شمع خاموش دوباره روشن شد؛ و این پیر ناتوان و ضعیف دوباره جوان و توانا شد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین پیرِ سال‌خورده جوانی ز سر گرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن عشوه داد عشق که مفتی ز ره برفت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "عشق، چنان عشوه و نازی نمود که مفتی و فقیه از راه به‌در شد، دوست چنان لطفی کرد که دشمن، حساب کار خود را کرد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وان لطف کرد دوست که دشمن حذر گرفت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زنهار از آن عبارتِ شیرینِ دل‌فریب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مواظب باش که به کلام شیرینی که دل را فریب می‌دهد، اعتماد نکنی؛ چرا که ممکن است این سخن ظاهراً خوشمزه، در واقع تلخی‌هایی را در خود پنهان کرده باشد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گویی که پستهٔ تو سخن در شکر گرفت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بارِ غمی که خاطرِ ما خسته کرده بود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوهی که دل ما را آزرده بود، در لحظه‌ای خداوند عیسی را فرستاد و آن غم را از ما برداشت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عیسی‌دمی خدا بفرستاد و برگرفت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هر سروقد که بر مَه و خور حسن می‌فروخت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر خوش اندام و ماهرویی که در زیبایی از ماه و خورشید خودش را برتر می‌دانست، وقتی که تو آمدی، مشغول کاری دیگر شد و نتوانست فخرفروشی را ادامه دهد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چون تو درآمدی پیِ کاری دگر گرفت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "زین قصه هفت گنبدِ افلاک پرصداست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "این ماجرا در همه‌جا پیچیده، آدم دون‌نظر را ببین که این‌را دست‌کم گرفته‌است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کوته‌نظر ببین که سخن مختصر گرفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حافظ تو این سخن ز که آموختی؟ که بخت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ، از چه کسی این هنر را یاد گرفته‌ای؟ که شانس تو، شعر تو را مثل تعویذی ساخته و آن را با طلا ارزشمند کرده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تعویذ کرد شعرِ تو را و به زر گرفت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "چراغ در گرفتن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "رونق گرفتن کسب و کار"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 1,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "Text": "شاعر"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 336
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "ConceptId": 337
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 338
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 339
+        }
+      ]
+    }
+  ]
+}

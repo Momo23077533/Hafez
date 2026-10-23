@@ -1,0 +1,316 @@
+{
+  "Id": 2176,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۷",
+  "FullUrl": "/hafez/ghazal/sh47",
+  "RhymeLetters": "هدانست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به جست‌وجوی حقیقت و معرفت می‌پردازد و میکده را محلی برای دست‌یابی به اسرار می‌داند. او به اهمیت رندی و آزاداندیشی اشاره می‌کند و می‌گوید تنها کسانی که به آزادی و عارفانه زندگی کنند، به سرفرازی و فهم عمیق می‌رسند. حافظ از ساغر به‌عنوان نمادی از کشف رازهای هستی یاد می‌کند و می‌گوید که طاعت و دیانت در دنیای دیوانگان و رندان به معنای واقعی خود پیش نمی‌رود. در نهایت، او نسبت به رنج و ذلالت که در زندگی وجود دارد، آگاه است و به زیبایی و محبت در چشمان محبوب خود اشاره دارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هدانست",
+      "PlainText": "به کوی میکده هر سالکی که ره دانست\r\nدری دگر زدن اندیشه تبه دانست\r\nزمانه افسر رندی نداد جز به کسی\r\nکه سرفرازی عالم در این کله دانست\r\nبر آستانه میخانه هر که یافت رهی\r\nز فیض جام می اسرار خانقه دانست\r\nهر آن که راز دو عالم ز خط ساغر خواند\r\nرموز جام جم از نقش خاک ره دانست\r\nورای طاعت دیوانگان ز ما مطلب\r\nکه شیخ مذهب ما عاقلی گنه دانست\r\nدلم ز نرگس ساقی امان نخواست به جان\r\nچرا که شیوه آن ترک دل سیه دانست\r\nز جور کوکب طالع سحرگهان چشمم\r\nچنان گریست که ناهید دید و مه دانست\r\nحدیث حافظ و ساغر که می زند پنهان\r\nچه جای محتسب و شحنه پادشه دانست\r\nبلندمرتبه شاهی که نه رواق سپهر\r\nنمونه ای ز خم طاق بارگه دانست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کویِ میکده هر سالِکی که رَه دانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدری دگر زدن اندیشهٔ تَبَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمانه افسر رندی نداد جز به کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سرفرازیِ عالَم در این کُلَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آستانهٔ میخانه هر که یافت رَهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز فیضِ جامِ مِی اَسرار خانقَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آن که رازِ دو عالم ز خطِ ساغَر خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرُموزِ جامِ جم از نقشِ خاکِ ره دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورایِ طاعتِ دیوانگان ز ما مَطَلَب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شیخِ مذهبِ ما عاقلی گُنَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم ز نرگسِ ساقی اَمان نخواست به جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا که شیوهٔ آن تُرکِ دل سیه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جورِ کوکبِ طالع ،سَحَرگَهان چشمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنان گریست که ناهید دید و مَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیثِ حافظ و ساغر که می‌زند پنهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه جایِ محتسب و شِحنه، پادشَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلندمرتبه شاهی که نُه رِواقِ سِپِهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمونه‌ای ز خَمِ طاقِ بارگَه دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به کویِ میکده هر سالِکی که رَه دانست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر سال که به میکده می‌روم، اگر راهی جدید پیدا کنم، به خوبی می‌دانم که باید از فکر و اندیشه‌ی بی‌فایده دوری کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دری دگر زدن اندیشهٔ تَبَه دانست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زمانه افسر رندی نداد جز به کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا فقط به افرادی که عظمت و بزرگی خود را در زیر این کلاه (نماد علم و معرفت) می‌شناسند، مقام و اعتبار می‌دهد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سرفرازیِ عالَم در این کُلَه دانست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر آستانهٔ میخانه هر که یافت رَهی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در آستانهٔ میخانه راهی پیدا کند و از پرباری شراب بهره‌مند شود، به راز و رمزهای صومعه و مذهب پی می‌برد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز فیضِ جامِ مِی اَسرار خانقَه دانست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر آن که رازِ دو عالم ز خطِ ساغَر خواند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که توانسته باشد اسرار دو جهان را از طریق خط ساغر ببیند و آشنایی با رموز جام جم را از نشانه‌های خاک راه به دست آورد، به درکی عمیق و بصیرتی خاص دست یافته است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رُموزِ جامِ جم از نقشِ خاکِ ره دانست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ورایِ طاعتِ دیوانگان ز ما مَطَلَب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ما چیزی فراتر از تسلیم‌گری دیوانگان نخواهید، چون مذهب‌مان این است که شیخ ما، عاقل را به گناه متهم می‌داند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که شیخِ مذهبِ ما عاقلی گُنَه دانست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دلم ز نرگسِ ساقی اَمان نخواست به جان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از نرگس ساقی هیچ در امان نیست، زیرا می‌دانم که آن معشوق سیاه دل چه شیوه‌ای دارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چرا که شیوهٔ آن تُرکِ دل سیه دانست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز جورِ کوکبِ طالع ،سَحَرگَهان چشمم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تأثیرات بدی که ستاره‌ها بر سرنوشت من دارند، در سحرگاه چشمانم آن‌قدر اشک ریخت که ونوس (ناهید) آن را دید و ماه هم متوجه شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چنان گریست که ناهید دید و مَه دانست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حدیثِ حافظ و ساغر که می‌زند پنهان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حافظ درباره‌ی داستان خود و شراب‌نوشی‌اش سخن می‌گوید و به این نکته اشاره دارد که وقتی ماجرا به عشق و شیدایی مربوط می‌شود، دیگر جایی برای نظارت و کنترل نیست. در این عالم، حتی قدرت‌مندان نیز نمی‌توانند به حقیقت عشق و شادی دست‌اندازی کنند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چه جایِ محتسب و شِحنه، پادشَه دانست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بلندمرتبه شاهی که نُه رِواقِ سِپِهر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهی با مقام و مرتبه‌ی بلند، چون نُه آسمان، نشانه‌ای از زیبایی و شکوه را در کجای گنبد آسمان فراموش نکند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نمونه‌ای ز خَمِ طاقِ بارگَه دانست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 204
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 205
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 4,
+          "ConceptId": 206
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 207
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 208
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 7,
+          "ConceptId": 209
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 210
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 5,
+          "Misra": 0
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "برای حفظ جان پناه و زنهار نخواستن"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "Text": "از صمیم جان پناه و زنهار نخواستن"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 8,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 6,
+          "ConceptId": 211
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "ConceptId": 212
+        }
+      ]
+    }
+  ]
+}

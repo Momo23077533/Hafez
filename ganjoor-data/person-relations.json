@@ -1,0 +1,6226 @@
+[
+  {
+    "Id": 1,
+    "Person1Id": 1,
+    "Person2Id": 2,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1335,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1335,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Person1Id": 2,
+    "Person2Id": 4,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1336,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Person1Id": 4,
+    "Person2Id": 5,
+    "RelationType": "Parent",
+    "Note": "لقب هوشنگ پیشداد است و به همین دلیل تبار ایشان را پیشدادیان می‌خوانند.",
+    "Evidence": [
+      {
+        "PoemId": 1341,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1898,
+        "CoupletIndex": 53,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 49192,
+        "CoupletIndex": 48,
+        "MasterCatId": 1737
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Person1Id": 5,
+    "Person2Id": 6,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1342,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Person1Id": 7,
+    "Person2Id": 8,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1343,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Person1Id": 6,
+    "Person2Id": 9,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1346,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1356,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Person1Id": 6,
+    "Person2Id": 10,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1346,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1356,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Person1Id": 10,
+    "Person2Id": 8,
+    "RelationType": "Spouse",
+    "Note": "شهرناز و ازنواز ابتدا همسران ضحاکند که توسط فریدون رهانیده می‌شوند و با او وصلت می‌کنند.",
+    "Evidence": [
+      {
+        "PoemId": 1355,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Person1Id": 9,
+    "Person2Id": 8,
+    "RelationType": "Spouse",
+    "Note": "شهرناز و ازنواز ابتدا همسران ضحاکند که توسط فریدون رهانیده می‌شوند و با او وصلت می‌کنند.",
+    "Evidence": [
+      {
+        "PoemId": 1355,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Person1Id": 11,
+    "Person2Id": 3,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1335,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1335,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Person1Id": 6,
+    "Person2Id": 19,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 106819,
+        "CoupletIndex": 11,
+        "MasterCatId": 2583
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Person1Id": 6,
+    "Person2Id": 20,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 106819,
+        "CoupletIndex": 11,
+        "MasterCatId": 2583
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Person1Id": 20,
+    "Person2Id": 21,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 106829,
+        "CoupletIndex": 5,
+        "MasterCatId": 2583
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Person1Id": 21,
+    "Person2Id": 22,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 106829,
+        "CoupletIndex": 6,
+        "MasterCatId": 2583
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Person1Id": 22,
+    "Person2Id": 23,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1349,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1351,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Person1Id": 22,
+    "Person2Id": 24,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1349,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1351,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1355,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1920,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Person1Id": 23,
+    "Person2Id": 24,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1349,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1350,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1351,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1358,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Person1Id": 24,
+    "Person2Id": 27,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1352,
+        "CoupletIndex": 72,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1353,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Person1Id": 24,
+    "Person2Id": 28,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1352,
+        "CoupletIndex": 72,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1353,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Person1Id": 10,
+    "Person2Id": 24,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Person1Id": 9,
+    "Person2Id": 24,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Person1Id": 24,
+    "Person2Id": 32,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1362,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1363,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1367,
+        "CoupletIndex": 29,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1368,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Person1Id": 10,
+    "Person2Id": 32,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Person1Id": 24,
+    "Person2Id": 33,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1363,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1370,
+        "CoupletIndex": 57,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Person1Id": 9,
+    "Person2Id": 33,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Person1Id": 24,
+    "Person2Id": 34,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1363,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1367,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1370,
+        "CoupletIndex": 57,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88007,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88081,
+        "CoupletIndex": 122,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "Person1Id": 9,
+    "Person2Id": 34,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1359,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Person1Id": 32,
+    "Person2Id": 35,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Person1Id": 32,
+    "Person2Id": 36,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Person1Id": 35,
+    "Person2Id": 36,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Person1Id": 37,
+    "Person2Id": 38,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "Person1Id": 36,
+    "Person2Id": 38,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 36,
+    "Person1Id": 31,
+    "Person2Id": 39,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1361,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "Person1Id": 32,
+    "Person2Id": 39,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1361,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 38,
+    "Person1Id": 31,
+    "Person2Id": 40,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1361,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "Person1Id": 33,
+    "Person2Id": 40,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1361,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Person1Id": 31,
+    "Person2Id": 41,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1361,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 41,
+    "Person1Id": 34,
+    "Person2Id": 41,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1361,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "Person1Id": 26,
+    "Person2Id": 42,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1412,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Person1Id": 52,
+    "Person2Id": 48,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1379,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1408,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1502,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1586,
+        "CoupletIndex": 72,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Person1Id": 48,
+    "Person2Id": 54,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1379,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1379,
+        "CoupletIndex": 85,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1380,
+        "CoupletIndex": 114,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1381,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1382,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1383,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1384,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1386,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1387,
+        "CoupletIndex": 68,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1390,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1391,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1392,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1395,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1398,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1399,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1404,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1414,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1428,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1430,
+        "CoupletIndex": 63,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1479,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1502,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1578,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1586,
+        "CoupletIndex": 72,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1587,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1589,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1615,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1617,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1617,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88015,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88106,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Person1Id": 38,
+    "Person2Id": 55,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1391,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1405,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1406,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "Person1Id": 8,
+    "Person2Id": 56,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1381,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1387,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1391,
+        "CoupletIndex": 78,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1414,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "Person1Id": 56,
+    "Person2Id": 57,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1382,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1394,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1399,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Person1Id": 56,
+    "Person2Id": 58,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1382,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1387,
+        "CoupletIndex": 75,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1390,
+        "CoupletIndex": 63,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "Person1Id": 57,
+    "Person2Id": 58,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1387,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1389,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1390,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1393,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1394,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1399,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1402,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "Person1Id": 54,
+    "Person2Id": 58,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1401,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "Person1Id": 54,
+    "Person2Id": 60,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1403,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1404,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1420,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1424,
+        "CoupletIndex": 37,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1426,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1426,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1427,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1433,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1436,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1440,
+        "CoupletIndex": 71,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1445,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1450,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1479,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1493,
+        "CoupletIndex": 121,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1551,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1578,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1582,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1586,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1587,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1595,
+        "CoupletIndex": 52,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1599,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1603,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1607,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1615,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1617,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88007,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88021,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88023,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "Person1Id": 58,
+    "Person2Id": 60,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1403,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1433,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "Person1Id": 61,
+    "Person2Id": 62,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1407,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1410,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88076,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88084,
+        "CoupletIndex": 65,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "Person1Id": 63,
+    "Person2Id": 61,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1407,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "Person1Id": 34,
+    "Person2Id": 63,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88064,
+        "CoupletIndex": 93,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "Person1Id": 64,
+    "Person2Id": 52,
+    "RelationType": "Parent",
+    "Note": "نمایانگر این که گرشاسپ پهلوان پدر نریمان است",
+    "Evidence": [
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "Person1Id": 63,
+    "Person2Id": 65,
+    "RelationType": "Parent",
+    "Evidence": []
+  },
+  {
+    "Id": 61,
+    "Person1Id": 61,
+    "Person2Id": 67,
+    "RelationType": "Parent",
+    "Evidence": []
+  },
+  {
+    "Id": 62,
+    "Person1Id": 65,
+    "Person2Id": 68,
+    "RelationType": "Parent",
+    "Evidence": []
+  },
+  {
+    "Id": 63,
+    "Person1Id": 65,
+    "Person2Id": 69,
+    "RelationType": "Parent",
+    "Evidence": []
+  },
+  {
+    "Id": 64,
+    "Person1Id": 61,
+    "Person2Id": 70,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1407,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 65,
+    "Person1Id": 26,
+    "Person2Id": 50,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1409,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 66,
+    "Person1Id": 55,
+    "Person2Id": 73,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1410,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1445,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1471,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 130,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 135,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87980,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87982,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87992,
+        "CoupletIndex": 170,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88008,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 67,
+    "Person1Id": 55,
+    "Person2Id": 74,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1410,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88067,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 68,
+    "Person1Id": 65,
+    "Person2Id": 75,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1411,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 69,
+    "Person1Id": 38,
+    "Person2Id": 79,
+    "RelationType": "Parent",
+    "Evidence": []
+  },
+  {
+    "Id": 70,
+    "Person1Id": 79,
+    "Person2Id": 80,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1419,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 71,
+    "Person1Id": 80,
+    "Person2Id": 81,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1420,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 72,
+    "Person1Id": 24,
+    "Person2Id": 83,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1422,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1424,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "Person1Id": 83,
+    "Person2Id": 85,
+    "RelationType": "Parent",
+    "Note": "بیت 16: «نخستین چو کاووس باآفرین»",
+    "Evidence": [
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 74,
+    "Person1Id": 83,
+    "Person2Id": 86,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 75,
+    "Person1Id": 83,
+    "Person2Id": 87,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 76,
+    "Person1Id": 83,
+    "Person2Id": 88,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1429,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 77,
+    "Person1Id": 36,
+    "Person2Id": 37,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 78,
+    "Person1Id": 48,
+    "Person2Id": 60,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1404,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1427,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1436,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1588,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88015,
+        "CoupletIndex": 117,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 79,
+    "Person1Id": 24,
+    "Person2Id": 61,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1428,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "Person1Id": 24,
+    "Person2Id": 62,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1428,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1452,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88062,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88072,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88076,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88083,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88084,
+        "CoupletIndex": 65,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "Person1Id": 52,
+    "Person2Id": 60,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1436,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1494,
+        "CoupletIndex": 111,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1617,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87997,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 83,
+    "Person1Id": 94,
+    "Person2Id": 95,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1471,
+        "CoupletIndex": 50,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1494,
+        "CoupletIndex": 63,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1496,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1497,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 78,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87973,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88026,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88026,
+        "CoupletIndex": 63,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88027,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88030,
+        "CoupletIndex": 79,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88031,
+        "CoupletIndex": 67,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 146,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88044,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88070,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88089,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 84,
+    "Person1Id": 60,
+    "Person2Id": 128,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1464,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1467,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1471,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1473,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1475,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1476,
+        "CoupletIndex": 66,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1478,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1478,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1579,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88098,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "Person1Id": 60,
+    "Person2Id": 123,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1456,
+        "CoupletIndex": 79,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1457,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1474,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1583,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1596,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1598,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1610,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88067,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 86,
+    "Person1Id": 48,
+    "Person2Id": 128,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1478,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "Person1Id": 85,
+    "Person2Id": 121,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1482,
+        "CoupletIndex": 162,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1483,
+        "CoupletIndex": 247,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1484,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1485,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1486,
+        "CoupletIndex": 141,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1487,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 208,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1489,
+        "CoupletIndex": 271,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1490,
+        "CoupletIndex": 156,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1592,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88072,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 88,
+    "Person1Id": 85,
+    "Person2Id": 116,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1449,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1483,
+        "CoupletIndex": 229,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 89,
+    "Person1Id": 67,
+    "Person2Id": 62,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1485,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1486,
+        "CoupletIndex": 89,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1489,
+        "CoupletIndex": 70,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88067,
+        "CoupletIndex": 88,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88084,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88085,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 90,
+    "Person1Id": 83,
+    "Person2Id": 121,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 233,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 91,
+    "Person1Id": 50,
+    "Person2Id": 121,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 233,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 92,
+    "Person1Id": 62,
+    "Person2Id": 70,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1417,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1418,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1420,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1489,
+        "CoupletIndex": 238,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88073,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 93,
+    "Person1Id": 85,
+    "Person2Id": 109,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1490,
+        "CoupletIndex": 159,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 90,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87959,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87975,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87975,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87988,
+        "CoupletIndex": 52,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87991,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87992,
+        "CoupletIndex": 111,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88003,
+        "CoupletIndex": 126,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88004,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88042,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88067,
+        "CoupletIndex": 76,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88071,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88103,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 95,
+    "Person1Id": 24,
+    "Person2Id": 153,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1492,
+        "CoupletIndex": 82,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88094,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 96,
+    "Person1Id": 62,
+    "Person2Id": 153,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1492,
+        "CoupletIndex": 107,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88039,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88063,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88064,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88066,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88077,
+        "CoupletIndex": 118,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88094,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88103,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 98,
+    "Person1Id": 83,
+    "Person2Id": 153,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1492,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1496,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 99,
+    "Person1Id": 109,
+    "Person2Id": 121,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1495,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1501,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88030,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 100,
+    "Person1Id": 121,
+    "Person2Id": 153,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1492,
+        "CoupletIndex": 81,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1496,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1497,
+        "CoupletIndex": 69,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 123,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1502,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1592,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1934,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87954,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87954,
+        "CoupletIndex": 67,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87971,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88026,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88062,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88066,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88076,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88080,
+        "CoupletIndex": 97,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88085,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88094,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 101,
+    "Person1Id": 149,
+    "Person2Id": 153,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1497,
+        "CoupletIndex": 114,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1498,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1499,
+        "CoupletIndex": 70,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 102,
+    "Person1Id": 38,
+    "Person2Id": 73,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 82,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87974,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 103,
+    "Person1Id": 91,
+    "Person2Id": 94,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1445,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1494,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 93,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 135,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87959,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87982,
+        "CoupletIndex": 117,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87992,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88019,
+        "CoupletIndex": 38,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88042,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 104,
+    "Person1Id": 34,
+    "Person2Id": 153,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1492,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1496,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1500,
+        "CoupletIndex": 124,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88072,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 105,
+    "Person1Id": 176,
+    "Person2Id": 177,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1512,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1513,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1519,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1526,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1528,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1530,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1531,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1553,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1556,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 106,
+    "Person1Id": 177,
+    "Person2Id": 178,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1512,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1521,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1525,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1526,
+        "CoupletIndex": 57,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1529,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1530,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1532,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1536,
+        "CoupletIndex": 106,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1540,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1542,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 107,
+    "Person1Id": 32,
+    "Person2Id": 177,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1532,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 108,
+    "Person1Id": 34,
+    "Person2Id": 66,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1532,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 109,
+    "Person1Id": 66,
+    "Person2Id": 163,
+    "RelationType": "Sibling",
+    "Note": "جای دیگر این بیت را داریم: که ارجاسپ را بود مهتر پسر به خورشید تابان برآورده سر",
+    "Evidence": [
+      {
+        "PoemId": 1534,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 110,
+    "Person1Id": 176,
+    "Person2Id": 178,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1540,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1540,
+        "CoupletIndex": 62,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 111,
+    "Person1Id": 198,
+    "Person2Id": 218,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1569,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1571,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 112,
+    "Person1Id": 218,
+    "Person2Id": 225,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1571,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 113,
+    "Person1Id": 198,
+    "Person2Id": 225,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1571,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 114,
+    "Person1Id": 176,
+    "Person2Id": 198,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1556,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1558,
+        "CoupletIndex": 84,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1573,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1573,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 115,
+    "Person1Id": 177,
+    "Person2Id": 198,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1528,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1551,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1555,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1556,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1557,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1558,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1559,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1574,
+        "CoupletIndex": 52,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1576,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1577,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1578,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1578,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1592,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1603,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 116,
+    "Person1Id": 183,
+    "Person2Id": 198,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1528,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1576,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1579,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 117,
+    "Person1Id": 198,
+    "Person2Id": 221,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1549,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1583,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1585,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1603,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1615,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1617,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1689,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 118,
+    "Person1Id": 199,
+    "Person2Id": 198,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1565,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1587,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1594,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 119,
+    "Person1Id": 56,
+    "Person2Id": 60,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1590,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 120,
+    "Person1Id": 24,
+    "Person2Id": 198,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1602,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 121,
+    "Person1Id": 120,
+    "Person2Id": 198,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 122,
+    "Person1Id": 33,
+    "Person2Id": 120,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1795,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 124,
+    "Person1Id": 198,
+    "Person2Id": 224,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1549,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1556,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 39,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Person1Id": 198,
+    "Person2Id": 222,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1549,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 39,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Person1Id": 224,
+    "Person2Id": 222,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Person1Id": 221,
+    "Person2Id": 222,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1597,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 128,
+    "Person1Id": 183,
+    "Person2Id": 199,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1528,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 80,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 129,
+    "Person1Id": 177,
+    "Person2Id": 225,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 130,
+    "Person1Id": 177,
+    "Person2Id": 218,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1604,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 131,
+    "Person1Id": 177,
+    "Person2Id": 221,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1605,
+        "CoupletIndex": 51,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 132,
+    "Person1Id": 60,
+    "Person2Id": 160,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1493,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1609,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1610,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1611,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1614,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1616,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 210,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 133,
+    "Person1Id": 221,
+    "Person2Id": 623,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1618,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 134,
+    "Person1Id": 198,
+    "Person2Id": 211,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1696,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1706,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 135,
+    "Person1Id": 211,
+    "Person2Id": 45,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1711,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1711,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1712,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1715,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1722,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1725,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 136,
+    "Person1Id": 45,
+    "Person2Id": 215,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1715,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 137,
+    "Person1Id": 211,
+    "Person2Id": 215,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1715,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 138,
+    "Person1Id": 323,
+    "Person2Id": 344,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1754,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1762,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1766,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 139,
+    "Person1Id": 45,
+    "Person2Id": 344,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1767,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 140,
+    "Person1Id": 211,
+    "Person2Id": 344,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1767,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 142,
+    "Person1Id": 77,
+    "Person2Id": 35,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1781,
+        "CoupletIndex": 104,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 143,
+    "Person1Id": 77,
+    "Person2Id": 23,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1781,
+        "CoupletIndex": 104,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 144,
+    "Person1Id": 1,
+    "Person2Id": 4,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1336,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 145,
+    "Person1Id": 5,
+    "Person2Id": 22,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1351,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 146,
+    "Person1Id": 33,
+    "Person2Id": 34,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1363,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 147,
+    "Person1Id": 32,
+    "Person2Id": 33,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1366,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 148,
+    "Person1Id": 32,
+    "Person2Id": 34,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1366,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 149,
+    "Person1Id": 24,
+    "Person2Id": 38,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1369,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "Person1Id": 32,
+    "Person2Id": 38,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1371,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1405,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 151,
+    "Person1Id": 42,
+    "Person2Id": 50,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1409,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 152,
+    "Person1Id": 61,
+    "Person2Id": 355,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1409,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 153,
+    "Person1Id": 24,
+    "Person2Id": 80,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1419,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 155,
+    "Person1Id": 115,
+    "Person2Id": 116,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1448,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 156,
+    "Person1Id": 130,
+    "Person2Id": 129,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1462,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 157,
+    "Person1Id": 60,
+    "Person2Id": 129,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1462,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 158,
+    "Person1Id": 129,
+    "Person2Id": 128,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 159,
+    "Person1Id": 52,
+    "Person2Id": 128,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1463,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 160,
+    "Person1Id": 76,
+    "Person2Id": 134,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1465,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 161,
+    "Person1Id": 125,
+    "Person2Id": 147,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 222,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 162,
+    "Person1Id": 148,
+    "Person2Id": 147,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 234,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 163,
+    "Person1Id": 125,
+    "Person2Id": 148,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 320,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 164,
+    "Person1Id": 121,
+    "Person2Id": 147,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 237,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87958,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 165,
+    "Person1Id": 62,
+    "Person2Id": 149,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 282,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 166,
+    "Person1Id": 121,
+    "Person2Id": 149,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1488,
+        "CoupletIndex": 341,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 167,
+    "Person1Id": 147,
+    "Person2Id": 150,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1489,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87958,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87968,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87969,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87969,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "Person1Id": 125,
+    "Person2Id": 154,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1490,
+        "CoupletIndex": 145,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 169,
+    "Person1Id": 62,
+    "Person2Id": 162,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1493,
+        "CoupletIndex": 122,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 170,
+    "Person1Id": 177,
+    "Person2Id": 365,
+    "RelationType": "Parent",
+    "Note": "بیت 71: «مر او را دهم دخترم را همای»",
+    "Evidence": []
+  },
+  {
+    "Id": 171,
+    "Person1Id": 85,
+    "Person2Id": 153,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1501,
+        "CoupletIndex": 73,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87954,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88082,
+        "CoupletIndex": 53,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88086,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88094,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 172,
+    "Person1Id": 85,
+    "Person2Id": 177,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 173,
+    "Person1Id": 85,
+    "Person2Id": 178,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1511,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 174,
+    "Person1Id": 120,
+    "Person2Id": 183,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1516,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 175,
+    "Person1Id": 177,
+    "Person2Id": 183,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1517,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 176,
+    "Person1Id": 33,
+    "Person2Id": 185,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1518,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 177,
+    "Person1Id": 189,
+    "Person2Id": 188,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1522,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "Person1Id": 120,
+    "Person2Id": 190,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1523,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "Person1Id": 193,
+    "Person2Id": 344,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1525,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "Person1Id": 193,
+    "Person2Id": 194,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1525,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "Person1Id": 177,
+    "Person2Id": 199,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1528,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "Person1Id": 66,
+    "Person2Id": 207,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1534,
+        "CoupletIndex": 41,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "Person1Id": 177,
+    "Person2Id": 212,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1536,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "Person1Id": 178,
+    "Person2Id": 213,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1536,
+        "CoupletIndex": 46,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "Person1Id": 205,
+    "Person2Id": 216,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1539,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "Person1Id": 198,
+    "Person2Id": 157,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1547,
+        "CoupletIndex": 29,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 187,
+    "Person1Id": 198,
+    "Person2Id": 223,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1549,
+        "CoupletIndex": 4,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 188,
+    "Person1Id": 233,
+    "Person2Id": 176,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 189,
+    "Person1Id": 86,
+    "Person2Id": 233,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1591,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 190,
+    "Person1Id": 4,
+    "Person2Id": 198,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1602,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 191,
+    "Person1Id": 6,
+    "Person2Id": 198,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1602,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 192,
+    "Person1Id": 54,
+    "Person2Id": 237,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1607,
+        "CoupletIndex": 66,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 193,
+    "Person1Id": 237,
+    "Person2Id": 60,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1607,
+        "CoupletIndex": 58,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 194,
+    "Person1Id": 242,
+    "Person2Id": 371,
+    "RelationType": "Parent",
+    "Note": "بیت 10: «ز دارای داراب بن اردشیر»",
+    "Evidence": [
+      {
+        "PoemId": 1678,
+        "CoupletIndex": 56,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 195,
+    "Person1Id": 221,
+    "Person2Id": 240,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1618,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 196,
+    "Person1Id": 240,
+    "Person2Id": 241,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1618,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 197,
+    "Person1Id": 221,
+    "Person2Id": 241,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1618,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1689,
+        "CoupletIndex": 40,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 198,
+    "Person1Id": 211,
+    "Person2Id": 242,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1622,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 199,
+    "Person1Id": 221,
+    "Person2Id": 247,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1625,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 200,
+    "Person1Id": 246,
+    "Person2Id": 245,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1627,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 201,
+    "Person1Id": 251,
+    "Person2Id": 248,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1628,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 202,
+    "Person1Id": 247,
+    "Person2Id": 248,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1628,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "Person1Id": 248,
+    "Person2Id": 250,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1629,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "Person1Id": 251,
+    "Person2Id": 250,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1629,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1662,
+        "CoupletIndex": 70,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "Person1Id": 247,
+    "Person2Id": 256,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1641,
+        "CoupletIndex": 21,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 206,
+    "Person1Id": 266,
+    "Person2Id": 268,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1658,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 207,
+    "Person1Id": 268,
+    "Person2Id": 250,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1658,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 208,
+    "Person1Id": 272,
+    "Person2Id": 274,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1661,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 210,
+    "Person1Id": 272,
+    "Person2Id": 277,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1663,
+        "CoupletIndex": 28,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 211,
+    "Person1Id": 371,
+    "Person2Id": 375,
+    "RelationType": "Parent",
+    "Note": "بیت 1: «پسر بد مر او را یکی شادکام»",
+    "Evidence": []
+  },
+  {
+    "Id": 212,
+    "Person1Id": 375,
+    "Person2Id": 241,
+    "RelationType": "Parent",
+    "Note": "بیت 4: «ز ساسان یکی کودکی ماند خرد»",
+    "Evidence": []
+  },
+  {
+    "Id": 213,
+    "Person1Id": 291,
+    "Person2Id": 376,
+    "RelationType": "Parent",
+    "Note": "بیت 22: «سوی بهمن اردوان شد به جنگ»",
+    "Evidence": []
+  },
+  {
+    "Id": 214,
+    "Person1Id": 240,
+    "Person2Id": 377,
+    "RelationType": "Parent",
+    "Note": "بیت 25: «که فرزند ساسان منم اردشیر»",
+    "Evidence": []
+  },
+  {
+    "Id": 215,
+    "Person1Id": 290,
+    "Person2Id": 379,
+    "RelationType": "Parent",
+    "Note": "بیت 14: «که فرزند آن نامور شاه بود»",
+    "Evidence": []
+  },
+  {
+    "Id": 216,
+    "Person1Id": 328,
+    "Person2Id": 380,
+    "RelationType": "Parent",
+    "Note": "بیت 3: «دگر قارن گرد پور گشسپ»",
+    "Evidence": []
+  },
+  {
+    "Id": 217,
+    "Person1Id": 254,
+    "Person2Id": 382,
+    "RelationType": "Parent",
+    "Note": "بیت 100: «پدر را چنین گفت کای ماهیار»",
+    "Evidence": []
+  },
+  {
+    "Id": 218,
+    "Person1Id": 344,
+    "Person2Id": 382,
+    "RelationType": "Spouse",
+    "Note": "بیت 141: «بدو داد و بهرام گورش بخواست»",
+    "Evidence": []
+  },
+  {
+    "Id": 219,
+    "Person1Id": 50,
+    "Person2Id": 287,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1688,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 220,
+    "Person1Id": 292,
+    "Person2Id": 211,
+    "RelationType": "Ancestor",
+    "Note": "در جای دیگر أمده:\r\nشنیدم که فرزند تو اردشیر\r\nسواریست گوینده و یادگیر",
+    "Evidence": [
+      {
+        "PoemId": 1690,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 221,
+    "Person1Id": 298,
+    "Person2Id": 301,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1703,
+        "CoupletIndex": 16,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 222,
+    "Person1Id": 291,
+    "Person2Id": 302,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1709,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 223,
+    "Person1Id": 302,
+    "Person2Id": 45,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1711,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 224,
+    "Person1Id": 299,
+    "Person2Id": 305,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1713,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 225,
+    "Person1Id": 45,
+    "Person2Id": 305,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1714,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 226,
+    "Person1Id": 304,
+    "Person2Id": 215,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1715,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 227,
+    "Person1Id": 344,
+    "Person2Id": 311,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1729,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 228,
+    "Person1Id": 314,
+    "Person2Id": 316,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1734,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 229,
+    "Person1Id": 315,
+    "Person2Id": 316,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1735,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 230,
+    "Person1Id": 290,
+    "Person2Id": 316,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1735,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 231,
+    "Person1Id": 120,
+    "Person2Id": 321,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1744,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "Person1Id": 334,
+    "Person2Id": 344,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1767,
+        "CoupletIndex": 17,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 233,
+    "Person1Id": 312,
+    "Person2Id": 345,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 234,
+    "Person1Id": 312,
+    "Person2Id": 346,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 235,
+    "Person1Id": 312,
+    "Person2Id": 347,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 236,
+    "Person1Id": 312,
+    "Person2Id": 348,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 237,
+    "Person1Id": 344,
+    "Person2Id": 345,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 238,
+    "Person1Id": 344,
+    "Person2Id": 346,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 239,
+    "Person1Id": 344,
+    "Person2Id": 347,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 240,
+    "Person1Id": 344,
+    "Person2Id": 348,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1779,
+        "CoupletIndex": 64,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 241,
+    "Person1Id": 344,
+    "Person2Id": 290,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1771,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1789,
+        "CoupletIndex": 34,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 242,
+    "Person1Id": 77,
+    "Person2Id": 349,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1781,
+        "CoupletIndex": 104,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 243,
+    "Person1Id": 290,
+    "Person2Id": 323,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1810,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 244,
+    "Person1Id": 330,
+    "Person2Id": 417,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1817,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 245,
+    "Person1Id": 290,
+    "Person2Id": 330,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1818,
+        "CoupletIndex": 117,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "Person1Id": 344,
+    "Person2Id": 330,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1818,
+        "CoupletIndex": 81,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1819,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 248,
+    "Person1Id": 330,
+    "Person2Id": 625,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1819,
+        "CoupletIndex": 133,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 252,
+    "Person1Id": 292,
+    "Person2Id": 377,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 180,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 253,
+    "Person1Id": 96,
+    "Person2Id": 344,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 220,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 254,
+    "Person1Id": 121,
+    "Person2Id": 429,
+    "RelationType": "Parent",
+    "Note": "بیت 2: «ببهرام پور سیاوش سپرد»",
+    "Evidence": []
+  },
+  {
+    "Id": 255,
+    "Person1Id": 328,
+    "Person2Id": 454,
+    "RelationType": "Parent",
+    "Note": "بیت 31: «ندانی که بهرام پور گشسپ»",
+    "Evidence": [
+      {
+        "PoemId": 1869,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 256,
+    "Person1Id": 377,
+    "Person2Id": 78,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1860,
+        "CoupletIndex": 45,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 257,
+    "Person1Id": 74,
+    "Person2Id": 410,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1863,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1890,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 258,
+    "Person1Id": 344,
+    "Person2Id": 419,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1867,
+        "CoupletIndex": 39,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 259,
+    "Person1Id": 417,
+    "Person2Id": 43,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1898,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 260,
+    "Person1Id": 120,
+    "Person2Id": 43,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1898,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 261,
+    "Person1Id": 469,
+    "Person2Id": 470,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1901,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1910,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 262,
+    "Person1Id": 469,
+    "Person2Id": 479,
+    "RelationType": "Parent",
+    "Note": "بیت 12: «چو شیروی بیدار مهتر پسر»",
+    "Evidence": [
+      {
+        "PoemId": 1909,
+        "CoupletIndex": 12,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1913,
+        "CoupletIndex": 126,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 98,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 263,
+    "Person1Id": 417,
+    "Person2Id": 469,
+    "RelationType": "Parent",
+    "Note": "بیت 48: «جهاندار فرزند هرمزد شاه»",
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 78,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1913,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 52170,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 264,
+    "Person1Id": 470,
+    "Person2Id": 485,
+    "RelationType": "Parent",
+    "Note": "بیت 59: «چو نستود و چون شهریار و فرود»",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 265,
+    "Person1Id": 470,
+    "Person2Id": 425,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 266,
+    "Person1Id": 76,
+    "Person2Id": 516,
+    "RelationType": "Parent",
+    "Note": "بیت 172: «که فرزند بیدار گژدهم بود»",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 172,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 267,
+    "Person1Id": 34,
+    "Person2Id": 579,
+    "RelationType": "Parent",
+    "Note": "بیت 26: «کجا دختر تور ماه آفرید»",
+    "Evidence": []
+  },
+  {
+    "Id": 269,
+    "Person1Id": 60,
+    "Person2Id": 417,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 52171,
+        "CoupletIndex": 98,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 270,
+    "Person1Id": 195,
+    "Person2Id": 264,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 52172,
+        "CoupletIndex": 22,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 271,
+    "Person1Id": 464,
+    "Person2Id": 418,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1887,
+        "CoupletIndex": 15,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 52176,
+        "CoupletIndex": 132,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 52177,
+        "CoupletIndex": 61,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 272,
+    "Person1Id": 73,
+    "Person2Id": 193,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 9,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87963,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 273,
+    "Person1Id": 54,
+    "Person2Id": 160,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 210,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 274,
+    "Person1Id": 48,
+    "Person2Id": 160,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 210,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 275,
+    "Person1Id": 52,
+    "Person2Id": 160,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 210,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 276,
+    "Person1Id": 98,
+    "Person2Id": 96,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 99,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 277,
+    "Person1Id": 95,
+    "Person2Id": 165,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87955,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87959,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87966,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87967,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87970,
+        "CoupletIndex": 47,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87971,
+        "CoupletIndex": 35,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87972,
+        "CoupletIndex": 27,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 70,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87989,
+        "CoupletIndex": 192,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88007,
+        "CoupletIndex": 19,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88011,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 74,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88014,
+        "CoupletIndex": 92,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88023,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88028,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88031,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88032,
+        "CoupletIndex": 113,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88038,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 207,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88048,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 278,
+    "Person1Id": 153,
+    "Person2Id": 150,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 87958,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87962,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87969,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87974,
+        "CoupletIndex": 14,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87980,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 279,
+    "Person1Id": 121,
+    "Person2Id": 150,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87958,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87960,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87961,
+        "CoupletIndex": 1,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87966,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87969,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 92,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 280,
+    "Person1Id": 627,
+    "Person2Id": 150,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87960,
+        "CoupletIndex": 49,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 281,
+    "Person1Id": 85,
+    "Person2Id": 150,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87961,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 282,
+    "Person1Id": 625,
+    "Person2Id": 150,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87961,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 283,
+    "Person1Id": 55,
+    "Person2Id": 193,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87965,
+        "CoupletIndex": 24,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 284,
+    "Person1Id": 125,
+    "Person2Id": 150,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87966,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 285,
+    "Person1Id": 94,
+    "Person2Id": 97,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87975,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88042,
+        "CoupletIndex": 10,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88047,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 286,
+    "Person1Id": 85,
+    "Person2Id": 194,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87976,
+        "CoupletIndex": 87,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87980,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 287,
+    "Person1Id": 125,
+    "Person2Id": 132,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 87992,
+        "CoupletIndex": 157,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87993,
+        "CoupletIndex": 60,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 87996,
+        "CoupletIndex": 67,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88029,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88038,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 288,
+    "Person1Id": 65,
+    "Person2Id": 132,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87996,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 289,
+    "Person1Id": 65,
+    "Person2Id": 156,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87996,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 290,
+    "Person1Id": 65,
+    "Person2Id": 157,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87996,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 291,
+    "Person1Id": 65,
+    "Person2Id": 144,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87996,
+        "CoupletIndex": 32,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 292,
+    "Person1Id": 62,
+    "Person2Id": 142,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88007,
+        "CoupletIndex": 135,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88008,
+        "CoupletIndex": 78,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88024,
+        "CoupletIndex": 33,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 293,
+    "Person1Id": 94,
+    "Person2Id": 165,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 88013,
+        "CoupletIndex": 43,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88028,
+        "CoupletIndex": 29,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88031,
+        "CoupletIndex": 63,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88032,
+        "CoupletIndex": 120,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 294,
+    "Person1Id": 125,
+    "Person2Id": 144,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88033,
+        "CoupletIndex": 30,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88033,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 295,
+    "Person1Id": 125,
+    "Person2Id": 145,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88036,
+        "CoupletIndex": 84,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88036,
+        "CoupletIndex": 88,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88037,
+        "CoupletIndex": 127,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 296,
+    "Person1Id": 94,
+    "Person2Id": 133,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 88049,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 297,
+    "Person1Id": 133,
+    "Person2Id": 95,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 298,
+    "Person1Id": 94,
+    "Person2Id": 47,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88040,
+        "CoupletIndex": 232,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 299,
+    "Person1Id": 156,
+    "Person2Id": 157,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88054,
+        "CoupletIndex": 72,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 300,
+    "Person1Id": 125,
+    "Person2Id": 156,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88054,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 301,
+    "Person1Id": 125,
+    "Person2Id": 157,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88054,
+        "CoupletIndex": 25,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 302,
+    "Person1Id": 73,
+    "Person2Id": 207,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88061,
+        "CoupletIndex": 95,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 303,
+    "Person1Id": 63,
+    "Person2Id": 62,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88064,
+        "CoupletIndex": 23,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 304,
+    "Person1Id": 143,
+    "Person2Id": 61,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88064,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 305,
+    "Person1Id": 24,
+    "Person2Id": 142,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88066,
+        "CoupletIndex": 55,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 306,
+    "Person1Id": 91,
+    "Person2Id": 97,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88066,
+        "CoupletIndex": 60,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 307,
+    "Person1Id": 34,
+    "Person2Id": 62,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88069,
+        "CoupletIndex": 50,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 308,
+    "Person1Id": 62,
+    "Person2Id": 143,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88070,
+        "CoupletIndex": 13,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 309,
+    "Person1Id": 462,
+    "Person2Id": 62,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88072,
+        "CoupletIndex": 54,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 310,
+    "Person1Id": 32,
+    "Person2Id": 55,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88085,
+        "CoupletIndex": 6,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 311,
+    "Person1Id": 4,
+    "Person2Id": 176,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88102,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 312,
+    "Person1Id": 627,
+    "Person2Id": 405,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1824,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 314,
+    "Person1Id": 405,
+    "Person2Id": 469,
+    "RelationType": "Ancestor",
+    "DegreeHint": 2,
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 78,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 315,
+    "Person1Id": 96,
+    "Person2Id": 418,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 1840,
+        "CoupletIndex": 220,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 316,
+    "Person1Id": 121,
+    "Person2Id": 430,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1846,
+        "CoupletIndex": 2,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 317,
+    "Person1Id": 120,
+    "Person2Id": 441,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1862,
+        "CoupletIndex": 3,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 8906,
+        "CoupletIndex": 39,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 318,
+    "Person1Id": 443,
+    "Person2Id": 441,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1862,
+        "CoupletIndex": 36,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1871,
+        "CoupletIndex": 29,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 319,
+    "Person1Id": 419,
+    "Person2Id": 418,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1867,
+        "CoupletIndex": 42,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 320,
+    "Person1Id": 417,
+    "Person2Id": 455,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1869,
+        "CoupletIndex": 31,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 322,
+    "Person1Id": 121,
+    "Person2Id": 466,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1886,
+        "CoupletIndex": 8,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 323,
+    "Person1Id": 419,
+    "Person2Id": 464,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 1890,
+        "CoupletIndex": 18,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 324,
+    "Person1Id": 470,
+    "Person2Id": 484,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 325,
+    "Person1Id": 470,
+    "Person2Id": 486,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 326,
+    "Person1Id": 469,
+    "Person2Id": 484,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 327,
+    "Person1Id": 469,
+    "Person2Id": 485,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 328,
+    "Person1Id": 469,
+    "Person2Id": 486,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1917,
+        "CoupletIndex": 59,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 329,
+    "Person1Id": 496,
+    "Person2Id": 497,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1931,
+        "CoupletIndex": 44,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 330,
+    "Person1Id": 511,
+    "Person2Id": 418,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 52170,
+        "CoupletIndex": 182,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 331,
+    "Person1Id": 264,
+    "Person2Id": 424,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 52173,
+        "CoupletIndex": 161,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 332,
+    "Person1Id": 424,
+    "Person2Id": 509,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 52173,
+        "CoupletIndex": 212,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 333,
+    "Person1Id": 462,
+    "Person2Id": 522,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87965,
+        "CoupletIndex": 26,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 334,
+    "Person1Id": 125,
+    "Person2Id": 427,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 87966,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 335,
+    "Person1Id": 94,
+    "Person2Id": 166,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87977,
+        "CoupletIndex": 0,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 336,
+    "Person1Id": 95,
+    "Person2Id": 166,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 87977,
+        "CoupletIndex": 11,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 337,
+    "Person1Id": 537,
+    "Person2Id": 132,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 87996,
+        "CoupletIndex": 48,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 338,
+    "Person1Id": 62,
+    "Person2Id": 547,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 88011,
+        "CoupletIndex": 129,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 339,
+    "Person1Id": 547,
+    "Person2Id": 165,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 88019,
+        "CoupletIndex": 84,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 340,
+    "Person1Id": 144,
+    "Person2Id": 132,
+    "RelationType": "Sibling",
+    "Evidence": [
+      {
+        "PoemId": 88032,
+        "CoupletIndex": 132,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 342,
+    "Person1Id": 625,
+    "Person2Id": 153,
+    "RelationType": "Ancestor",
+    "Evidence": [
+      {
+        "PoemId": 88072,
+        "CoupletIndex": 20,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 343,
+    "Person1Id": 405,
+    "Person2Id": 417,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 188,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 1835,
+        "CoupletIndex": 200,
+        "MasterCatId": 33
+      },
+      {
+        "PoemId": 8878,
+        "CoupletIndex": 3,
+        "MasterCatId": 111
+      },
+      {
+        "PoemId": 52170,
+        "CoupletIndex": 133,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 344,
+    "Person1Id": 688,
+    "Person2Id": 635,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 8908,
+        "CoupletIndex": 16,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 346,
+    "Person1Id": 441,
+    "Person2Id": 479,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 8975,
+        "CoupletIndex": 1,
+        "MasterCatId": 111
+      }
+    ]
+  },
+  {
+    "Id": 347,
+    "Person1Id": 441,
+    "Person2Id": 469,
+    "RelationType": "Spouse",
+    "Evidence": [
+      {
+        "PoemId": 1862,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 348,
+    "Person1Id": 405,
+    "Person2Id": 584,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 151727,
+        "CoupletIndex": 7,
+        "MasterCatId": 33
+      }
+    ]
+  },
+  {
+    "Id": 349,
+    "Person1Id": 484,
+    "Person2Id": 691,
+    "RelationType": "Parent",
+    "Evidence": [
+      {
+        "PoemId": 1931,
+        "CoupletIndex": 5,
+        "MasterCatId": 33
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+{
+  "Id": 2487,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۳۵۸",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳۵۸",
+  "FullUrl": "/hafez/ghazal/sh358",
+  "RhymeLetters": "اننمیبینم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل از غم و اندوه خود می‌گوید و می‌نالد که در دنیای بی‌کران غم‌ها، هیچ تسکینی جز شراب نمی‌یابد. او به حضور پیر مغان اشاره می‌کند و می‌گوید که در بیان مشکل خود احتیاط می‌کند زیرا مصلحتش در این است که سکوت کند. شاعر در اشاره به عشق و یاران اهل خدا، از ناپایداری‌های عشق و دل‌تنگی‌اش در مواجهه با محبوب و زیبایی‌ها صحبت می‌کند و یأس خود را از عدم دیدن محبوب و دل‌بستگی‌اش ابراز می‌کند. در پایان، او به تنهایی خود در دریای سخن اشاره می‌کند و اظهار می‌دارد که در این دنیای شعری، توانایی ابراز احساساتش محدود است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننمیبینم",
+      "PlainText": "غم زمانه که هیچش کران نمی بینم\r\nدواش جز می چون ارغوان نمی بینم\r\nبه ترک خدمت پیر مغان نخواهم گفت\r\nچرا که مصلحت خود در آن نمی بینم\r\nز آفتاب قدح ارتفاع عیش بگیر\r\nچرا که طالع وقت آن چنان نمی بینم\r\nنشان اهل خدا عاشقیست با خود دار\r\nکه در مشایخ شهر این نشان نمی بینم\r\nبدین دو دیده حیران من هزار افسوس\r\nکه با دو آینه رویش عیان نمی بینم\r\nقد تو تا بشد از جویبار دیده من\r\nبه جای سرو جز آب روان نمی بینم\r\nدر این خمار کسم جرعه ای نمی بخشد\r\nببین که اهل دلی در میان نمی بینم\r\nنشان موی میانش که دل در او بستم\r\nز من مپرس که خود در میان نمی بینم\r\nمن و سفینه حافظ که جز در این دریا\r\nبضاعت سخن درفشان نمی بینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمِ زمانه که هیچش کَران نمی‌بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدَواش جز مِیِ چون ارغوان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تَرک خدمتِ پیرِ مُغان نخواهم گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا که مصلحتِ خود در آن نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آفتابِ قَدَح ارتفاعِ عیش بگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا که طالعِ وقت آن چُنان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشانِ اهل خدا عاشقیست، با خود دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در مشایخِ شهر این نشان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین دو دیدهٔ حیران من هزار افسوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با دو آینه رویش عیان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدِ تو تا بِشُد از جویبارِ دیدهٔ من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جایِ سرو جز آبِ روان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این خُمار کَسَم جرعه‌ای نمی‌بخشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببین که اهل دلی در میان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشانِ مویِ میانش که دل در او بستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز من مَپرس که خود در میان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و سفینهٔ حافظ که جز در این دریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبضاعت سخن دُرفشان نمی‌بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمِ زمانه که هیچش کَران نمی‌بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": ":غم و اندوه روزگار انتها ندارد دوای آن\u00A0 جز نوشیدن می، مانند رنگ ارغوانی نیست"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دَواش جز مِیِ چون ارغوان نمی‌بینم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به تَرک خدمتِ پیرِ مُغان نخواهم گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به پیر مغان نخواهم گفت چرا که فکر می‌کنم در آن سودی برای خودم نیست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چرا که مصلحتِ خود در آن نمی‌بینم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز آفتابِ قَدَح ارتفاعِ عیش بگیر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نور آفتابِ جام شادی بهره‌ بگیر، زیرا آینده را آن‌طور که باید نمی‌بینم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چرا که طالعِ وقت آن چُنان نمی‌بینم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نشانِ اهل خدا عاشقیست، با خود دار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نشان عشق و دلدادگی واقعی، مخصوص اهل خداست. باید توجه داشته باشی که در میان عالمان و بزرگان این شهر، این نشانه را پیدا نمی‌کنم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که در مشایخِ شهر این نشان نمی‌بینم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بدین دو دیدهٔ حیران من هزار افسوس",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با این دو چشمانی که حیرت زده‌اند، خیلی افسوس می‌خورم که نمی‌توانم چهره‌اش را به وضوح در آینه‌ها ببینم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که با دو آینه رویش عیان نمی‌بینم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "قدِ تو تا بِشُد از جویبارِ دیدهٔ من",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی قد تو از جویبار اشک من گذشت، تنها تصویری که به جای سرو می‌بینم، آب روان است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به جایِ سرو جز آبِ روان نمی‌بینم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در این خُمار کَسَم جرعه‌ای نمی‌بخشد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالتی که در آن هستم، هیچ‌کس به من نخواهد داد. نگاه کن، که اهل دل و عاشقانی را در اطراف خود نمی‌بینم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ببین که اهل دلی در میان نمی‌بینم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نشانِ مویِ میانش که دل در او بستم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "موی میان استعاره از کمر باریک یار داره که از باریکی چون مو می‌باشد ، و آنچنان دلبسته‌ی آن شدم که دیگر خود را نمیبینم"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز من مَپرس که خود در میان نمی‌بینم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "من و سفینهٔ حافظ که جز در این دریا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من و کشتی حافظ هرگز در این دریا چیزی از زیبایی‌های گفتاری نمی‌بینیم جز این گنجینه‌ها."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بضاعت سخن دُرفشان نمی‌بینم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 730
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 244
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 2,
+          "Misra": 0
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "بهره و سود گرفتن"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "Text": "بلند شدن کوکب در نجوم"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 4,
+          "ConceptId": 996
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 997
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 382
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 998
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 883
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 810
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 8
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "هیچم و خود را در میانه نمیبینم."
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "خودم موی میان را نمیبینم."
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 546
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 8,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 999
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "سحن درفشان"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "سخن فصیح و بلیغ"
+        }
+      ]
+    }
+  ]
+}

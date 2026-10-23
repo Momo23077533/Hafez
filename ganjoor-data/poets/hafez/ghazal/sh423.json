@@ -1,0 +1,496 @@
+{
+  "Id": 2552,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۲۳",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۲۳",
+  "FullUrl": "/hafez/ghazal/sh423",
+  "RhymeLetters": "ابالوده",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این غزل به توصیف حالاتی می‌پردازد که در آن میان غفلت و بیداری است. او از میکده و نشانه‌های خواب و آلودگی به خواب می‌گوید و از مغبچگی که او را بیدار می‌کند و به پاکی و طهارت دعوت می‌نماید. شاعر سپس به جوانی و پیری و تاثیر آنها بر زندگی می‌پردازد و توصیه می‌کند که از آلودگی‌های دنیا دوری کند و به صفا و پاکی تلاش کند. در نهایت، شاعر از عشق و چالش‌هایی که در این راه وجود دارد سخن می‌گوید و اشاره می‌کند که رسیدن به حقیقت نیازمند جستجو در عمق است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابالوده",
+      "PlainText": "دوش رفتم به در میکده خواب آلوده\r\nخرقه تر دامن و سجاده شراب آلوده\r\nآمد افسوس کنان مغبچه باده فروش\r\nگفت بیدار شو ای رهرو خواب آلوده\r\nشست و شویی کن و آن گه به خرابات خرام\r\nتا نگردد ز تو این دیر خراب آلوده\r\nبه هوای لب شیرین پسران چند کنی\r\nجوهر روح به یاقوت مذاب آلوده\r\nبه طهارت گذران منزل پیری و مکن\r\nخلعت شیب چو تشریف شباب آلوده\r\nپاک و صافی شو و از چاه طبیعت به در آی\r\nکه صفایی ندهد آب تراب آلوده\r\nگفتم ای جان جهان دفتر گل عیبی نیست\r\nکه شود فصل بهار از می ناب آلوده\r\nآشنایان ره عشق در این بحر عمیق\r\nغرقه گشتند و نگشتند به آب آلوده\r\nگفت حافظ لغز و نکته به یاران مفروش\r\nآه از این لطف به انواع عتاب آلوده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوش رفتم به در میکده خواب‌آلوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرقه تر دامن و سجّاده شراب‌آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد افسوس‌کنان مغبچهٔ باده‌فروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت بیدار شو ای رهرو خواب‌آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشست و شویی کن و آن‌گه به خرابات خِرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نگردد ز تو این دیر خراب آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هوای لب شیرین پسران چند کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوهر روح به یاقوت مذاب آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه طهارت گذران منزل پیری و مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلعت شیب چو تشریف شباب آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپاک و صافی شو و از چاه طبیعت به در آی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه صفایی ندهد آب تراب‌آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم ای جان جهان دفتر گل عیبی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شود فصل بهار از می ناب آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشنایانِ رهِ عشق در این بحر عمیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرقه گشتند و نگشتند به آب آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت حافظ لغز و نکته به یاران مفروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه از این لطف به انواع عتاب آلوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش رفتم به در میکده خواب‌آلوده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0دیشب دلزده و درمانده، به میخانه رجوع کردم دلزده از اینکه دامن خرقه ی پرهیزگاری اَم از فراوانی گناه تر شده و سجّاده ی عبادت اَم آلوده به شراب است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرقه تر دامن و سجّاده شراب‌آلوده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد افسوس‌کنان مغبچهٔ باده‌فروش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "(وقتی با خرقه و سجّاده ی آلوده به میکده رجوع کردم( ساقی گلچهره درحالی که به حال و روز من تاسّف می خورد به استقبالم آمد و از روی دلجویی و دلسوزی گفت: ای سالک و ای رهرو، ای که به ظاهر وانمود به سیر و سلوک می‌کنی امّا در باطن به آن کار دیگر مشغولی از خواب غفلت بیدارشو!!\u00A0تا کی می خواهی خود و دیگران را بفریبی؟ با خود رو راست باش و تکلیف خویش را معیّن کن. از یک سو ادّعای سیر و سلوک و تهذیب نفس می کنی از سوی دیگر در زیر خرقه چه کار ها که نمی کنی! سجّاده ی زهد بر دوش داری و در آستین خرقه شراب حمل می کنی!"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفت بیدار شو ای رهرو خواب‌آلوده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شست و شویی کن و آن‌گه به خرابات خِرام",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "( مُغبچه درادامه ی سخن گفت): برای رسیدن به بیداری و آگاهی باید اوّل دل و جانت را از آلودگیها شستشو دهی سپس پاک و بی ریا گام به میکده بگذاری اگر با آلودگیها وارد شوی ممکن است میکده را نیز آلوده کنی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا نگردد ز تو این دیر خراب آلوده",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به هوای لب شیرین پسران چند کنی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای خرقه پوش متظاهر، تاکی می خواهی در هوس کامگیری از لبهای نوشین پسرانِ زیبا روی، ذات واصلِ روح خویش را آلوده کنی؟ روح تو خود الماسی اصیل، حقیقی و گرانبهاست در حالی که لب سرخ پسران (یاشراب آتشین) یاقوت مجازی و فرعیست چرا ازروی هوسرانی، اصل و حقیقت(روح) را که ارزش والایی دارد با جنس فرعی و مجازی که هیچ ارزشی ندارد قرین و هم نشین می کنی و روح خویش را می‌آزاری؟!"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جوهر روح به یاقوت مذاب آلوده",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به طهارت گذران منزل پیری و مکن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "(درادامه ی سخن) ..... حال که به دوران کهنسالی رسیده ای سعی کن این خلعتی که از طرف خداوند به تو هدیه شده پاک نگاه داری و پاکیزه زندگی کنی کاری مکن که خلعتِ پیری هم مانند خلعتِ جوانی به ناپاکیها آلوده گردد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خلعت شیب چو تشریف شباب آلوده",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پاک و صافی شو و از چاه طبیعت به در آی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "دل و جانت را از آلودگی ها پاک کن صاف و بی غش همچون آب زلال باش که از چاه به در می‌آید خود را از تعلّقات دنیوی آزاد کن که آب گل الود هیچ لطف و صفایی ندارد زلال و بی رنگ و بی ریا می‌باش تا بتوانی علاوه بر خود به پیرامونت نیز طراوت و تازگی و فیض ببخشی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که صفایی ندهد آب تراب‌آلوده",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گفتم ای جان جهان دفتر گل عیبی نیست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "(در پاسخ به مُغبچه ای که مرا سرزنش و نصیحت می کرد) گفتم: ای عزیزتر از همه ی جهانیان، اینها که گفتی و شنیدم درست، امّا ایرادی هم ندارد که در موسم بهار باده ی ناب بنوشی جرعه ای نیز به گلها بپاشی و اوراق گل را با شراب خیس کنی تا طرب انگیزتر و شاداب تر گردند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که شود فصل بهار از می ناب آلوده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "آشنایانِ رهِ عشق در این بحر عمیق",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "آنها که عشق را می شناسند و در طریق عشق قدم بر می‌دارند با عجایب و شگفتیهای عشق آشنایی دارند آنها به رغم آنکه در دریای بیکران علایق و وابستگیهای دنیوی فرو می روند لیکن به لطف قدرت عشق حتّا به اندازه ی مویی آلوده نمی‌شوند!"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "غرقه گشتند و نگشتند به آب آلوده",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گفت حافظ لغز و نکته به یاران مفروش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "مغبچه گفت: ای حافظ ختم کن اینقدر معمّا و نکات معنادار و کنایه آمیز به رخ دوستان خودمکش!حافظ دوباره به کنایه آهی از سر درد می‌کشد(البته به مزاح وشوخی) و می فرماید:سخنانت سرشار از لطایف و ظرایف است فریاد از لطف و محبّتِ کنایه دار و ملامت بار! امان از لطف و محبّت هایی که به سرزنش های مکدّر کننده آلوده هستند!"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آه از این لطف به انواع عتاب آلوده",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "Text": "آلوده و ناپاک"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 7,
+          "ConceptId": 1125
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 2,
+          "Misra": 0,
+          "ConceptId": 114
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 2,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 2,
+          "Misra": 1,
+          "WordStart": 9,
+          "WordEnd": 9
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 2,
+          "Misra": 2,
+          "WordStart": 7,
+          "WordEnd": 7
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 1126
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 500
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 3,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 3,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 2
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "روح با ارزش"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 3,
+          "Misra": 0,
+          "Text": "ذات روح"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 1127
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 1,
+          "WordEnd": 1,
+          "ConceptId": 1128
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 1129
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 1130
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 8,
+          "WordEnd": 8,
+          "ConceptId": 537
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 7,
+          "WordEnd": 7,
+          "ConceptId": 76
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 5,
+          "Misra": 2,
+          "WordStart": 4,
+          "WordEnd": 5,
+          "ConceptId": 1131
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 5,
+          "Misra": 0,
+          "ConceptId": 1132
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 20
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 65
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 4
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "Text": "معشوق و محبوب"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 5,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 11,
+          "CoupletIndex": 7,
+          "Misra": 1,
+          "WordStart": 1,
+          "WordEnd": 1
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "عارفان"
+        },
+        {
+          "SlotId": 12,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "Text": "شناگران"
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 8,
+      "DeviceId": 3,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 7,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "لغز و نکته به کسی فروختن"
+        },
+        {
+          "SlotId": 8,
+          "CoupletIndex": 8,
+          "Misra": 0,
+          "Text": "فضل فروشی کردن"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "Id": 2071,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۲۱",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۲۱",
+  "FullUrl": "/hafez/robaee2/sh21",
+  "RhymeLetters": "ارمگیر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این رباعی، شاعر از معشوق می‌خواهد که با زیبایی‌اش به دل خسته و رنجور او رحم کند و دلش را آزرده نکند. او به صوفی گوشزد می‌کند که چنانچه با ویژگی‌های خاصش نسبت به رندان و عشق آشناست، نباید نکات منفی را از آنها بگیرد و به او بی‌اعتنایی کند. شاعر ضمن ابراز عشق و دل‌تنگی، به واقعیت‌های زندگی و سختی‌های آن اشاره دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمگیر",
+      "PlainText": "عشق رخ یار بر من زار مگیر\r\nبر خسته دلان رند خمار مگیر\r\nصوفی چو تو رسم رهروان می دانی\r\nبر مردم رند نکته بسیار مگیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشقِ رخِ یار، بر منِ زار مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خسته‌دلانِ رندِ خَمّار مگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفی چو تو رسمِ رهروان می‌دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مَردمِ رند، نکته بسیار مگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشقِ رخِ یار، بر منِ زار مگیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به چهره‌ی محبوب، بر منِ رنجیده تأثیر نگذار و بر دل‌های خسته و شیدای دلدادگان سختگیری نکن."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر خسته‌دلانِ رندِ خَمّار مگیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صوفی چو تو رسمِ رهروان می‌دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای صوفی، تو که خود را پیرو راه و روش رهروان می‌دانی، در مورد مردان رند و آزاداندیش نکته‌سنجی‌های زیادی نکن."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر مَردمِ رند، نکته بسیار مگیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

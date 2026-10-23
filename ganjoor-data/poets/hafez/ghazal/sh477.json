@@ -1,0 +1,404 @@
+{
+  "Id": 2606,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۷۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۷۷",
+  "FullUrl": "/hafez/ghazal/sh477",
+  "RhymeLetters": "نی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شعر درباره دو یار است که در کنار هم از باده کهن و آرامش می‌نوشند و به زندگی در جهانی مملو از انجمن‌ها و جمع‌ها بی‌توجهی می‌کنند. شاعر از اهمیت قناعت و انتخاب صحیح در زندگی سخن می‌گوید و می‌افزاید که کسی که به دنیای فانی قناعت کرد، به آسانی گنج ارزشمندی را از دست می‌دهد. او دعوت می‌کند که این جلوه زندگی را با زهد و فسق حفظ کنیم و به زیبایی‌های آن توجه کنیم. در ادامه، شاعر به ناپایداری و تغییرات زندگی اشاره می‌کند و از وجود زیبایی‌ها در میان سختی‌ها سخن می‌گوید. در نهایت، حافظ بر لزوم صبر تأکید کرده و به حکمت و تدبیر در مواجهه با مشکلات زمانه اشاره می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نی",
+      "PlainText": "دو یار زیرک و از باده کهن دو منی\r\nفراغتی و کتابی و گوشه چمنی\r\nمن این مقام به دنیا و آخرت ندهم\r\nاگر چه در پی ام افتند هر دم انجمنی\r\nهر آن که کنج قناعت به گنج دنیا داد\r\nفروخت یوسف مصری به کمترین ثمنی\r\nبیا که رونق این کارخانه کم نشود\r\nبه زهد همچو تویی یا به فسق همچو منی\r\nز تندباد حوادث نمی توان دیدن\r\nدر این چمن که گلی بوده است یا سمنی\r\nببین در آینه جام نقش بندی غیب\r\nکه کس به یاد ندارد چنین عجب زمنی\r\nاز این سموم که بر طرف بوستان بگذشت\r\nعجب که بوی گلی هست و رنگ نسترنی\r\nبه صبر کوش تو ای دل که حق رها نکند\r\nچنین عزیز نگینی به دست اهرمنی\r\nمزاج دهر تبه شد در این بلا حافظ\r\nکجاست فکر حکیمی و رای برهمنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو یار زیرک و از بادهٔ کهن دو منی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفراغتی و کتابی و گوشهٔ چمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن این مقام به دنیا و آخرت ندهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر چه در پِی‌ام افتند هر دم انجمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آن که کنج قناعت به گنج دنیا داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروخت یوسف مصری به کمترین ثمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا که رونق این کارخانه کم نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زهدِ همچو تویی، یا به فسق همچو منی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تندباد حوادث نمی‌توان دیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر این چمن که گلی بوده است یا سَمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eببین در آینهٔ جام، نقش‌بندیِ غیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کس به یاد ندارد چنین عجب زَمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز این سَموم که بر طَرْف بوستان بگذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب که بوی گلی هست و رنگ نسترنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه صبر کوش تو ای دل که حق رها نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنین عزیز نگینی به دست اهرمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزاجِ دَهر تَبَه شد در این بلا حافظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجاست فکر حکیمی و رای برهمنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9,
+      "MetreId": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو یار زیرک و از بادهٔ کهن دو منی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو دوست عاقل داریم و بادهٔ قدیمی، در کنار هم آرامش و مطالعهٔ کتابی و نشستن در گوشه‌ای از چمن را تجربه می‌کنیم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فراغتی و کتابی و گوشهٔ چمنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من این مقام به دنیا و آخرت ندهم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ‌گاه این جایگاه را به دنیا و آخرت نخواهم داد، حتی اگر هر لحظه گروهی به دنبال من بیفتند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر چه در پِی‌ام افتند هر دم انجمنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر آن که کنج قناعت به گنج دنیا داد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هر کسی که به رضایت و قناعت از زندگی را به خاطر مال دنیا\u00A0 از دست داد، مانند کسی است که ارزش‌های بزرگ را به خاطر چیزهای کم و ناچیز از دست می‌دهد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فروخت یوسف مصری به کمترین ثمنی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بیا که رونق این کارخانه کم نشود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا تا این کارخانه همیشه پررونق باقی بماند، نه به زهد و تقوای تو که شاید فشار زیادی به ما بیاورد، و نه به فسق و نافرمانی من که می‌تواند مشکلاتی ایجاد کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به زهدِ همچو تویی، یا به فسق همچو منی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز تندباد حوادث نمی‌توان دیدن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیای پرفراز و نشیب، نمی‌توان به آسانی تشخیص داد که آیا در گذشته از گل‌ها و زیبایی‌ها بوده یا از علف‌های خشک و بی‌ارزش."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در این چمن که گلی بوده است یا سَمنی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ببین در آینهٔ جام، نقش‌بندیِ غیب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آینه جام نگاه کن و ببین که چه تصاویری از عالم غیب در آن نقش بسته است، که هیچ‌کس یادش نمی‌آید چنین زمان شگفت‌انگیزی وجود داشته باشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که کس به یاد ندارد چنین عجب زَمنی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از این سَموم که بر طَرْف بوستان بگذشت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این هوای آلوده‌ای که بر باغ می‌گذرد، عجیب است که هنوز عطری از گل‌ها و رنگ نسترنی به مشام می‌رسد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "عجب که بوی گلی هست و رنگ نسترنی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به صبر کوش تو ای دل که حق رها نکند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، سعی کن صبر را پیشه کنی، زیرا خداوند هرگز چنین جواهر ارزشمندی را به دست شیطان رها نخواهد کرد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چنین عزیز نگینی به دست اهرمنی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مزاجِ دَهر تَبَه شد در این بلا حافظ",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوران زندگی با این مشکل و بلای بزرگ دچار به هم ریختگی و تنش شده است. حافظ، کجاست که فکر و نظر یک حکیم یا یک اندیشمند را در این شرایط به کار گیرد؟"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کجاست فکر حکیمی و رای برهمنی؟",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ],
+  "LiteraryTags": [
+    {
+      "CoupletIndex": 0,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 0,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 0,
+          "Misra": 0,
+          "ConceptId": 36
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "ConceptId": 1211
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "ConceptId": 1212
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 1,
+          "Misra": 1,
+          "WordStart": 5,
+          "WordEnd": 5,
+          "ConceptId": 4
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 1,
+          "Misra": 0,
+          "ConceptId": 203
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 1,
+      "DeviceId": 6,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 13,
+          "CoupletIndex": 1,
+          "Misra": 0
+        },
+        {
+          "SlotId": 14,
+          "CoupletIndex": 1,
+          "Misra": 0
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 793
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 4,
+          "Misra": 1,
+          "WordStart": 2,
+          "WordEnd": 2,
+          "ConceptId": 1213
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 4,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 4,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 98
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 4,
+          "Misra": 0,
+          "ConceptId": 4
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 5,
+      "DeviceId": 1,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 1,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 4,
+          "WordEnd": 4,
+          "ConceptId": 417
+        },
+        {
+          "SlotId": 2,
+          "CoupletIndex": 5,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 224
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 6,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 6,
+          "Misra": 1,
+          "WordStart": 3,
+          "WordEnd": 3,
+          "ConceptId": 1214
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 6,
+          "Misra": 0,
+          "ConceptId": 512
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 2,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 5,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 6,
+          "WordEnd": 6,
+          "ConceptId": 1215
+        },
+        {
+          "SlotId": 6,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "ConceptId": 1216
+        }
+      ]
+    },
+    {
+      "CoupletIndex": 7,
+      "DeviceId": 4,
+      "Uncertain": false,
+      "Origin": "AcademicCorpus",
+      "SourceKey": "persian-literary-corpus-1.0.0 (MIT)",
+      "MachineGenerated": false,
+      "Parts": [
+        {
+          "SlotId": 9,
+          "CoupletIndex": 7,
+          "Misra": 2,
+          "WordStart": 3,
+          "WordEnd": 3
+        },
+        {
+          "SlotId": 10,
+          "CoupletIndex": 7,
+          "Misra": 0,
+          "ConceptId": 1217
+        }
+      ]
+    }
+  ]
+}

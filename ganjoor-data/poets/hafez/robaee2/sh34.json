@@ -1,0 +1,61 @@
+{
+  "Id": 2084,
+  "CatId": 26,
+  "Title": "رباعی شمارهٔ ۳۴",
+  "FullTitle": "حافظ » رباعیات » رباعی شمارهٔ ۳۴",
+  "FullUrl": "/hafez/robaee2/sh34",
+  "RhymeLetters": "نگمیباردازاو",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این رباعی به تأثیر چشمان محبوبش بر دل و روح خود اشاره می‌کند و به زیبایی و جاذبه‌ای که از آن می‌تراود، اشاره می‌نماید. او از افسوس و اندوه ناشی از رفتار سرد و زودگذر محبوب شکایت دارد و به احساس دل‌تنگی و رنجی که از این جدایی به او دست می‌دهد، اشاره می‌کند. در نهایت، حس غم و سنگینی در دلش را به تصویر می‌کشد که ناشی از این فاصله است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگمیباردازاو",
+      "PlainText": "چشمت که فسون و رنگ می بارد از او\r\nافسوس که تیر جنگ می بارد از او\r\nبس زود ملول گشتی از هم نفسان\r\nآه از دل تو که سنگ می بارد از او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت که فسون و رنگ می‌بارد از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسوس که تیر جنگ می‌بارد از او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس زود ملول گشتی از هم‌نفَسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه از دل تو که سنگ می‌بارد از او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2,
+      "MetreId": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمت که فسون و رنگ می‌بارد از او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمانت زیبایی و جاذبه خاصی دارند، اما افسوس که این جذابیت مانند تیری به سمت من می‌آید و برایم خطرناک است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسوس که تیر جنگ می‌بارد از او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس زود ملول گشتی از هم‌نفَسان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار زود از همراهان خود خسته شدی، ای کاش می‌دانستی که دل تو چقدر پر از درد و رنج است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه از دل تو که سنگ می‌بارد از او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}
